@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-14T08:17:07.965993Z",
-  "source_count": 1,
+  "updated_at": "2026-05-14T11:57:58.245538Z",
+  "source_count": 2,
   "digest": "",
   "items": [
     {
@@ -14,6 +14,19 @@
       "published_at": "2026-05-14T08:16:09.937100Z",
       "score": 6.0,
       "summary": "香港与内地个人跨境汇款制度，涉及资本流动与支付便利化",
+      "type": "政策动向"
+    },
+    {
+      "title": "GIC Annual Report 2024/25",
+      "url": "https://report.gic.com.sg/",
+      "institution": "GIC",
+      "source": "GIC (新加坡政府投资公司)",
+      "category": "sovereign",
+      "is_firsthand": true,
+      "country": "SG",
+      "published_at": "2026-05-14T11:57:11.641948Z",
+      "score": 5.0,
+      "summary": "新加坡主权财富基金发布2024/25年度报告，包含全球投资配置情况。",
       "type": "政策动向"
     }
   ]
