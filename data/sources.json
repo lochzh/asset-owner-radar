@@ -16,7 +16,7 @@
       "short": "GIC",
       "category": "sovereign",
       "type": "page",
-      "url": "https://www.gic.com.sg/news-and-resources/",
+      "url": "https://www.gic.com.sg/newsroom/all/",
       "is_firsthand": true,
       "country": "SG"
     },
@@ -25,7 +25,7 @@
       "short": "Temasek",
       "category": "sovereign",
       "type": "page",
-      "url": "https://www.temasek.com.sg/en/news-and-resources/news-room",
+      "url": "https://www.temasek.com.sg/en/news-and-resources",
       "is_firsthand": true,
       "country": "SG"
     },
@@ -48,11 +48,11 @@
       "country": "AE"
     },
     {
-      "name": "ADQ (阿布扎比ADQ)",
-      "short": "ADQ",
+      "name": "Abu Dhabi Investment Authority (ADIA)",
+      "short": "ADIA",
       "category": "sovereign",
       "type": "page",
-      "url": "https://www.adq.ae/news",
+      "url": "https://www.adia.ae/en/news",
       "is_firsthand": true,
       "country": "AE"
     },
@@ -61,18 +61,9 @@
       "short": "QIA",
       "category": "sovereign",
       "type": "page",
-      "url": "https://www.qia.qa/en/News/Pages/default.aspx",
+      "url": "https://www.qia.qa/en/newsroom/pages/default.aspx",
       "is_firsthand": true,
       "country": "QA"
-    },
-    {
-      "name": "China Investment Corporation (中投公司)",
-      "short": "CIC",
-      "category": "sovereign",
-      "type": "page",
-      "url": "http://www.china-inv.cn/chinainven/News/News.shtml",
-      "is_firsthand": true,
-      "country": "CN"
     },
     {
       "name": "CPP Investments (加拿大养老金)",
@@ -120,11 +111,11 @@
       "country": "JP"
     },
     {
-      "name": "National Pension Service (韩国NPS)",
-      "short": "NPS",
-      "category": "pension",
+      "name": "Korea Investment Corporation (KIC 韩国投资公社)",
+      "short": "KIC",
+      "category": "sovereign",
       "type": "page",
-      "url": "https://fund.nps.or.kr/jsppage/fund/mcs_e/mcs_e_03.jsp",
+      "url": "https://www.kic.kr/en/comm/board/list.do?bbsId=BBSMSTR_000000000048",
       "is_firsthand": true,
       "country": "KR"
     },
@@ -165,29 +156,11 @@
       "country": "US"
     },
     {
-      "name": "Nippon Life (日本生命)",
-      "short": "Nippon Life",
-      "category": "insurance",
-      "type": "page",
-      "url": "https://www.nissay.co.jp/english/news/",
-      "is_firsthand": true,
-      "country": "JP"
-    },
-    {
       "name": "People's Bank of China (中国人民银行)",
       "short": "PBOC",
       "category": "central_bank",
       "type": "page",
       "url": "http://www.pbc.gov.cn/en/3688110/3688172/index.html",
-      "is_firsthand": true,
-      "country": "CN"
-    },
-    {
-      "name": "State Administration of Foreign Exchange (外管局)",
-      "short": "SAFE",
-      "category": "central_bank",
-      "type": "page",
-      "url": "https://www.safe.gov.cn/en/2018/0928/1456.html",
       "is_firsthand": true,
       "country": "CN"
     },
@@ -243,15 +216,6 @@
       "type": "rss",
       "url": "https://www.bis.org/list/pressrelease/rss.xml",
       "is_firsthand": true,
-      "country": "INT"
-    },
-    {
-      "name": "Reuters China Markets",
-      "short": "Reuters",
-      "category": "sovereign",
-      "type": "rss",
-      "url": "https://www.reutersagency.com/feed/?best-sectors=business-finance&post_type=best",
-      "is_firsthand": false,
       "country": "INT"
     }
   ]
