@@ -1,0 +1,16 @@
+{
+  "name": "Asset Owner Radar",
+  "short_name": "AO Radar",
+  "description": "全球资产所有者情报雷达",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fafaf7",
+  "theme_color": "#1a1a1a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='32' fill='%231a1a1a'/%3E%3Ctext x='96' y='120' text-anchor='middle' font-size='80' font-weight='600' fill='%23fff' font-family='sans-serif'%3EAO%3C/text%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}

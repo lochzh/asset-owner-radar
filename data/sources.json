@@ -1,0 +1,258 @@
+{
+  "_comment": "信息源配置。type: rss = RSS订阅源, page = 网页抓取。category: sovereign/pension/insurance/central_bank",
+  "_comment2": "新增源只需在此添加，无需改代码。is_firsthand=true 表示是机构官方一手信息源。",
+  "sources": [
+    {
+      "name": "Norges Bank Investment Management (挪威主权基金)",
+      "short": "NBIM",
+      "category": "sovereign",
+      "type": "rss",
+      "url": "https://www.nbim.no/en/the-fund/news-list/_/jcr_content.feed",
+      "is_firsthand": true,
+      "country": "NO"
+    },
+    {
+      "name": "GIC (新加坡政府投资公司)",
+      "short": "GIC",
+      "category": "sovereign",
+      "type": "page",
+      "url": "https://www.gic.com.sg/news-and-resources/",
+      "is_firsthand": true,
+      "country": "SG"
+    },
+    {
+      "name": "Temasek (新加坡淡马锡)",
+      "short": "Temasek",
+      "category": "sovereign",
+      "type": "page",
+      "url": "https://www.temasek.com.sg/en/news-and-resources/news-room",
+      "is_firsthand": true,
+      "country": "SG"
+    },
+    {
+      "name": "Public Investment Fund (沙特PIF)",
+      "short": "PIF",
+      "category": "sovereign",
+      "type": "page",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/",
+      "is_firsthand": true,
+      "country": "SA"
+    },
+    {
+      "name": "Mubadala (穆巴达拉)",
+      "short": "Mubadala",
+      "category": "sovereign",
+      "type": "page",
+      "url": "https://www.mubadala.com/en/news",
+      "is_firsthand": true,
+      "country": "AE"
+    },
+    {
+      "name": "ADQ (阿布扎比ADQ)",
+      "short": "ADQ",
+      "category": "sovereign",
+      "type": "page",
+      "url": "https://www.adq.ae/news",
+      "is_firsthand": true,
+      "country": "AE"
+    },
+    {
+      "name": "Qatar Investment Authority (卡塔尔QIA)",
+      "short": "QIA",
+      "category": "sovereign",
+      "type": "page",
+      "url": "https://www.qia.qa/en/News/Pages/default.aspx",
+      "is_firsthand": true,
+      "country": "QA"
+    },
+    {
+      "name": "China Investment Corporation (中投公司)",
+      "short": "CIC",
+      "category": "sovereign",
+      "type": "page",
+      "url": "http://www.china-inv.cn/chinainven/News/News.shtml",
+      "is_firsthand": true,
+      "country": "CN"
+    },
+    {
+      "name": "CPP Investments (加拿大养老金)",
+      "short": "CPP",
+      "category": "pension",
+      "type": "page",
+      "url": "https://www.cppinvestments.com/newsroom/",
+      "is_firsthand": true,
+      "country": "CA"
+    },
+    {
+      "name": "CDPQ (魁北克储蓄投资)",
+      "short": "CDPQ",
+      "category": "pension",
+      "type": "page",
+      "url": "https://www.cdpq.com/en/news",
+      "is_firsthand": true,
+      "country": "CA"
+    },
+    {
+      "name": "Ontario Teachers' Pension Plan (安省教师退休基金)",
+      "short": "OTPP",
+      "category": "pension",
+      "type": "page",
+      "url": "https://www.otpp.com/en-ca/about-us/news-and-insights/",
+      "is_firsthand": true,
+      "country": "CA"
+    },
+    {
+      "name": "APG Asset Management (荷兰APG)",
+      "short": "APG",
+      "category": "pension",
+      "type": "page",
+      "url": "https://apg.nl/en/publication/",
+      "is_firsthand": true,
+      "country": "NL"
+    },
+    {
+      "name": "GPIF (日本政府养老金)",
+      "short": "GPIF",
+      "category": "pension",
+      "type": "page",
+      "url": "https://www.gpif.go.jp/en/topics/index.html",
+      "is_firsthand": true,
+      "country": "JP"
+    },
+    {
+      "name": "National Pension Service (韩国NPS)",
+      "short": "NPS",
+      "category": "pension",
+      "type": "page",
+      "url": "https://fund.nps.or.kr/jsppage/fund/mcs_e/mcs_e_03.jsp",
+      "is_firsthand": true,
+      "country": "KR"
+    },
+    {
+      "name": "Allianz Group (安联集团)",
+      "short": "Allianz",
+      "category": "insurance",
+      "type": "rss",
+      "url": "https://www.allianz.com/en/press/news.rss.xml",
+      "is_firsthand": true,
+      "country": "DE"
+    },
+    {
+      "name": "AXA Group (安盛集团)",
+      "short": "AXA",
+      "category": "insurance",
+      "type": "page",
+      "url": "https://www.axa.com/en/press/press-releases",
+      "is_firsthand": true,
+      "country": "FR"
+    },
+    {
+      "name": "Prudential Financial (保德信)",
+      "short": "Prudential",
+      "category": "insurance",
+      "type": "page",
+      "url": "https://news.prudential.com/all-news.htm",
+      "is_firsthand": true,
+      "country": "US"
+    },
+    {
+      "name": "MetLife (大都会人寿)",
+      "short": "MetLife",
+      "category": "insurance",
+      "type": "page",
+      "url": "https://www.metlife.com/about-us/newsroom/",
+      "is_firsthand": true,
+      "country": "US"
+    },
+    {
+      "name": "Nippon Life (日本生命)",
+      "short": "Nippon Life",
+      "category": "insurance",
+      "type": "page",
+      "url": "https://www.nissay.co.jp/english/news/",
+      "is_firsthand": true,
+      "country": "JP"
+    },
+    {
+      "name": "People's Bank of China (中国人民银行)",
+      "short": "PBOC",
+      "category": "central_bank",
+      "type": "page",
+      "url": "http://www.pbc.gov.cn/en/3688110/3688172/index.html",
+      "is_firsthand": true,
+      "country": "CN"
+    },
+    {
+      "name": "State Administration of Foreign Exchange (外管局)",
+      "short": "SAFE",
+      "category": "central_bank",
+      "type": "page",
+      "url": "https://www.safe.gov.cn/en/2018/0928/1456.html",
+      "is_firsthand": true,
+      "country": "CN"
+    },
+    {
+      "name": "Hong Kong Monetary Authority (香港金管局)",
+      "short": "HKMA",
+      "category": "central_bank",
+      "type": "page",
+      "url": "https://www.hkma.gov.hk/eng/news-and-media/press-releases/",
+      "is_firsthand": true,
+      "country": "HK"
+    },
+    {
+      "name": "Federal Reserve Press Releases (美联储)",
+      "short": "Fed",
+      "category": "central_bank",
+      "type": "rss",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "is_firsthand": true,
+      "country": "US"
+    },
+    {
+      "name": "European Central Bank (欧洲央行)",
+      "short": "ECB",
+      "category": "central_bank",
+      "type": "rss",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "is_firsthand": true,
+      "country": "EU"
+    },
+    {
+      "name": "Bank of Japan (日本央行)",
+      "short": "BOJ",
+      "category": "central_bank",
+      "type": "rss",
+      "url": "https://www.boj.or.jp/en/rss/whatsnew.xml",
+      "is_firsthand": true,
+      "country": "JP"
+    },
+    {
+      "name": "IMF News (国际货币基金组织)",
+      "short": "IMF",
+      "category": "central_bank",
+      "type": "rss",
+      "url": "https://www.imf.org/en/News/SearchNews?series=Press%20Release&dateFrom=&dateTo=&rss=true",
+      "is_firsthand": true,
+      "country": "INT"
+    },
+    {
+      "name": "BIS (国际清算银行)",
+      "short": "BIS",
+      "category": "central_bank",
+      "type": "rss",
+      "url": "https://www.bis.org/list/pressrelease/rss.xml",
+      "is_firsthand": true,
+      "country": "INT"
+    },
+    {
+      "name": "Reuters China Markets",
+      "short": "Reuters",
+      "category": "sovereign",
+      "type": "rss",
+      "url": "https://www.reutersagency.com/feed/?best-sectors=business-finance&post_type=best",
+      "is_firsthand": false,
+      "country": "INT"
+    }
+  ]
+}

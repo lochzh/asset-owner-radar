@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="全球资产所有者情报雷达 - 主权基金、养老金、保险集团、央行储备的中国相关动态">
+<title>Global Asset Owner Radar · 全球资产所有者情报雷达</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#1a1a1a">
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: #fafaf7;
+    color: #1a1a1a;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .container { max-width: 960px; margin: 0 auto; padding: 20px 16px 60px; }
+  header { padding: 24px 0 20px; border-bottom: 1px solid #e8e6df; margin-bottom: 24px; }
+  h1 { font-size: 22px; font-weight: 600; margin-bottom: 4px; }
+  .subtitle { font-size: 13px; color: #6b6b66; }
+  .status { display: inline-flex; align-items: center; gap: 6px; font-size: 12px; color: #6b6b66; margin-top: 8px; }
+  .status-dot { width: 6px; height: 6px; background: #1D9E75; border-radius: 50%; }
+
+  .digest {
+    background: #fff;
+    border: 1px solid #e8e6df;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 24px;
+  }
+  .digest h2 { font-size: 16px; font-weight: 600; margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+  .digest h2::before { content: ""; width: 3px; height: 16px; background: #BA7517; border-radius: 2px; }
+  .digest-content { font-size: 14px; color: #2a2a28; line-height: 1.75; }
+  .digest-content p { margin-bottom: 8px; }
+
+  .filters { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 20px; }
+  .chip {
+    font-size: 12px;
+    padding: 6px 12px;
+    border-radius: 999px;
+    background: #fff;
+    border: 1px solid #e0ddd5;
+    color: #5a5a55;
+    cursor: pointer;
+    user-select: none;
+    transition: all 0.15s;
+  }
+  .chip:hover { border-color: #b0aea5; }
+  .chip.active { background: #1a1a1a; color: #fff; border-color: #1a1a1a; font-weight: 500; }
+
+  .card {
+    background: #fff;
+    border: 1px solid #e8e6df;
+    border-left: 3px solid #888;
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    transition: border-color 0.15s;
+  }
+  .card:hover { border-color: #b0aea5; border-left-color: inherit; }
+  .card.tier-high { border-left-color: #BA7517; }
+  .card.tier-mid { border-left-color: #185FA5; }
+  .card.tier-low { border-left-color: #888780; }
+
+  .card-meta { display: flex; align-items: center; gap: 8px; margin-bottom: 6px; flex-wrap: wrap; }
+  .badge {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    font-weight: 500;
+  }
+  .badge-high { background: #FAEEDA; color: #854F0B; }
+  .badge-mid { background: #E6F1FB; color: #0C447C; }
+  .badge-low { background: #F1EFE8; color: #444441; }
+  .badge-firsthand { background: #E1F5EE; color: #0F6E56; font-size: 10px; }
+
+  .meta-text { font-size: 11px; color: #6b6b66; }
+  .card-title { font-size: 14px; font-weight: 500; margin-bottom: 4px; color: #1a1a1a; }
+  .card-summary { font-size: 13px; color: #4a4a47; line-height: 1.6; margin-bottom: 8px; }
+  .card-source { font-size: 11px; color: #8a8a85; }
+  .card-source a { color: #185FA5; text-decoration: none; }
+  .card-source a:hover { text-decoration: underline; }
+
+  .empty { text-align: center; padding: 40px 20px; color: #8a8a85; font-size: 14px; }
+  footer { margin-top: 40px; padding-top: 20px; border-top: 1px solid #e8e6df; font-size: 11px; color: #8a8a85; text-align: center; line-height: 1.7; }
+
+  @media (prefers-color-scheme: dark) {
+    body { background: #161613; color: #e8e6df; }
+    header { border-bottom-color: #2a2a26; }
+    .subtitle, .status, .meta-text { color: #9a9a92; }
+    .digest, .card, .chip { background: #1f1f1c; border-color: #2a2a26; }
+    .chip { color: #b0aea5; }
+    .chip:hover { border-color: #4a4a45; }
+    .chip.active { background: #e8e6df; color: #161613; border-color: #e8e6df; }
+    .card-title { color: #e8e6df; }
+    .card-summary { color: #c0bdb3; }
+    .digest-content { color: #d0cdc3; }
+    .digest h2 { color: #e8e6df; }
+    footer { border-top-color: #2a2a26; color: #6a6a65; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>全球资产所有者情报雷达</h1>
+    <p class="subtitle">Global Asset Owner Radar · 聚焦中国敞口 · 每日自动更新</p>
+    <div class="status">
+      <span class="status-dot"></span>
+      <span id="last-updated">加载中…</span>
+    </div>
+  </header>
+
+  <section class="digest" id="digest-section" style="display:none;">
+    <h2>今日精选</h2>
+    <div class="digest-content" id="digest-content"></div>
+  </section>
+
+  <div class="filters" id="filters">
+    <span class="chip active" data-filter="all">全部</span>
+    <span class="chip" data-filter="sovereign">主权基金</span>
+    <span class="chip" data-filter="pension">养老金</span>
+    <span class="chip" data-filter="insurance">保险集团</span>
+    <span class="chip" data-filter="central_bank">央行储备</span>
+    <span class="chip" data-filter="high">高优先级</span>
+  </div>
+
+  <div id="cards-container"></div>
+
+  <footer>
+    数据来源均为机构官方公告、监管披露及一手公开信息 · AI辅助摘要可能存在误差，请以原文为准<br>
+    本网站不提供投资建议，所有内容仅供参考 · 开源项目，无商业用途<br>
+    <span id="source-count"></span>
+  </footer>
+</div>
+
+<script>
+let allItems = [];
+let currentFilter = 'all';
+
+async function loadData() {
+  try {
+    const res = await fetch('data/latest.json?t=' + Date.now());
+    const data = await res.json();
+
+    document.getElementById('last-updated').textContent =
+      '最近更新 ' + new Date(data.updated_at).toLocaleString('zh-CN', { timeZone: 'Asia/Shanghai' });
+
+    if (data.digest) {
+      document.getElementById('digest-section').style.display = 'block';
+      document.getElementById('digest-content').innerHTML =
+        data.digest.split('\n').filter(p => p.trim()).map(p => '<p>' + escapeHtml(p) + '</p>').join('');
+    }
+
+    allItems = data.items || [];
+    document.getElementById('source-count').textContent =
+      '本期共收录 ' + allItems.length + ' 条情报 · 覆盖 ' + (data.source_count || '多家') + ' 家机构';
+
+    render();
+  } catch (e) {
+    document.getElementById('cards-container').innerHTML =
+      '<div class="empty">数据加载中，首次部署后约15分钟内会有数据。<br>请稍后刷新页面。</div>';
+    document.getElementById('last-updated').textContent = '等待首次数据生成';
+  }
+}
+
+function escapeHtml(s) {
+  const div = document.createElement('div');
+  div.textContent = s;
+  return div.innerHTML;
+}
+
+function tierClass(score) {
+  if (score >= 8) return 'high';
+  if (score >= 6) return 'mid';
+  return 'low';
+}
+
+function tierLabel(score) {
+  if (score >= 8) return '高优先级';
+  if (score >= 6) return '中等关注';
+  return '参考';
+}
+
+function render() {
+  const container = document.getElementById('cards-container');
+  let items = allItems;
+  if (currentFilter === 'high') {
+    items = items.filter(it => (it.score || 0) >= 8);
+  } else if (currentFilter !== 'all') {
+    items = items.filter(it => it.category === currentFilter);
+  }
+
+  if (items.length === 0) {
+    container.innerHTML = '<div class="empty">暂无符合筛选条件的情报</div>';
+    return;
+  }
+
+  container.innerHTML = items.map(it => {
+    const tier = tierClass(it.score || 0);
+    return `
+      <div class="card tier-${tier}">
+        <div class="card-meta">
+          <span class="badge badge-${tier}">${tierLabel(it.score || 0)} · ${(it.score || 0).toFixed(1)}</span>
+          ${it.is_firsthand ? '<span class="badge badge-firsthand">一手</span>' : ''}
+          <span class="meta-text">${escapeHtml(it.institution || '')}</span>
+          <span class="meta-text">· ${escapeHtml(it.type || '')} · ${formatTime(it.published_at)}</span>
+        </div>
+        <div class="card-title">${escapeHtml(it.title || '')}</div>
+        <div class="card-summary">${escapeHtml(it.summary || '')}</div>
+        <div class="card-source">
+          来源：${escapeHtml(it.source || '')}
+          ${it.url ? ` · <a href="${escapeHtml(it.url)}" target="_blank" rel="noopener">查看原文 ↗</a>` : ''}
+        </div>
+      </div>
+    `;
+  }).join('');
+}
+
+function formatTime(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  const now = new Date();
+  const diffH = (now - d) / 3600000;
+  if (diffH < 1) return Math.round(diffH * 60) + ' 分钟前';
+  if (diffH < 24) return Math.round(diffH) + ' 小时前';
+  if (diffH < 48) return '昨天';
+  return d.toLocaleDateString('zh-CN');
+}
+
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    currentFilter = chip.dataset.filter;
+    render();
+  });
+});
+
+loadData();
+setInterval(loadData, 5 * 60 * 1000);
+</script>
+</body>
+</html>

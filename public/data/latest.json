@@ -1,0 +1,6 @@
+{
+  "updated_at": "2026-05-14T00:00:00Z",
+  "source_count": 0,
+  "digest": "网站已部署完成，等待首次自动数据采集。GitHub Actions 将在每天北京时间早 6 点和下午 6 点自动运行抓取脚本，约 5-10 分钟后此处会显示首批情报。你也可以在仓库的 Actions 页面手动触发一次 Daily Harvest workflow 以立即生成数据。",
+  "items": []
+}
