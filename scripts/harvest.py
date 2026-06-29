@@ -5,16 +5,12 @@ Workflow:
 1. Load source list from data/sources.json
 2. For each source: fetch RSS feed or HTML page, extract recent items
 3. Deduplicate against previous run (data/seen.json keeps URL hashes)
-4. Send new items to Claude in batches for:
-   - China-relevance scoring (0-10)
-   - Chinese summary (<= 150 chars)
-   - Categorization (持仓变动/高管表态/政策动向/市场异动/其他)
-5. Filter: keep only score >= 5
-6. Generate daily digest from top items
-7. Write to public/data/latest.json
-8. Also append to public/data/archive/YYYY-MM-DD.json
-
-Designed to be robust: source failures are logged but don't break the run.
+4. Send new items to Claude in batches for China-relevance scoring + Chinese summary
+5. Filter: keep only score >= MIN_SCORE_TO_KEEP
+6. Mark items as 'seen' only AFTER successful AI processing (so failed runs can retry)
+7. Generate daily digest from top items
+8. Merge with previous latest.json items within LOOKBACK_DAYS window for accumulation
+9. Write to public/data/latest.json
 """
 
 import os
@@ -49,21 +45,22 @@ if not ANTHROPIC_API_KEY:
 
 client = Anthropic(api_key=ANTHROPIC_API_KEY)
 
-UA = "Mozilla/5.0 (compatible; AssetOwnerRadar/1.0; +https://github.com)"
+UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 HEADERS = {"User-Agent": UA, "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8"}
 
 MAX_ITEMS_PER_SOURCE = 8
-LOOKBACK_DAYS = 7
-MAX_TOTAL_ITEMS = 200
-MIN_SCORE_TO_KEEP = 5.0
-TOP_N_FINAL = 60
+LOOKBACK_DAYS = 30
+MAX_TOTAL_ITEMS = 250
+MIN_SCORE_TO_KEEP = 3.5
+TOP_N_FINAL = 100
+DIGEST_MIN_SCORE = 5.0
 
 
-def url_hash(u: str) -> str:
+def url_hash(u):
     return hashlib.sha1(u.encode("utf-8")).hexdigest()[:16]
 
 
-def load_json(p: Path, default):
+def load_json(p, default):
     if p.exists():
         try:
             return json.loads(p.read_text(encoding="utf-8"))
@@ -72,12 +69,11 @@ def load_json(p: Path, default):
     return default
 
 
-def save_json(p: Path, data):
+def save_json(p, data):
     p.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
 def fetch_rss(source):
-    """Parse an RSS/Atom feed, return list of {title, url, summary, published_at}."""
     items = []
     try:
         feed = feedparser.parse(source["url"])
@@ -99,7 +95,6 @@ def fetch_rss(source):
 
 
 def fetch_page(source):
-    """Scrape a news/press page. Look for article-like links with titles."""
     items = []
     try:
         r = requests.get(source["url"], headers=HEADERS, timeout=20)
@@ -141,13 +136,12 @@ def fetch_page(source):
 
 
 def harvest_all():
-    """Fetch from every source, return raw items list."""
+    """Fetch from every source. Does NOT mark anything as seen — caller does that after AI processing succeeds."""
     sources = load_json(SOURCES_FILE, {}).get("sources", [])
     seen = load_json(SEEN_FILE, {})
     cutoff = dt.datetime.utcnow() - dt.timedelta(days=LOOKBACK_DAYS)
 
     new_items = []
-    fresh_seen = dict(seen)
 
     for s in sources:
         print(f"  fetching {s['short']} ({s['type']})...")
@@ -166,28 +160,24 @@ def harvest_all():
             except Exception:
                 pass
 
+            it["url_hash"] = uh
             it["source_short"] = s["short"]
             it["source_name"] = s["name"]
             it["category"] = s["category"]
             it["is_firsthand"] = s.get("is_firsthand", False)
             it["country"] = s.get("country", "")
             new_items.append(it)
-            fresh_seen[uh] = it["published_at"]
 
         time.sleep(0.5)
-
-    cutoff_seen = (dt.datetime.utcnow() - dt.timedelta(days=60)).isoformat()
-    fresh_seen = {k: v for k, v in fresh_seen.items() if v > cutoff_seen}
-    save_json(SEEN_FILE, fresh_seen)
 
     print(f"  total new items collected: {len(new_items)}")
     return new_items[:MAX_TOTAL_ITEMS]
 
 
 def ai_process_batch(items_batch):
-    """Send a batch of items to Claude, get back enriched results."""
+    """Returns (enriched_results, processed_hashes). processed_hashes covers every item that AI returned a response for, so we don't re-process next time."""
     if not items_batch:
-        return []
+        return [], []
 
     items_for_prompt = [
         {
@@ -200,25 +190,30 @@ def ai_process_batch(items_batch):
         for i, it in enumerate(items_batch)
     ]
 
-    prompt = f"""You are an investment intelligence analyst at China Life Asset Management. Analyze the following news items about global Asset Owners (sovereign wealth funds, pensions, insurers, central banks). For each item, evaluate its relevance to China-investment topics.
-
-For each item, return:
-- "id": same as input
-- "score": China-relevance score 0-10, where:
-  * 9-10 = directly about institution's China allocation, holdings, or strategy
-  * 7-8 = institution discussing emerging markets / Asia / specific Chinese assets
-  * 5-6 = global allocation news that materially affects China exposure
-  * 3-4 = tangential (e.g. macro views that mention China)
-  * 0-2 = irrelevant to China investing
-- "summary": 80-130 character Chinese summary (简体中文), neutral tone, factual. Do NOT copy original wording — paraphrase entirely.
-- "type": one of "持仓变动" / "高管表态" / "政策动向" / "市场异动" / "其他"
-- "skip": true if score < 5 OR title looks like junk (cookie notice, sitemap, generic page)
-
-Return a JSON array. No markdown, no commentary, just the JSON.
-
-Input items:
-{json.dumps(items_for_prompt, ensure_ascii=False, indent=2)}
-"""
+    items_json = json.dumps(items_for_prompt, ensure_ascii=False, indent=2)
+    prompt = (
+        "You are an investment intelligence analyst at China Life Asset Management. "
+        "Analyze news items about global Asset Owners (sovereign wealth funds, pensions, insurers, central banks).\n\n"
+        "Score each item 0-10 for relevance to a Chinese institutional investor's perspective. Be GENEROUS — "
+        "we want broad market intelligence, not just direct China mentions:\n\n"
+        "* 8-10: Directly about institution's China allocation, Chinese assets, China strategy, Hong Kong, or specific Chinese sectors\n"
+        "* 6-7: Asia-Pacific, emerging markets, RMB, Asian equities/credit, or institutional moves with clear Asia/China implications\n"
+        "* 4-5: Global allocation strategy, portfolio rebalancing, EM/DM rotation, macro views, geopolitics, central bank policy — "
+        "anything that could materially shape capital flows including to China\n"
+        "* 2-3: Generic institutional news (leadership changes, governance, sustainability) at systemically important asset owners\n"
+        "* 0-1: Clearly irrelevant (local administrative news, philanthropy without investment angle, cookie/navigation/junk)\n\n"
+        "When uncertain, score HIGHER. Chinese institutional investors track the global allocation context broadly. "
+        "A major sovereign fund discussing tech investment strategy, even without mentioning China, is signal.\n\n"
+        "For each item return JSON with:\n"
+        "- \"id\": same as input\n"
+        "- \"score\": float 0-10\n"
+        "- \"summary\": 80-130 character Chinese summary (简体中文), neutral and factual. PARAPHRASE entirely.\n"
+        "- \"type\": one of \"持仓变动\" / \"高管表态\" / \"政策动向\" / \"市场异动\" / \"其他\"\n"
+        "- \"skip\": true ONLY if title is clear junk (cookie banner, navigation, sitemap, generic page label). "
+        "Do NOT skip items just because they have low China-relevance, give them a low score instead.\n\n"
+        "Return a JSON array. No markdown, no commentary, just the JSON array.\n\n"
+        "Input items:\n" + items_json
+    )
 
     try:
         resp = client.messages.create(
@@ -227,21 +222,23 @@ Input items:
             messages=[{"role": "user", "content": prompt}],
         )
         text = resp.content[0].text.strip()
-        if text.startswith("```"):
-            text = text.split("```")[1]
+        if text.startswith("\`\`\`"):
+            text = text.split("\`\`\`")[1]
             if text.startswith("json"):
                 text = text[4:]
             text = text.strip()
 
         results = json.loads(text)
         enriched = []
+        processed_hashes = []
         for r in results:
-            if r.get("skip"):
-                continue
             idx = r.get("id")
             if idx is None or idx >= len(items_batch):
                 continue
             base = items_batch[idx]
+            processed_hashes.append((base["url_hash"], base["published_at"]))
+            if r.get("skip"):
+                continue
             enriched.append({
                 "title": base["title"],
                 "url": base["url"],
@@ -255,14 +252,13 @@ Input items:
                 "summary": r.get("summary", "")[:300],
                 "type": r.get("type", "其他"),
             })
-        return enriched
+        return enriched, processed_hashes
     except Exception as ex:
         print(f"WARN: AI processing failed for batch: {ex}", file=sys.stderr)
-        return []
+        return [], []
 
 
 def ai_generate_digest(top_items):
-    """Generate a daily digest paragraph from top items."""
     if not top_items:
         return ""
 
@@ -271,19 +267,18 @@ def ai_generate_digest(top_items):
         for it in top_items[:15]
     ]
 
-    prompt = f"""你是国寿资产的研究员。基于以下今日全球资产所有者动态，撰写一段 200-300 字的"今日要闻"摘要，面向投资同事。
-
-要求:
-- 用中文，简体
-- 按重要性组织，不是简单罗列
-- 突出和中国投资相关的关键变化或观点
-- 保持客观中立，不做投资建议
-- 自然分段，2-4 段
-- 不要 markdown 格式，不要标题，纯段落
-
-今日动态:
-{json.dumps(digest_input, ensure_ascii=False, indent=2)}
-"""
+    items_json = json.dumps(digest_input, ensure_ascii=False, indent=2)
+    prompt = (
+        "你是国寿资产的研究员。基于以下近期全球资产所有者动态，撰写一段 200-300 字的\"近期要闻\"摘要，面向投资同事。\n\n"
+        "要求:\n"
+        "- 用中文，简体\n"
+        "- 按重要性组织，不是简单罗列\n"
+        "- 突出和中国投资、亚洲、新兴市场相关的关键变化或观点\n"
+        "- 保持客观中立，不做投资建议\n"
+        "- 自然分段，2-4 段\n"
+        "- 不要 markdown 格式，不要标题，纯段落\n\n"
+        "近期动态:\n" + items_json
+    )
 
     try:
         resp = client.messages.create(
@@ -300,50 +295,57 @@ def ai_generate_digest(top_items):
 def main():
     print("=== Asset Owner Radar — harvest start ===")
     print(f"  timestamp: {dt.datetime.utcnow().isoformat()}Z")
+    print(f"  LOOKBACK_DAYS={LOOKBACK_DAYS}, MIN_SCORE_TO_KEEP={MIN_SCORE_TO_KEEP}")
 
     raw_items = harvest_all()
-    if not raw_items:
-        print("  no new items this run.")
-        existing = load_json(LATEST_FILE, None)
-        if existing:
-            existing["updated_at"] = dt.datetime.utcnow().isoformat() + "Z"
-            save_json(LATEST_FILE, existing)
-        return
 
-    print(f"=== AI processing {len(raw_items)} items ===")
     processed = []
-    BATCH = 20
-    for i in range(0, len(raw_items), BATCH):
-        batch = raw_items[i:i + BATCH]
-        print(f"  batch {i // BATCH + 1}/{(len(raw_items) + BATCH - 1) // BATCH}...")
-        processed.extend(ai_process_batch(batch))
-        time.sleep(1)
+    successfully_processed_hashes = []
+    if raw_items:
+        print(f"=== AI processing {len(raw_items)} items ===")
+        BATCH = 20
+        for i in range(0, len(raw_items), BATCH):
+            batch = raw_items[i:i + BATCH]
+            print(f"  batch {i // BATCH + 1}/{(len(raw_items) + BATCH - 1) // BATCH}...")
+            enriched, hashes = ai_process_batch(batch)
+            processed.extend(enriched)
+            successfully_processed_hashes.extend(hashes)
+            time.sleep(1)
+
+        seen = load_json(SEEN_FILE, {})
+        for uh, pub_at in successfully_processed_hashes:
+            seen[uh] = pub_at
+        cutoff_seen = (dt.datetime.utcnow() - dt.timedelta(days=90)).isoformat()
+        seen = {k: v for k, v in seen.items() if v > cutoff_seen}
+        save_json(SEEN_FILE, seen)
+        print(f"  seen.json updated: {len(seen)} URLs tracked")
 
     processed = [p for p in processed if p["score"] >= MIN_SCORE_TO_KEEP]
-    processed.sort(key=lambda x: (x["score"], x["published_at"]), reverse=True)
-    processed = processed[:TOP_N_FINAL]
-
-    print(f"=== {len(processed)} items kept after scoring ===")
+    print(f"=== {len(processed)} new items kept after scoring ===")
 
     prev = load_json(LATEST_FILE, {"items": []})
     prev_items = prev.get("items", [])
-    prev_urls = {it["url"] for it in prev_items}
+    print(f"  previous run had {len(prev_items)} items")
 
     merged = list(processed)
+    existing_urls = {p["url"] for p in merged}
+    keep_cutoff = dt.datetime.utcnow() - dt.timedelta(days=LOOKBACK_DAYS)
     for it in prev_items:
-        if it["url"] not in {p["url"] for p in merged}:
-            try:
-                pub = dt.datetime.fromisoformat(it["published_at"].replace("Z", ""))
-                if pub > dt.datetime.utcnow() - dt.timedelta(days=LOOKBACK_DAYS):
-                    merged.append(it)
-            except Exception:
-                pass
+        if it["url"] in existing_urls:
+            continue
+        try:
+            pub = dt.datetime.fromisoformat(it["published_at"].replace("Z", ""))
+            if pub > keep_cutoff:
+                merged.append(it)
+        except Exception:
+            pass
 
     merged.sort(key=lambda x: (x["score"], x["published_at"]), reverse=True)
     merged = merged[:TOP_N_FINAL]
 
+    print(f"  merged total: {len(merged)} items")
     print("=== generating daily digest ===")
-    digest = ai_generate_digest([m for m in merged if m["score"] >= 7])
+    digest = ai_generate_digest([m for m in merged if m["score"] >= DIGEST_MIN_SCORE])
 
     output = {
         "updated_at": dt.datetime.utcnow().isoformat() + "Z",
