@@ -1,19 +1,9 @@
 """
 Asset Owner Radar — daily harvester.
-
-Workflow:
-1. Load source list from data/sources.json
-2. For each source: fetch RSS feed or HTML page, extract recent items
-3. Deduplicate against previous run (data/seen.json keeps URL hashes)
-4. Send new items to Claude in batches for China-relevance scoring + Chinese summary
-5. Filter: keep only score >= MIN_SCORE_TO_KEEP
-6. Mark items as 'seen' only AFTER successful AI processing (so failed runs can retry)
-7. Generate daily digest from top items
-8. Merge with previous latest.json items within LOOKBACK_DAYS window for accumulation
-9. Write to public/data/latest.json
 """
 
 import os
+import re
 import sys
 import json
 import time
@@ -100,7 +90,6 @@ def fetch_page(source):
         r = requests.get(source["url"], headers=HEADERS, timeout=20)
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
-
         candidates = []
         for a in soup.find_all("a", href=True):
             txt = " ".join(a.get_text(" ", strip=True).split())
@@ -116,7 +105,6 @@ def fetch_page(source):
             if any(b in lower for b in ["cookie", "subscribe", "login", "privacy policy", "terms of use", "sitemap"]):
                 continue
             candidates.append({"title": txt, "url": href})
-
         seen_urls = set()
         for c in candidates:
             if c["url"] in seen_urls:
@@ -136,17 +124,13 @@ def fetch_page(source):
 
 
 def harvest_all():
-    """Fetch from every source. Does NOT mark anything as seen — caller does that after AI processing succeeds."""
     sources = load_json(SOURCES_FILE, {}).get("sources", [])
     seen = load_json(SEEN_FILE, {})
     cutoff = dt.datetime.utcnow() - dt.timedelta(days=LOOKBACK_DAYS)
-
     new_items = []
-
     for s in sources:
         print(f"  fetching {s['short']} ({s['type']})...")
         items = fetch_rss(s) if s["type"] == "rss" else fetch_page(s)
-
         for it in items:
             if not it.get("url") or not it.get("title"):
                 continue
@@ -159,7 +143,6 @@ def harvest_all():
                     continue
             except Exception:
                 pass
-
             it["url_hash"] = uh
             it["source_short"] = s["short"]
             it["source_name"] = s["name"]
@@ -167,18 +150,23 @@ def harvest_all():
             it["is_firsthand"] = s.get("is_firsthand", False)
             it["country"] = s.get("country", "")
             new_items.append(it)
-
         time.sleep(0.5)
-
     print(f"  total new items collected: {len(new_items)}")
     return new_items[:MAX_TOTAL_ITEMS]
 
 
+def extract_json_array(text):
+    """Robustly extract a JSON array from model output, ignoring any markdown fences or prose."""
+    text = text.strip()
+    m = re.search(r"\[[\s\S]*\]", text)
+    if m:
+        return m.group(0)
+    return text
+
+
 def ai_process_batch(items_batch):
-    """Returns (enriched_results, processed_hashes). processed_hashes covers every item that AI returned a response for, so we don't re-process next time."""
     if not items_batch:
         return [], []
-
     items_for_prompt = [
         {
             "id": i,
@@ -189,7 +177,6 @@ def ai_process_batch(items_batch):
         }
         for i, it in enumerate(items_batch)
     ]
-
     items_json = json.dumps(items_for_prompt, ensure_ascii=False, indent=2)
     prompt = (
         "You are an investment intelligence analyst at China Life Asset Management. "
@@ -200,34 +187,23 @@ def ai_process_batch(items_batch):
         "* 6-7: Asia-Pacific, emerging markets, RMB, Asian equities/credit, or institutional moves with clear Asia/China implications\n"
         "* 4-5: Global allocation strategy, portfolio rebalancing, EM/DM rotation, macro views, geopolitics, central bank policy — "
         "anything that could materially shape capital flows including to China\n"
-        "* 2-3: Generic institutional news (leadership changes, governance, sustainability) at systemically important asset owners\n"
+        "* 2-3: Generic institutional news (leadership, governance, sustainability) at systemically important asset owners\n"
         "* 0-1: Clearly irrelevant (local administrative news, philanthropy without investment angle, cookie/navigation/junk)\n\n"
         "When uncertain, score HIGHER. Chinese institutional investors track the global allocation context broadly. "
         "A major sovereign fund discussing tech investment strategy, even without mentioning China, is signal.\n\n"
-        "For each item return JSON with:\n"
-        "- \"id\": same as input\n"
-        "- \"score\": float 0-10\n"
-        "- \"summary\": 80-130 character Chinese summary (简体中文), neutral and factual. PARAPHRASE entirely.\n"
-        "- \"type\": one of \"持仓变动\" / \"高管表态\" / \"政策动向\" / \"市场异动\" / \"其他\"\n"
-        "- \"skip\": true ONLY if title is clear junk (cookie banner, navigation, sitemap, generic page label). "
-        "Do NOT skip items just because they have low China-relevance, give them a low score instead.\n\n"
-        "Return a JSON array. No markdown, no commentary, just the JSON array.\n\n"
+        "For each item return JSON with these keys: id, score (0-10 float), summary (80-130 char 简体中文 paraphrase), "
+        "type (one of: 持仓变动, 高管表态, 政策动向, 市场异动, 其他), skip (true ONLY for clear junk like cookie banners, navigation, sitemaps).\n\n"
+        "Return ONLY a JSON array, no markdown code fences, no commentary.\n\n"
         "Input items:\n" + items_json
     )
-
     try:
         resp = client.messages.create(
             model="claude-haiku-4-5",
             max_tokens=8000,
             messages=[{"role": "user", "content": prompt}],
         )
-        text = resp.content[0].text.strip()
-        if text.startswith("\`\`\`"):
-            text = text.split("\`\`\`")[1]
-            if text.startswith("json"):
-                text = text[4:]
-            text = text.strip()
-
+        raw_text = resp.content[0].text
+        text = extract_json_array(raw_text)
         results = json.loads(text)
         enriched = []
         processed_hashes = []
@@ -255,31 +231,29 @@ def ai_process_batch(items_batch):
         return enriched, processed_hashes
     except Exception as ex:
         print(f"WARN: AI processing failed for batch: {ex}", file=sys.stderr)
+        try:
+            print(f"  first 200 chars of response: {raw_text[:200] if 'raw_text' in dir() else 'no response'}", file=sys.stderr)
+        except Exception:
+            pass
         return [], []
 
 
 def ai_generate_digest(top_items):
     if not top_items:
         return ""
-
     digest_input = [
         {"机构": it["institution"], "类型": it["type"], "摘要": it["summary"]}
         for it in top_items[:15]
     ]
-
     items_json = json.dumps(digest_input, ensure_ascii=False, indent=2)
     prompt = (
-        "你是国寿资产的研究员。基于以下近期全球资产所有者动态，撰写一段 200-300 字的\"近期要闻\"摘要，面向投资同事。\n\n"
-        "要求:\n"
-        "- 用中文，简体\n"
-        "- 按重要性组织，不是简单罗列\n"
+        "你是国寿资产的研究员。基于以下近期全球资产所有者动态，撰写一段 200-300 字的近期要闻摘要，面向投资同事。\n\n"
+        "要求:\n- 用中文，简体\n- 按重要性组织，不是简单罗列\n"
         "- 突出和中国投资、亚洲、新兴市场相关的关键变化或观点\n"
-        "- 保持客观中立，不做投资建议\n"
-        "- 自然分段，2-4 段\n"
+        "- 保持客观中立，不做投资建议\n- 自然分段，2-4 段\n"
         "- 不要 markdown 格式，不要标题，纯段落\n\n"
         "近期动态:\n" + items_json
     )
-
     try:
         resp = client.messages.create(
             model="claude-sonnet-4-6",
@@ -296,9 +270,7 @@ def main():
     print("=== Asset Owner Radar — harvest start ===")
     print(f"  timestamp: {dt.datetime.utcnow().isoformat()}Z")
     print(f"  LOOKBACK_DAYS={LOOKBACK_DAYS}, MIN_SCORE_TO_KEEP={MIN_SCORE_TO_KEEP}")
-
     raw_items = harvest_all()
-
     processed = []
     successfully_processed_hashes = []
     if raw_items:
@@ -311,7 +283,6 @@ def main():
             processed.extend(enriched)
             successfully_processed_hashes.extend(hashes)
             time.sleep(1)
-
         seen = load_json(SEEN_FILE, {})
         for uh, pub_at in successfully_processed_hashes:
             seen[uh] = pub_at
@@ -319,14 +290,11 @@ def main():
         seen = {k: v for k, v in seen.items() if v > cutoff_seen}
         save_json(SEEN_FILE, seen)
         print(f"  seen.json updated: {len(seen)} URLs tracked")
-
     processed = [p for p in processed if p["score"] >= MIN_SCORE_TO_KEEP]
     print(f"=== {len(processed)} new items kept after scoring ===")
-
     prev = load_json(LATEST_FILE, {"items": []})
     prev_items = prev.get("items", [])
     print(f"  previous run had {len(prev_items)} items")
-
     merged = list(processed)
     existing_urls = {p["url"] for p in merged}
     keep_cutoff = dt.datetime.utcnow() - dt.timedelta(days=LOOKBACK_DAYS)
@@ -339,25 +307,20 @@ def main():
                 merged.append(it)
         except Exception:
             pass
-
     merged.sort(key=lambda x: (x["score"], x["published_at"]), reverse=True)
     merged = merged[:TOP_N_FINAL]
-
     print(f"  merged total: {len(merged)} items")
     print("=== generating daily digest ===")
     digest = ai_generate_digest([m for m in merged if m["score"] >= DIGEST_MIN_SCORE])
-
     output = {
         "updated_at": dt.datetime.utcnow().isoformat() + "Z",
         "source_count": len(set(it["institution"] for it in merged)),
         "digest": digest,
         "items": merged,
     }
-
     save_json(LATEST_FILE, output)
     today = dt.date.today().isoformat()
     save_json(ARCHIVE_DIR / f"{today}.json", output)
-
     print(f"=== done. {len(merged)} items written to {LATEST_FILE} ===")
 
 
