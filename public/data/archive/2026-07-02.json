@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-02T12:13:16.041306Z",
+  "updated_at": "2026-07-02T23:08:01.692495Z",
   "source_count": 11,
-  "digest": "近期全球资产所有者动态中，中国货币政策信号最为密集。人民银行在公开市场操作、逆回购及国债交易方面持续发力，货币政策委员会会议亦就流动性管理方向作出明确表态，整体指向维护资金面平稳运行。结合央行金融市场发展报告释放的结构性信号，国内债券市场及短端利率走势值得持续跟踪。与此同时，香港金管局更新港澳个人跨境汇款规则，并推进快速支付系统建设，在资本流动监管与金融基础设施两个层面均有新进展，香港作为离岸人民币核心枢纽的功能定位进一步强化。\n\n在主权财富基金动向方面，新加坡GIC近期动作尤为活跃，连续参与Anthropic H轮（估值965亿美元）及Ramp F轮融资，显示其对人工智能及科技基础设施赛道的战略性布局持续深化。与此同时，GIC联合Brookfield以67亿澳元收购澳大利亚仓储资产，在亚太实物资产领域形成多元化配置组合。卡塔尔投资局亚太顾问委员会的相关动态亦值得关注，或预示中东主权资本对亚太区域的配置兴趣进一步上升。\n\n日本央行最新日债持仓数据同步披露，在日本货币政策正常化进程持续推进的背景下，其资产负债表变化对亚洲区域资本流动及利率联动效应仍需保持关注。",
+  "digest": "近期全球资产所有者动态中，中国央行政策操作最为密集，值得重点关注。人民银行近期连续发布逆回购操作、公开市场业务及国债交易相关公告，显示当局正通过多种工具主动调节市场流动性；货币政策委员会召开季度例会，外界普遍关注其对后续政策取向的定调。整体来看，央行操作频率偏高，资金面管理意图明显，短端利率走势及长债市场仍需持续跟踪。\n\n在香港及跨境资金流动方面，香港金管局近期涉及港澳个人跨境汇款规则的政策更新，直接关系中港两地资本流动管理框架；快速支付系统的持续完善亦在提升香港作为离岸人民币枢纽的基础设施能效。上述举措共同强化了香港在人民币国际化进程中的结构性角色。\n\n主权基金与大型机构的资产配置动向同样值得关注。新加坡GIC近期动作频繁：参与Anthropic H轮融资（企业估值达965亿美元）及Ramp F轮融资，显示其在AI及科技基础设施领域持续加码；同时联合Brookfield以约67亿澳元收购澳洲仓储资产，体现亚太实物资产配置的持续推进。卡塔尔投资局亚太顾问委员会的相关动态，亦表明中东主权资本对亚太区域的战略关注度维持高位。此外，日本央行日债持仓数据持续受市场审视，其政策调整路径对亚洲利率环境具有外溢影响，需保持跟踪。",
   "items": [
     {
       "title": "Announcement on Government Bond Transactions",
@@ -355,6 +355,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Piero Cipollone: The digital transformation of money, payments and finance",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-07-02T17:55:00Z",
+      "score": 4.5,
+      "summary": "欧洲央行官员探讨数字货币和支付体系转变,关乎全球金融基础设施和RMB国际化竞争",
+      "type": "政策动向"
+    },
+    {
       "title": "Frank Elderson: The green transition – benefits and barriers",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702~49c4f8e9a6.en.html",
       "institution": "ECB",
@@ -509,6 +522,19 @@
       "score": 4.5,
       "summary": "美联储要求稳定币发行人建立客户识别程序，涉及数字资产监管框架",
       "type": "政策动向"
+    },
+    {
+      "title": "Christine Lagarde: Interview with Les Échos",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-07-02T21:00:00Z",
+      "score": 4.0,
+      "summary": "欧洲央行行长接受采访,预期讨论欧元区政策立场和经济前景,影响全球资本配置",
+      "type": "高管表态"
     },
     {
       "title": "Monetary Base (June)",
