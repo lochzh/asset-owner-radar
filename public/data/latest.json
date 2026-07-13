@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-13T12:35:56.855225Z",
+  "updated_at": "2026-07-13T22:56:29.236285Z",
   "source_count": 12,
-  "digest": "近期全球主要央行及主权投资机构动向较为密集，中国货币政策信号尤为值得关注。人民银行近期密集发布公开市场操作及逆回购公告，持续通过流动性工具调节市场资金面，同时货币政策委员会召开例会，结合金融市场发展报告释放的结构性信号，整体显示当前国内流动性管理仍保持积极基调。此外，央行国债交易操作的推进，亦对长端利率走势具有一定引导意义，需持续跟踪其对债券市场定价的影响。\n\n在跨境资本流动层面，香港金管局近期就港澳个人跨境汇款规则作出调整，直接关系中港资本流动管理框架，值得结合离岸人民币市场动态一并观察。美联储6月议息会议纪要亦于近期公布，其对利率前景及经济形势的最新评估，将持续传导至全球资本流向和人民币汇率预期，需关注后续对新兴市场资产配置的潜在影响。\n\n主权及大型机构投资者方面，日本GPIF公布2025财年投资业绩及截至2026年3月的最新持仓结构，其在全球股债及另类资产上的配置变化，对市场具有重要的风向参考价值。新加坡GIC参与Anthropic H轮融资，以9650亿美元估值入局人工智能头部标的，反映顶级主权基金在科技领域的战略布局持续深化。卡塔尔投资局亚太顾问委员会的相关动态，则显示中东主权资本对亚太区域的关注度仍在提升。",
+  "digest": "近期全球资产所有者动态中，中国货币政策信号最为密集，值得重点关注。人民银行近期密集发布公开市场操作、逆回购及国债交易相关公告，并召开货币政策委员会季度例会，整体呈现出积极维护市场流动性、管理长端利率预期的政策取向。与此同时，美联储6月议息会议纪要披露，市场将重点研判其对降息节奏的表态，这直接牵动全球资本流向及人民币汇率走势，对国内债券及外资配置行为影响不容忽视。\n\n在亚洲主权及养老金机构动态方面，日本GPIF公布了截至2026年3月的最新资产持仓结构及2025财年投资业绩，作为全球规模最大的养老基金，其股债比例及跨境配置调整方向历来对全球资金面具有风向标意义，具体数据值得深入拆解。新加坡GIC参与Anthropic H轮融资，估值高达9650亿美元，显示主权财富基金对AI头部资产的配置意愿持续强化。卡塔尔投资局（QIA）亚太顾问委员会的相关动态，亦表明中东主权资本对亚太区域的战略关注度在提升。\n\n香港方面，金管局在跨境汇款规则及快速支付系统上的最新进展，涉及中港资本流动机制与金融基础设施完善，有助于进一步巩固香港作为核心离岸人民币枢纽的功能定位，后续政策细节值得持续跟踪。",
   "items": [
     {
       "title": "Announcement on Government Bond Transactions",
@@ -316,6 +316,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Isabel Schnabel: How to foster growth and resilience in Europe",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-07-13T16:45:00Z",
+      "score": 5.0,
+      "summary": "欧洲央行官员阐述欧洲增长和韧性策略,涉及货币政策立场和经济前景,可能影响全球资产配置",
+      "type": "高管表态"
+    },
+    {
       "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
       "institution": "Fed",
@@ -457,6 +470,19 @@
       "score": 5.0,
       "summary": "日本央行货币政策会议意见总结，涉及政策方向和经济展望",
       "type": "政策动向"
+    },
+    {
+      "title": "Piero Cipollone: Interview with Jornal de Negocios",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-07-13T17:00:00Z",
+      "score": 4.5,
+      "summary": "欧洲央行官员接受采访,可能涉及欧洲货币政策、利率前景及经济展望,影响全球资本流动",
+      "type": "高管表态"
     },
     {
       "title": "Corporate Goods Price Index (June)",
