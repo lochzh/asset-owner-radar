@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-23T11:55:07.560038Z",
+  "updated_at": "2026-07-23T22:57:15.058032Z",
   "source_count": 12,
-  "digest": "近期全球主要资产所有者动态集中在货币政策信号与跨境资本流动两条主线上。中国人民银行密集发布公开市场操作、逆回购及国债交易等系列公告，显示当局在持续主动管理短端流动性与长期利率曲线走势；货币政策委员会会议及金融市场发展报告进一步释放政策方向信号，整体表明央行仍在以工具组合方式维护资金面稳定，债券市场及人民币汇率的短期走势值得持续关注。\n\n在跨境资本流动层面，香港金管局发布港澳个人跨境汇款新规，直接涉及中港之间的资金流动安排，叠加香港作为核心离岸人民币中心的战略定位，相关规则调整对人民币国际化路径及离岸市场流动性具有一定指示意义。与此同时，美联储6月议息会议纪要公布，其对利率前景及经济形势的评估将持续影响全球风险偏好和资本在新兴市场与发达市场之间的流向分配。\n\n主权及长期资金方面，日本政府养老投资基金（GPIF）披露2025财年业绩及截至2026年3月的最新持仓结构，其全球股债配置比例变化历来是市场观察大型机构再平衡动向的重要参考。新加坡GIC参与Anthropic H轮融资，以近千亿美元估值入局人工智能头部标的，体现主权财富基金加速布局前沿科技的趋势。卡塔尔投资局亚太顾问委员会的动态则反映中东资本对亚太区域配置兴趣持续升温，值得关注其后续落地方向。",
+  "digest": "近期全球主要资产所有者动态集中于中国货币政策、亚太资本配置及人工智能领域投资三条主线。央行层面动作密集，近期连续发布逆回购操作、公开市场业务及国债交易相关公告，显示流动性管理趋于精细化，短端资金面整体维持平稳；与此同时，货币政策委员会例会及金融市场发展报告亦释放出政策层对市场结构与长期利率走势的关注信号，国内债券市场值得持续跟踪。\n\n美联储6月议息会议纪要是本期影响全球资产配置的重要外部变量。纪要内容涉及利率前景判断与经济形势评估，对全球资本流向及人民币汇率均存在一定传导效应，需结合国内流动性环境综合观察。香港金管局方面，除发布港澳个人跨境汇款新规、对中港资本流动边界进行明确外，快速支付系统相关进展亦有助于提升香港作为离岸人民币中心的金融基础设施效率。\n\n亚太主权及长期资金的配置动向同样值得关注。日本GPIF公布2025财年投资业绩及截至2026年3月的最新持仓结构，其全球股债配置调整对各类资产的边际供需具有参考意义。新加坡GIC参与Anthropic H轮融资，介入估值近千亿美元的头部AI项目，体现主权基金对前沿科技领域的战略布局持续深化。卡塔尔投资局亚太顾问委员会的相关动态则显示中东主权资金对亚太区域的关注度进一步上升，区域资本引入格局或将出现边际变化。",
   "items": [
     {
       "title": "Announcement on Government Bond Transactions",
@@ -212,6 +212,19 @@
       "type": "持仓变动"
     },
     {
+      "title": "GIC delivers steady long-term returns within its mandate and stays focused on portfolio resilience in a structurally changed world",
+      "url": "https://www.gic.com.sg/newsroom/all/gic-delivers-steady-long-term-returns-within-its-mandate-and-stays-focused-on-portfolio-resilience-in-a-structurally-changed-world/",
+      "institution": "GIC",
+      "source": "GIC (新加坡政府投资公司)",
+      "category": "sovereign",
+      "is_firsthand": true,
+      "country": "SG",
+      "published_at": "2026-07-23T22:56:23.932009Z",
+      "score": 6.0,
+      "summary": "GIC强调结构性变化下长期回报与投资组合韧性,反映主要资产所有者的全球策略重新定位",
+      "type": "高管表态"
+    },
+    {
       "title": "(BOJ Review) The Development and Strengthening of International Forums in Asia with the Participation of the Bank of Japan",
       "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e09.htm",
       "institution": "BOJ",
@@ -235,6 +248,19 @@
       "published_at": "2026-06-29T09:16:00.102219Z",
       "score": 6.0,
       "summary": "GIC与Brookfield联合收购澳洲仓储资产（67亿澳元），亚太基础设施投资",
+      "type": "持仓变动"
+    },
+    {
+      "title": "Report on the Management of the Government’s Portfolio for the Year 2025/26",
+      "url": "https://www.gic.com.sg/newsroom/reports/report-on-the-management-of-the-governments-portfolio-for-the-year-2025-26/",
+      "institution": "GIC",
+      "source": "GIC (新加坡政府投资公司)",
+      "category": "sovereign",
+      "is_firsthand": true,
+      "country": "SG",
+      "published_at": "2026-07-23T22:56:23.932007Z",
+      "score": 5.5,
+      "summary": "新加坡主权基金GIC发布2025/26年度投资组合管理报告,涉及全球资产配置战略调整",
       "type": "持仓变动"
     },
     {
@@ -534,6 +560,19 @@
       "published_at": "2026-06-23T23:50:00Z",
       "score": 5.0,
       "summary": "日本央行货币政策会议意见总结，涉及政策方向和经济展望",
+      "type": "政策动向"
+    },
+    {
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-07-23T13:00:00Z",
+      "score": 4.5,
+      "summary": "欧洲央行货币政策声明,影响全球资本流向与新兴市场资产吸引力",
       "type": "政策动向"
     },
     {
@@ -849,17 +888,17 @@
       "type": "高管表态"
     },
     {
-      "title": "Boris Vujčić: Outlook for the euro area economy and monetary policy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260623_1~e421434341.en.pdf",
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
       "institution": "ECB",
       "source": "European Central Bank (欧洲央行)",
       "category": "central_bank",
       "is_firsthand": true,
       "country": "EU",
-      "published_at": "2026-06-23T13:55:00Z",
-      "score": 4.5,
-      "summary": "欧央行官员发表欧元区经济与货币政策展望演讲",
-      "type": "高管表态"
+      "published_at": "2026-07-23T12:15:00Z",
+      "score": 4.0,
+      "summary": "欧洲央行货币政策决议,可能影响全球资本配置格局和跨境投资收益",
+      "type": "政策动向"
     },
     {
       "title": "Senior Loan Officer Opinion Survey (July)",
