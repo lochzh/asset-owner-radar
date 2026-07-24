@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-07-24T11:46:25.655162Z",
+  "updated_at": "2026-07-24T23:02:51.243305Z",
   "source_count": 12,
-  "digest": "近期全球主要央行与主权基金动态较为密集，其中中国货币政策操作尤为值得关注。人民银行近期连续发布多项公开市场操作公告，涵盖逆回购、国债买卖及货币政策委员会会议等，显示出对短期流动性的主动管理意图。与此同时，央行金融市场发展报告亦释放出货币政策与市场结构层面的重要信号，市场对国内债券市场走势及长端利率的关注度持续升温。\n\n在国际政策层面，美联储6月议息会议纪要的发布是近期影响全球资本流动的核心事件，其对利率前景与经济形势的评估将直接传导至人民币汇率预期及新兴市场资本流向，需持续跟踪。香港方面，金管局就港澳个人跨境汇款规则的最新表态值得关注，折射出中港跨境资金管理的政策走向；快速支付系统的推进则进一步强化了香港在区域金融基础设施中的枢纽地位。\n\n主权及养老资金的配置动向同样提供了重要参考。日本GPIF最新公布的2026年3月持仓数据及2025财年业绩显示其全球股债配置策略有所调整，作为全球最大养老金之一，其权益与债券比例的变化对亚洲市场资金面具有一定指引意义。新加坡GIC参与Anthropic H轮融资，估值高达9650亿美元，体现出长期资本对人工智能领域的持续押注。卡塔尔投资局亚太顾问委员会的相关动态亦表明中东主权资本对亚太区域的配置兴趣仍在延续。",
+  "digest": "近期央行政策层面动向密集，中国人民银行持续通过逆回购操作、公开市场业务及国债交易等多项工具主动调节市场流动性，短期资金面整体保持平稳。货币政策委员会会议及金融市场发展报告所释放的信号，进一步明确了当前宽松取向与市场结构优化并重的政策基调，值得密切跟踪其对国内债券收益率曲线及人民币资产定价的传导路径。与此同时，美联储6月议息会议纪要公布，市场对美国降息时点的预期持续分化，这将对全球资本流向、新兴市场汇率以及人民币跨境资金面形成持续扰动。\n\n亚洲主要机构投资者的动向同样值得关注。日本政府养老投资基金（GPIF）披露2025财年业绩及截至2026年3月的最新持仓结构，其在全球股债资产上的配置调整方向，历来对国际机构投资者具有较强的风向标意义。新加坡主权基金GIC参与Anthropic H轮融资，估值高达9650亿美元，显示亚洲主权资本对AI领域的战略布局正持续深化。卡塔尔投资局（QIA）亚太顾问委员会的相关动态，亦反映出中东主权资本对亚太区域资产配置的重视程度在进一步提升。\n\n香港方面，金管局在跨境支付基础设施建设及港澳个人跨境汇款规则方面持续推进，有助于巩固香港作为离岸人民币枢纽的核心地位，并提升区域资本跨境流动的便利性与效率。",
   "items": [
     {
       "title": "Announcement on Government Bond Transactions",
@@ -251,6 +251,19 @@
       "type": "持仓变动"
     },
     {
+      "title": "PIF and US EXIM sign MoU for up to $15 billion in export credit to support strategic investments",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/pif-us-exim-15-billion-usd-mou-export-credit/",
+      "institution": "PIF",
+      "source": "Public Investment Fund (沙特PIF)",
+      "category": "sovereign",
+      "is_firsthand": true,
+      "country": "SA",
+      "published_at": "2026-07-24T23:02:06.800251Z",
+      "score": 5.5,
+      "summary": "沙特PIF与美国出口信用机构签署150亿美元谅解备忘录,支持战略投资",
+      "type": "持仓变动"
+    },
+    {
       "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
       "institution": "ECB",
@@ -379,19 +392,6 @@
       "score": 5.5,
       "summary": "欧央行行长拉加德阐述不确定环境下的基础政策立场,影响全球货币政策和资本流向",
       "type": "高管表态"
-    },
-    {
-      "title": "Federal Reserve Board's annual bank stress test confirms that large banks are well positioned to weather a severe recession and able to continue to lend to households and businesses",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260624a.htm",
-      "institution": "Fed",
-      "source": "Federal Reserve Press Releases (美联储)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "US",
-      "published_at": "2026-06-24T20:00:00Z",
-      "score": 5.5,
-      "summary": "美联储压力测试确认大型银行稳健，影响全球金融稳定性和美元资产前景",
-      "type": "政策动向"
     },
     {
       "title": "ECB to start implementing enhanced repo facility for central banks",
@@ -914,6 +914,19 @@
       "type": "高管表态"
     },
     {
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-07-24T15:30:00Z",
+      "score": 4.0,
+      "summary": "欧央行官员阐述欧元区经济前景,影响全球资本流向和风险资产配置",
+      "type": "高管表态"
+    },
+    {
       "title": "Monetary policy decisions",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
       "institution": "ECB",
@@ -1120,6 +1133,19 @@
       "score": 4.0,
       "summary": "日本央行发布资金流量账户数据，反映日本经济体内资金流向",
       "type": "市场异动"
+    },
+    {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-07-24T13:00:00Z",
+      "score": 3.5,
+      "summary": "欧央行理事会决议,可能影响欧元汇率和新兴市场资本流动",
+      "type": "政策动向"
     },
     {
       "title": "ECB Consumer Expectations Survey results – June 2026",
