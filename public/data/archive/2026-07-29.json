@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-07-29T12:05:54.772201Z",
+  "updated_at": "2026-07-29T23:00:00.331465Z",
   "source_count": 6,
-  "digest": "近期全球宏观政策层面，美联储6月议息会议及贴现率会议纪要相继披露，市场对美联储利率前景的预期持续分化，这对全球资本流向及人民币汇率走势构成直接影响，值得重点关注。与此同时，日本央行日债持仓数据更新，叠加其对亚洲实际进出口动向的分析，为判断区域供应链走向及中国出口前景提供了参考依据。欧洲央行方面，将气候因素纳入抵押品框架的政策推进，以及数字欧元试点36家服务商的落地，显示欧元体系在绿色金融与数字货币领域的战略布局持续深化，或对欧元区资产估值产生结构性影响。\n\n主要资产所有者的配置动向同样值得关注。日本GPIF发布2025财年投资业绩及最新资产持仓结构，涵盖全球股债商品配置细节，其受托责任报告亦揭示在公司治理层面的策略取向，作为全球最大养老金之一，其动向对各类资产的边际定价具有参考意义。新加坡GIC则在年度报告中强调结构性变化背景下的长期回报与组合韧性，反映主权财富基金对当前不确定环境的整体研判，与国内机构的长期配置逻辑存在一定共鸣。\n\n此外，沙特PIF近期动作频繁，一方面与美国出口信用机构签署150亿美元合作备忘录，另一方面引入I Squared Capital最多20亿美元共同投资，显示中东主权资本在扩大战略合作与资产变现两个维度同步推进。亚洲区域金融整合方面，日本央行参与亚洲国际论坛，涉及区域央行协作与跨境支付体系建设，后续进展对亚洲金融基础设施格局或有深远影响。",
+  "digest": "近期全球资产所有者动态较为密集，其中货币政策方向仍是核心变量。美联储6月议息会议纪要及贴现率会议记录相继公布，市场对利率前景的判断持续分化，美元走势及由此带来的全球资本流向变化，对新兴市场资产吸引力和人民币汇率均构成直接影响，值得持续跟踪。日本央行方面，除参与亚洲央行区域合作论坛外，亦就实际进出口动向进行专项分析，其对亚洲供应链的观察对研判中国出口前景具有一定参考价值。\n\n主权财富基金及大型养老金的配置动向同样值得关注。日本GPIF最新披露了2025财年投资业绩及截至2026年3月的资产配置结构，涉及全球股债商品多类资产的策略调整，其体量决定了其动向对全球市场具有方向性意义。新加坡GIC在年度报告中强调结构性变化背景下的长期回报与组合韧性，反映出头部资产所有者正在主动重新定位全球配置框架。沙特PIF则动作频频，分别与美国出口信用机构签署150亿美元谅解备忘录，并引入I Squared Capital最多20亿美元投资，资本运作节奏明显加快。\n\n欧洲央行层面有两项进展值得关注：一是将气候因素进一步纳入抵押品框架，可能对欧元区绿色资产估值产生传导效应；二是推进数字欧元试点，选定36家支付服务商参与，央行数字货币的基础设施竞争格局正在加速成形，对跨境支付体系及人民币国际化进程均有潜在关联。",
   "items": [
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
+      "institution": "Fed",
+      "source": "Federal Reserve Press Releases (美联储)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "US",
+      "published_at": "2026-07-29T18:00:00Z",
+      "score": 7.5,
+      "summary": "美联储FOMC声明，影响全球资本流向、美元汇率和新兴市场资产吸引力，对中国机构配置决策具重要参考意义",
+      "type": "政策动向"
+    },
     {
       "title": "Minutes of the Federal Open Market Committee, June 16-17, 2026",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260708a.htm",
@@ -210,19 +223,6 @@
       "score": 5.5,
       "summary": "日本短观调查数据集，反映亚洲经济景气与企业投资前景",
       "type": "市场异动"
-    },
-    {
-      "title": "Christine Lagarde: Back to basics in an uncertain environment",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260629~cb5a2e2168.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-06-29T19:00:00Z",
-      "score": 5.5,
-      "summary": "欧央行行长拉加德阐述不确定环境下的基础政策立场,影响全球货币政策和资本流向",
-      "type": "高管表态"
     },
     {
       "title": "ECB to start implementing enhanced repo facility for central banks",
