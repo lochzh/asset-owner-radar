@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-01T11:22:21.629908Z",
+  "updated_at": "2026-08-01T22:57:01.314835Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向集中，对跨境资本流动影响显著。美联储FOMC声明及6月议息会议纪要显示其货币政策立场与利率前景仍是市场核心变量，直接影响美元走势与人民币汇率，并对新兴市场资产吸引力形成传导效应。日本央行方面，BOJ最新经济展望报告就增长与通胀路径作出研判，同时积极参与亚洲国际论坛，推动区域央行合作与跨境支付体系建设，释放出亚太货币合作深化的积极信号，值得关注其对区域资本流向的潜在影响。\n\n资产所有者配置动向方面，日本GPIF发布2025财年投资业绩及2026年3月最新持仓结构，披露了股债及全球资产的策略调整细节，其庞大规模使其动向历来对全球资产价格具有风向标意义。新加坡主权基金GIC发布年度投资组合管理报告，并在高管层面强调结构性变化下的长期回报与组合韧性，反映出大型资产所有者正在主动重新定位全球策略。沙特PIF与美国出口信用机构签署150亿美元谅解备忘录，显示中东主权财富基金的战略投资布局仍在积极推进。\n\n此外，欧洲央行将气候因素纳入非金融企业信用抵押品框架，并选定36家机构参与数字欧元试点，在绿色资产估值与央行数字货币两个维度同步推进，对欧元区金融基础设施竞争格局及可持续投资政策导向具有一定参考价值。",
+  "digest": "近期全球主要央行政策动向密集，对资本流动格局影响显著。美联储FOMC声明及6月议息会议纪要相继发布，结合贴现率会议纪要，市场对美联储利率路径的预期正在经历重新校准。整体偏鹰立场短期内对美元形成支撑，新兴市场资产吸引力及人民币汇率均面临一定外部压力，值得持续关注其对跨境资本流向的传导效应。与此同时，日本央行最新经济展望报告对增长与通胀前景作出评估，并积极参与亚洲区域货币合作论坛，释放出亚太货币政策协调与跨境支付体系建设深化的信号，对区域资本流动具有中期参考意义。\n\n在主权及大型机构投资者层面，日本GPIF公布2025财年投资业绩及最新持仓结构，其股债策略调整方向历来对全球机构资产配置具有风向标意义，需关注其在国际股票及债券资产上的权重变化。新加坡GIC发布年度投资组合管理报告，同时高管公开强调在结构性变化环境下的长期回报与组合韧性，反映出主要资产所有者正在系统性重新评估全球配置框架。沙特PIF与美国出口信用机构签署150亿美元谅解备忘录，显示中东主权财富基金持续加大战略性实物投资布局。\n\n在制度与基础设施层面，欧央行将气候因素纳入非金融企业信用抵押品框架，并推进数字欧元试点，选定36家支付服务商参与测试，折射出欧元区在绿色金融标准与数字货币基础设施两条线上的政策提速，对欧元资产定价逻辑及未来跨境支付竞争格局均有一定影响。",
   "items": [
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -589,19 +589,6 @@
       "type": "市场异动"
     },
     {
-      "title": "Piero Cipollone: The digital transformation of money, payments and finance",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260702_1~c58dcd8150.en.pdf",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-02T17:55:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行官员探讨数字货币和支付体系转变,关乎全球金融基础设施和RMB国际化竞争",
-      "type": "政策动向"
-    },
-    {
       "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (July-September 2026) (Schedule Updates)",
       "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260731b.pdf",
       "institution": "BOJ",
@@ -769,19 +756,6 @@
       "score": 4.0,
       "summary": "日本央行6月市场操作情况,涉及利率走势与资产价格影响",
       "type": "政策动向"
-    },
-    {
-      "title": "Christine Lagarde: Interview with Les Échos",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260702~c56db179c3.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-02T21:00:00Z",
-      "score": 4.0,
-      "summary": "欧洲央行行长接受采访,预期讨论欧元区政策立场和经济前景,影响全球资本配置",
-      "type": "高管表态"
     },
     {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
