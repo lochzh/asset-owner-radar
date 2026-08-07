@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-08-07T01:30:26.458651Z",
+  "updated_at": "2026-08-07T10:58:37.663117Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向密集，美联储与日本央行的走向尤为值得关注。美联储6月议息会议纪要及贴现率会议记录相继披露，市场对美联储利率路径的判断持续分化，美元汇率与全球资本流向因此承压，对人民币汇率及新兴市场资产吸引力的影响仍在发酵。与此同时，日本央行方面动作频繁：7月经济展望维持渐进收紧信号，减少购债操作已对日债收益率曲线产生明显扰动，资金向亚太市场的再配置逻辑值得持续跟踪。日元走势与日债利率的联动，正成为区域资本流动的重要变量。\n\n亚洲区域金融合作层面出现积极进展。日本央行多次参与亚洲国际论坛，推动跨境支付体系建设与区域货币合作，这一趋势与人民币国际化及亚洲金融基础设施整合的大方向形成共振，值得中国机构投资者关注其政策落地节奏。新加坡主权基金GIC发布年度投资报告，强调在结构性变化下重视长期回报与组合韧性，反映出头部主权资产管理机构正系统性地重新审视全球资产配置框架。\n\n此外，欧洲央行将气候因素纳入抵押品框架，并推进数字欧元试点落地，显示欧元区在绿色金融与央行数字货币领域的制度建设提速，对跨境资产估值体系及监管标准或形成长期影响。沙特PIF与美国出口信用机构签署150亿美元合作备忘录，中东主权财富资金的战略布局重心仍向实物资产与双边合作倾斜。",
+  "digest": "近期全球主要央行动向值得重点关注。美联储6月议息会议纪要及FOMC声明相继发布，市场聚焦其对通胀路径和降息时点的判断。会议纪要显示官员内部分歧仍存，利率维持高位的时间可能超出市场预期，这对美元走势和全球资本流向均形成约束，同时也影响人民币汇率中枢和新兴市场资产的相对吸引力。日本央行方面动向密集，7月经济展望维持谨慎基调，市场操作报告显示继续推进减少国债购买，日债收益率上行压力持续，叠加日元汇率波动，亚洲跨境资本流动格局正在悄然调整。日本央行还积极参与亚洲国际论坛，推动区域货币合作与跨境支付体系建设，区域金融整合进程值得持续跟踪。\n\n主要资产所有者层面，新加坡GIC发布年度投资组合管理报告，并由高管公开强调在结构性变化环境下优先追求长期回报与组合韧性，反映出大型主权基金正在系统性重新评估资产配置框架。日本GPIF一季度成果报告及受托责任报告亦同步披露，其亚太地区持仓动向及公司治理策略调整对区域市场具有一定风向标意义。沙特PIF与美国出口信用机构签署150亿美元谅解备忘录，显示中东主权资本继续向实体经济和战略领域延伸布局。欧洲央行将气候因素纳入抵押品框架，对欧元资产估值体系的绿色化转型具有政策导向意义。",
   "items": [
+    {
+      "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
+      "url": "https://www.gpif.go.jp/operation/38371785gpif/2026_1Q_0807_en.pdf",
+      "institution": "GPIF",
+      "source": "GPIF (日本政府养老金)",
+      "category": "pension",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-08-07T10:57:58.719445Z",
+      "score": 7.5,
+      "summary": "日本养老金GPIF 2026财年一季度投资成果报告,涉及全球资产配置战略和亚太地区持仓",
+      "type": "持仓变动"
+    },
     {
       "title": "Federal Reserve issues FOMC statement",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
@@ -92,6 +105,19 @@
       "published_at": "2026-07-22T07:00:00Z",
       "score": 6.0,
       "summary": "日本央行参与亚洲国际论坛进展。涉及亚洲央行合作、区域金融整合与跨境支付体系建设",
+      "type": "政策动向"
+    },
+    {
+      "title": "Market Operations by the Bank of Japan (July)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2607.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-08-06T23:50:00Z",
+      "score": 5.5,
+      "summary": "日本央行7月市场操作报告,日元政策调整影响亚洲跨境资本流动和人民币汇率",
       "type": "政策动向"
     },
     {
@@ -210,6 +236,19 @@
       "score": 5.5,
       "summary": "沙特PIF与I Squared Capital签署协议,后者将投资最多20亿美元于PIF组合资产",
       "type": "持仓变动"
+    },
+    {
+      "title": "Monetary Base and the Bank of Japan's Transactions (July)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2607.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-08-06T23:50:00Z",
+      "score": 5.0,
+      "summary": "日本央行7月货币基数和交易数据,反映日本流动性政策对区域投资环境的影响",
+      "type": "政策动向"
     },
     {
       "title": "Minutes of the Monetary Policy Meeting on June 15 and 16, 2026",
@@ -352,6 +391,19 @@
       "published_at": "2026-07-09T05:00:00Z",
       "score": 5.0,
       "summary": "日本央行区域经济报告,反映日本经济动向与政策取向,影响亚太资产配置与日元走势",
+      "type": "政策动向"
+    },
+    {
+      "title": "Bank of Japan's Transactions with the Government (July)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-08-06T23:50:00Z",
+      "score": 4.5,
+      "summary": "日本央行7月政府交易数据,显示日本财政货币政策协调对全球宏观环境的信号",
       "type": "政策动向"
     },
     {
@@ -586,6 +638,19 @@
       "published_at": "2026-07-09T11:30:00Z",
       "score": 4.5,
       "summary": "欧央行6月议息会议,影响全球流动性与美元政策,可能改变资本流向新兴市场",
+      "type": "政策动向"
+    },
+    {
+      "title": "ECB publishes consolidated banking data for end-March 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-08-07T08:00:00Z",
+      "score": 4.0,
+      "summary": "欧洲央行披露2026年3月底银行业数据,反映欧元区金融状况对全球资本流动的影响",
       "type": "政策动向"
     },
     {
