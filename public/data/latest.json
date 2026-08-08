@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-08T10:39:29.935909Z",
+  "updated_at": "2026-08-08T22:29:12.948586Z",
   "source_count": 6,
-  "digest": "近期全球主要央行与主权基金动态密集，对亚太资本流向影响显著。日本央行（BOJ）是本期最活跃的政策主体，其7月经济展望报告维持对增长与通胀的审慎判断，同期市场操作报告显示减少购债力度，推动日债收益率曲线上行，并对亚洲跨境资本流动产生传导效应，需关注其对人民币汇率的间接压力。与此同时，BOJ积极参与亚洲国际论坛，在区域央行合作、跨境支付体系建设等方面释放出区域金融整合加速的信号，值得持续跟踪。\n\n美联储方面，FOMC最新声明及6月贴现率会议纪要共同指向当前偏紧的货币政策立场短期难以明显转向，这对新兴市场资产吸引力及美元走势构成持续约束，中国跨境资金流动亦受其影响。欧洲央行将气候因素纳入抵押品框架的举措，则进一步强化全球绿色资产估值体系的政策基础，对国内ESG配置策略具有参考意义。\n\n主权基金层面，新加坡GIC发布2025/26年度报告，强调在结构性变化背景下优化长期回报与组合韧性，反映头部长期资本对全球策略的重新定位。GPIF一季度持仓报告及受托责任报告则揭示其在亚太地区的资产配置逻辑与治理取向。沙特PIF与美国出口信用机构签署150亿美元谅解备忘录，显示中东主权资本持续加大与美方战略性产业的合作布局，为观察全球资本格局演变提供参照。",
+  "digest": "近期全球主要央行与资产所有者动态较为密集，政策层面的核心焦点集中于美联储与日本央行的货币政策走向。美联储FOMC声明及6月贴现率会议纪要维持市场对利率路径的高度关注，美元汇率走势直接牵动新兴市场资本流向与人民币汇率预期，对国内机构的跨境配置决策具有较强参考意义。与此同时，日本央行在7月发布多份报告，涵盖经济与物价展望、市场操作计划及进出口动向分析，叠加其持续缩减购债规模对日债收益率曲线的影响，日元政策调整信号值得持续跟踪，其外溢效应已延伸至亚洲跨境资本流动格局。\n\n在主权及长期资金动向方面，新加坡GIC发布年度投资组合管理报告，并在公开场合强调结构性变化背景下对长期回报与组合韧性的重新定位，反映出头部资产所有者正在系统性重估全球配置框架。日本GPIF亦公布2026财年一季度投资成果及2025年受托责任报告，其在亚太地区的持仓动向及公司治理策略值得关注。沙特PIF与美国出口信用机构签署150亿美元谅解备忘录，显示中东主权财富基金在实物与战略资产领域的布局仍在提速。\n\n区域合作层面，日本央行积极参与亚洲国际论坛相关议题，涉及亚洲央行协调机制、区域金融整合及跨境支付体系建设，为人民币国际化及亚洲货币合作提供了外部参照。欧洲央行扩大气候因素在抵押品框架中的应用，则进一步强化了欧元区绿色投资的政策导向，或对相关资产估值体系产生渐进影响。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -355,19 +355,6 @@
       "type": "高管表态"
     },
     {
-      "title": "Federal Reserve announces the leadership and objectives of its task forces to advance the conduct of monetary policy",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260709a.htm",
-      "institution": "Fed",
-      "source": "Federal Reserve Press Releases (美联储)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "US",
-      "published_at": "2026-07-09T19:00:00Z",
-      "score": 5.0,
-      "summary": "美联储宣布货币政策工作小组领导层和目标,影响全球资本流动和人民币相对表现",
-      "type": "政策动向"
-    },
-    {
       "title": "Bank of Japan's Transactions with the Government (July)",
       "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2607.pdf",
       "institution": "BOJ",
@@ -599,19 +586,6 @@
       "published_at": "2026-07-09T23:50:00Z",
       "score": 4.5,
       "summary": "日本央行6月企业商品价格指数，反映日本通胀压力可能影响全球资本流向",
-      "type": "政策动向"
-    },
-    {
-      "title": "Meeting of 10-11 June 2026",
-      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260709~0e7f8241c9.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-09T11:30:00Z",
-      "score": 4.5,
-      "summary": "欧央行6月议息会议,影响全球流动性与美元政策,可能改变资本流向新兴市场",
       "type": "政策动向"
     },
     {
