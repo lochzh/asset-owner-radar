@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-12T11:04:25.529293Z",
+  "updated_at": "2026-08-12T22:40:22.976323Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向集中，其中日本央行动作最为密集，值得重点关注。日本央行在货币政策会议纪要、7月经济展望及市场操作报告中释放出利率路径趋紧的信号，同时持续压缩购债规模，推动日债收益率曲线上行。日元汇率的潜在走强对亚洲跨境资本流动具有联动效应，需关注其对人民币汇率及中国跨境资金的传导影响。与此同时，日本央行积极参与亚洲国际论坛，在区域央行合作、跨境支付体系建设等议题上表态积极，亚太货币合作整合趋势值得持续跟踪。\n\n美联储最新FOMC声明是另一核心变量。其政策立场直接影响美元强弱及全球风险偏好，进而左右新兴市场资产吸引力与资本流向格局。在当前中美利差仍处于历史性分化背景下，美联储的利率路径调整对中国机构的境外配置决策和汇率对冲成本具有实质性参考意义。\n\n资产所有者层面，新加坡GIC发布年度投资组合管理报告，并在公开表态中强调结构性变化下的长期回报与组合韧性，反映主权基金正在经历全球策略的系统性重新定位。日本GPIF一季度投资成果及受托责任报告亦有所披露，其亚太地区持仓动向和公司治理策略值得关注。此外，沙特PIF与美国出口信用机构签署150亿美元谅解备忘录，体现中东主权资本与美国战略利益的进一步绑定，或对全球资本竞争格局产生边际影响。欧洲央行将气候因素纳入抵押品框架的举措，则持续强化欧元区绿色投资的政策导向。",
+  "digest": "近期全球主要央行政策动向密集，其中日本央行（BOJ）的一系列表态尤为值得关注。BOJ最新货币政策会议纪要及7月经济展望显示，其在利率路径和政策立场上仍保持审慎，但持续减少购债操作已对日债收益率曲线产生影响，并通过日元汇率传导至亚洲跨境资本流动格局，对人民币汇率及中国资产的相对吸引力形成间接影响。与此同时，BOJ积极参与亚洲国际论坛，推动区域央行合作与跨境支付体系建设，是近期亚太货币合作深化的重要信号。美联储最新FOMC声明则继续牵动全球资本流向与美元走势，对新兴市场整体资产吸引力具有重要参考价值，值得持续跟踪其对中国跨境资金流动的潜在影响。\n\n在主权财富基金及大型资产所有者层面，新加坡GIC发布2025/26年度投资组合管理报告，并在公开表态中着重强调结构性变化下的长期回报与组合韧性，反映出主要资产所有者正在经历策略性重新定位。日本GPIF发布2026财年一季度投资成果及2025年受托责任报告，涉及亚太地区持仓调整与公司治理策略，对研判外资在亚洲市场的配置趋势具有参考意义。沙特PIF与美国出口信用机构签署150亿美元谅解备忘录，显示中东主权资本在战略性资产领域的布局力度仍在加强。\n\n此外，欧洲央行将气候因素进一步纳入非金融企业信用抵押品框架，对欧元资产估值及绿色投资政策导向的影响值得关注，尤其是在国际绿色债券标准趋严背景下，或对中国绿色资产的跨境配置产生一定参考效应。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -225,19 +225,6 @@
       "type": "政策动向"
     },
     {
-      "title": "PIF and I Squared Capital Sign MoU for I Squared to invest up to $2 billion in PIF portfolio",
-      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/pif-and-i-squared-capital-sign-mou-for--i-squared-to-invest-up-to-2-billion-in-pif-portfolio/",
-      "institution": "PIF",
-      "source": "Public Investment Fund (沙特PIF)",
-      "category": "sovereign",
-      "is_firsthand": true,
-      "country": "SA",
-      "published_at": "2026-07-13T12:35:08.389331Z",
-      "score": 5.5,
-      "summary": "沙特PIF与I Squared Capital签署协议,后者将投资最多20亿美元于PIF组合资产",
-      "type": "持仓变动"
-    },
-    {
       "title": "Monetary Base and the Bank of Japan's Transactions (July)",
       "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2607.pdf",
       "institution": "BOJ",
@@ -353,19 +340,6 @@
       "score": 5.0,
       "summary": "日本央行支持气候变化融资运作，反映新兴绿色资产配置方向和政策导向",
       "type": "政策动向"
-    },
-    {
-      "title": "Isabel Schnabel: How to foster growth and resilience in Europe",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260713~e78632b27a.en.pdf",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-13T16:45:00Z",
-      "score": 5.0,
-      "summary": "欧洲央行官员阐述欧洲增长和韧性策略,涉及货币政策立场和经济前景,可能影响全球资产配置",
-      "type": "高管表态"
     },
     {
       "title": "(Research Paper) Market Operations in Fiscal 2025",
@@ -587,19 +561,6 @@
       "score": 4.5,
       "summary": "日本央行持有国债规模数据,反映日本货币政策立场与资产负债表扩张状况",
       "type": "市场异动"
-    },
-    {
-      "title": "Piero Cipollone: Interview with Jornal de Negocios",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260713~d928475792.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-13T17:00:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行官员接受采访,可能涉及欧洲货币政策、利率前景及经济展望,影响全球资本流动",
-      "type": "高管表态"
     },
     {
       "title": "Money Stock (July)",
