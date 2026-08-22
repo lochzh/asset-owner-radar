@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-22T10:29:43.027078Z",
+  "updated_at": "2026-08-22T22:21:40.918167Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向密集，对跨境资本流动影响值得重点关注。美联储FOMC声明及会议纪要显示其货币政策立场，对美元走势、人民币汇率预期以及新兴市场资产吸引力均构成直接传导效应，是当前配置决策的重要外部变量。日本央行方面动作同样频繁，多份经济展望报告及货币政策会议纪要显示其利率政策调整路径仍存不确定性；同时，日本央行持续缩减购债规模，对全球收益率曲线形成扰动，日元政策变化亦对亚洲跨境资本流动及人民币汇率走势产生联动影响，需持续跟踪。\n\n主权财富基金层面，新加坡GIC近期强调在结构性变化背景下重视长期回报与组合韧性，反映出头部资产所有者正在主动进行全球策略再定位，这一取向值得参照。沙特PIF方面，一是公布2025年收入和利润实现强劲增长，显示中东主权资本扩张动能依然旺盛；二是与美国出口信用机构签署150亿美元谅解备忘录，表明其对美战略投资布局进一步深化。两项动态合并来看，PIF的资本运用方向仍以西方市场为主轴。\n\n此外，日本GPIF发布2026财年一季度投资成果报告及年度受托责任活动报告，涉及全球资产配置调整及公司治理导向，作为全球最大养老金机构，其亚太地区持仓变化对区域资产定价具有一定参考意义，建议关注后续披露细节。欧央行行长拉加德在世经论坛的发言亦涉及全球经济前景判断，可作为理解欧洲政策取向的背景参考。",
+  "digest": "近期全球主要央行政策动向密集，其中日本央行信号最为集中，值得重点关注。日本央行在货币政策会议纪要、经济展望及市场操作报告中持续释放政策调整信号，其减少购债操作已对日债市场产生可见影响，全球收益率曲线随之出现联动反应。结合日元汇率走势，亚洲跨境资本流动格局正在发生结构性变化，对人民币汇率预期及中国资产的相对吸引力均构成潜在影响。与此同时，美联储FOMC声明及会议纪要显示当前货币政策立场，其对美元走势和全球资本流向的溢出效应，是判断新兴市场资产及人民币资产配置环境的重要参照。\n\n在主权资产所有者层面，两项动态值得关注。其一，新加坡GIC强调在结构性变化背景下着力提升投资组合韧性和长期回报能力，反映头部长期资金对当前复杂宏观环境的策略性应对；其二，沙特公共投资基金（PIF）公布收入和利润强劲增长，并与美国出口信贷机构签署150亿美元谅解备忘录，显示中东主权基金资本扩张动能持续，跨境配置意愿旺盛。\n\n日本GPIF方面，其2026财年一季度投资成果报告及2025年受托责任报告相继发布，涉及全球资产配置战略调整与亚太地区持仓变化，作为全球最大养老基金，其配置方向对亚太市场资金流向具有一定指向意义。欧央行行长拉加德在世经论坛发表欧洲经济评论，整体属于宏观前景层面的常规表态，参考权重相对有限。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -459,19 +459,6 @@
       "type": "高管表态"
     },
     {
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-23T13:00:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行货币政策声明,影响全球资本流向与新兴市场资产吸引力",
-      "type": "政策动向"
-    },
-    {
       "title": "Results of the Fifth Market Functioning Survey concerning Climate Change",
       "url": "http://www.boj.or.jp/en/paym/m-climate/mcli260817a.htm",
       "institution": "BOJ",
@@ -652,19 +639,6 @@
       "score": 4.0,
       "summary": "欧央行官员阐述欧元区经济前景,影响全球资本流向和风险资产配置",
       "type": "高管表态"
-    },
-    {
-      "title": "Monetary policy decisions",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-23T12:15:00Z",
-      "score": 4.0,
-      "summary": "欧洲央行货币政策决议,可能影响全球资本配置格局和跨境投资收益",
-      "type": "政策动向"
     },
     {
       "title": "(Research Paper) Mapping Japan's Manufacturing Supply Chains Through Firm-to-Firm Transaction Data",
