@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-23T10:30:19.544515Z",
+  "updated_at": "2026-08-23T22:21:16.897660Z",
   "source_count": 5,
-  "digest": "近期全球主要央行政策动向密集，对亚太资产配置形成多重交叉影响。美联储FOMC声明及会议纪要显示其货币政策立场，美元走势与利率预期的变化直接牵动新兴市场资本流向及人民币汇率预期，是当前中国机构配置境外资产的重要外部变量。与此同时，日本央行近期动作频繁：多份经济展望报告及货币政策会议纪要显示其仍在审慎评估加息节奏，7月市场操作报告及减少购债举措已对日债收益率曲线产生影响，日元政策方向的不确定性将持续扰动亚洲跨境资本流动格局，需持续关注。\n\n在机构投资者层面，日本GPIF发布2026财年一季度投资成果报告及2025年受托责任报告，其全球资产配置动向及亚太区持仓变化值得重点跟踪，作为全球最大养老金之一，GPIF的仓位信号对市场具有一定指引意义。中东主权财富基金方面，沙特PIF公布2025年收入与利润强劲增长，并与美国出口信用机构签署150亿美元谅解备忘录，显示中东资本在全球战略布局上仍保持较强扩张动能，其对亚洲及新兴市场的潜在配置意愿值得关注。\n\n此外，欧央行行长拉加德在世界经济论坛的表态对欧洲经济前景做出评估，叠加日本央行关于生产率未能有效传导至薪资增长的研究，共同揭示发达经济体在结构性通胀路径上的分歧，这一分歧将持续影响全球利率中枢判断及各类资产的相对吸引力。",
+  "digest": "近期全球主要央行政策动向密集，对亚太资产配置环境影响显著。日本央行持续释放政策正常化信号，多份经济展望报告及货币政策会议纪要显示其在通胀与增长之间审慎权衡；与此同时，日银7月起进一步缩减购债规模，日元汇率预期随之波动，对亚洲跨境资本流动及人民币汇率走势构成外部扰动，值得持续关注。美联储方面，FOMC声明及会议纪要所传递的政策立场，持续影响全球美元流动性格局，进而牵动新兴市场资产吸引力及人民币汇率中期预期。\n\n在主权财富基金层面，中东资本扩张态势明显。沙特PIF披露2025年收入与利润强劲增长，并与美国出口信用机构签署150亿美元谅解备忘录，显示其全球战略布局提速，跨境配置能力持续增强，对相关市场的边际资金影响不容忽视。\n\n日本GPIF方面，2026财年一季度投资报告及年度受托责任报告相继发布，涉及其在全球及亚太地区的持仓策略与公司治理取向，作为全球最大养老金机构，其配置动向对亚洲资本市场具有重要参考价值。欧央行行长拉加德在世经论坛就欧洲经济前景发表评论，亦提示欧元区经济不确定性对全球风险偏好的潜在传导效应。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -602,19 +602,6 @@
       "type": "市场异动"
     },
     {
-      "title": "Philip R. Lane: Outlook for the euro area economy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-24T15:30:00Z",
-      "score": 4.0,
-      "summary": "欧央行官员阐述欧元区经济前景,影响全球资本流向和风险资产配置",
-      "type": "高管表态"
-    },
-    {
       "title": "(Research Paper) What Prevents Productivity Gains from Translating into Wages: Lessons from Japan's Deflationary Period",
       "url": "https://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e12.htm",
       "institution": "BOJ",
@@ -703,19 +690,6 @@
       "published_at": "2026-08-04T08:00:00Z",
       "score": 3.5,
       "summary": "日本央行认可抵押品清单更新，影响金融市场流动性和资产价格波动",
-      "type": "政策动向"
-    },
-    {
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-24T13:00:00Z",
-      "score": 3.5,
-      "summary": "欧央行理事会决议,可能影响欧元汇率和新兴市场资本流动",
       "type": "政策动向"
     }
   ]
