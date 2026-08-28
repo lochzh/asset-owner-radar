@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-08-28T05:59:15.094723Z",
+  "updated_at": "2026-08-28T21:09:48.700122Z",
   "source_count": 5,
-  "digest": "近期全球主要央行政策动向密集，对亚太资本流动格局影响显著。日本央行方面信号尤为集中：货币政策会议纪要及多份经济活动与物价展望报告相继发布，结合副行长公开演讲及7月市场操作报告，显示日央行在利率路径与货币政策立场上仍处于审慎权衡阶段。值得关注的是，日央行研究指出生产率提升未有效传导至工资增长，通缩时期的结构性教训对当前政策退出节奏具有重要参考意义。日元汇率预期的波动将直接影响亚洲跨境资本流动及人民币汇率走势，需持续追踪。\n\n美联储方面，FOMC声明、会议纪要及7月贴现率会议纪要集中呈现当前货币政策立场。整体信号显示政策维持审慎，降息时机仍存不确定性，这对美元走势及新兴市场资产吸引力构成持续影响，亦对境外人民币资产配置的相对竞争力产生间接作用。与此同时，GPIF最新季度报告披露其全球资产配置动态，作为全球最大养老金之一，其亚太持仓方向对区域市场情绪具有一定指示意义。\n\n中东与欧洲方面，沙特PIF披露2025年收入与利润强劲增长，中东主权资本扩张动能持续，其全球配置能力进一步增强，对亚洲及新兴市场的潜在资金流入值得关注。欧央行行长拉加德除就欧洲经济前景发声外，还专门阐述欧洲代币化金融市场建设愿景，反映全球金融基础设施数字化进程正逐步影响主流机构的资本配置框架，这一趋势的长期演变值得持续跟踪。",
+  "digest": "近期全球主要央行动向密集，日本银行（BOJ）是信息量最大的机构。综合多份政策会议纪要、经济展望及市场操作报告来看，日本央行在货币政策正常化路径上仍保持审慎节奏，经济活动与物价展望呈温和复苏态势，但其研究亦指出生产率提升长期未能有效传导至工资增长，这一通缩期教训对亚洲经济体具有参考意义。日央行政策立场的边际变化，将持续影响日元走势、亚洲区域流动性格局及跨境资本配置方向，值得重点跟踪。\n\n美联储方面，FOMC会议纪要及7月贴现率会议纪要均显示其货币政策立场仍具不确定性，市场对降息时点的分歧尚未消除。美联储政策走向直接关系到全球美元流动性松紧，进而影响人民币汇率预期和新兴市场资金面，需持续关注后续表态变化。\n\n欧央行近期有两条值得关注的线索：一是行长拉加德在世界经济论坛发表欧洲经济评论，对全球经济前景的判断有一定参考价值；二是欧央行多位官员密集讨论央行数字货币与代币化金融市场建设，反映出欧洲在推动金融基础设施数字化转型方面的明确意图，这一趋势对跨境结算和资本市场长期架构或产生深远影响。\n\n亚太资产所有者方面，GPIF发布2026财年一季度投资成果报告，其全球资产配置动向及亚太持仓变化值得关注；沙特PIF披露2025年收入与利润强劲增长，中东主权基金资本扩张势头延续，其在全球另类资产及新兴市场的布局动向仍是重要参照。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -15,19 +15,6 @@
       "score": 7.5,
       "summary": "日本养老金GPIF 2026财年一季度投资成果报告,涉及全球资产配置战略和亚太地区持仓",
       "type": "持仓变动"
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm",
-      "institution": "Fed",
-      "source": "Federal Reserve Press Releases (美联储)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "US",
-      "published_at": "2026-07-29T18:00:00Z",
-      "score": 7.5,
-      "summary": "美联储FOMC声明，影响全球资本流向、美元汇率和新兴市场资产吸引力，对中国机构配置决策具重要参考意义",
-      "type": "政策动向"
     },
     {
       "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
@@ -66,6 +53,19 @@
       "published_at": "2026-07-31T04:25:00Z",
       "score": 6.0,
       "summary": "日本央行经济展望报告，包含增长和通胀预测，影响亚太地区资本流向和投资决策",
+      "type": "政策动向"
+    },
+    {
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-08-28T16:00:00Z",
+      "score": 5.5,
+      "summary": "欧央行官员讨论央行数字货币与链上金融,涉及全球货币政策演进方向",
       "type": "政策动向"
     },
     {
@@ -418,19 +418,6 @@
       "score": 4.5,
       "summary": "日本央行日债持仓规模与结构变化，反映其货币政策立场调整及对全球债券市场的影响",
       "type": "持仓变动"
-    },
-    {
-      "title": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260729~4ad7508d8a.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-07-29T08:00:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行工资追踪器显示2027年Q1谈判工资压力稳定在2.7%,影响欧元区通胀前景和货币政策路径",
-      "type": "政策动向"
     },
     {
       "title": "Services Producer Price Index (July)",
