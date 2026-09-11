@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-11T14:11:36.580992Z",
+  "updated_at": "2026-09-11T23:54:43.763825Z",
   "source_count": 4,
-  "digest": "近期全球主要央行动态集中于货币政策立场与数字金融基础设施两条主线，对亚洲及新兴市场资产配置环境影响值得重点关注。\n\n货币政策方面，美联储FOMC会议纪要及7月贴现率会议纪要相继披露，市场对美国利率路径的预期仍是影响全球资本流向和人民币汇率的核心变量。与此同时，日本央行多项数据集中发布，包括8月货币基数、经常账户及市场操作情况，副行长亦就经济与货币政策发表演讲。当前日元汇率走势及日央行政策调整节奏，直接关系到亚太跨境资本流动格局，尤其对中国资产的境外需求及汇率联动效应形成潜在传导。日本银行业2025财年财报同步披露，亦可作为观察亚太金融体系稳健性的参考指标。\n\n数字货币与金融基础设施层面，日本央行CBDC试点项目取得阶段性进展，并召开第六次CBDC国际协调论坛；欧洲央行行长明确阐述构建欧洲代币化金融市场的战略愿景，官员亦就链上金融发表政策观点。主要经济体在数字货币领域的协调推进，意味着全球支付与资本流动的基础设施正处于加速演变期，中长期或对跨境投资结算机制产生结构性影响。\n\n中东主权财富基金方面，沙特PIF披露2025年收入与利润实现强劲增长，显示中东主权资本扩张动能持续，其对亚洲及新兴市场资产的配置意愿值得持续跟踪。",
+  "digest": "近期全球主要央行及主权基金动态集中，对亚太资本流动格局影响值得关注。美联储FOMC会议纪要及7月贴现率会议纪要相继披露，市场对美国货币政策路径的判断将直接作用于全球资本流向，并对人民币汇率预期形成传导压力。欧央行官员亦就欧元区经济前景发表表态，多重主要央行信号叠加，短期内跨境资本流动不确定性上升。\n\n日本央行方面动态密集，副行长就日本经济与货币政策发表演讲，结合8月货币基数、经常账户及市场操作数据的集中披露，以及7月贷款平均合同利率数据，整体指向日本货币政策正常化进程仍在推进，日元汇率及亚太流动性环境或随之出现阶段性波动，需关注对中国跨境资本流动的潜在溢出效应。与此同时，日本银行业2025财年财报发布，可作为观察日本金融体系风险状况与区域资产配置意愿的重要参考。\n\n数字货币与金融基础设施领域亦出现值得关注的进展。日本央行CBDC试点项目推进并召开第六次国际协调论坛，欧央行行长阐述欧洲代币化金融市场建设愿景，欧央行官员亦就链上金融展开讨论，反映主要经济体在新型支付基础设施方向上的共同布局趋势加速，对全球货币体系及跨境结算格局的中长期影响值得持续跟踪。此外，沙特公共投资基金（PIF）披露2025年收入与利润强劲增长，中东主权资本扩张动能延续，其在亚洲及新兴市场的配置方向仍是重要观察变量。",
   "items": [
     {
       "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
@@ -53,6 +53,19 @@
       "published_at": "2026-08-17T22:23:35.082414Z",
       "score": 6.5,
       "summary": "沙特公共投资基金2025年收入和利润增长强劲,反映中东主权基金资本扩张动能",
+      "type": "高管表态"
+    },
+    {
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-09-11T17:00:00Z",
+      "score": 5.5,
+      "summary": "欧央行官员阐述欧元区经济前景，涉及货币政策方向和全球资本流向预期",
       "type": "高管表态"
     },
     {
@@ -548,19 +561,6 @@
       "score": 4.0,
       "summary": "日本央行持有的日本政府债券规模，央行资产配置动向",
       "type": "持仓变动"
-    },
-    {
-      "title": "Corporate Goods Price Index (July)",
-      "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2607.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-08-12T23:50:00Z",
-      "score": 4.0,
-      "summary": "日本企业商品价格指数，反映亚洲通胀趋势与央行政策方向",
-      "type": "市场异动"
     },
     {
       "title": "PIF launches Gulf Coast Development Company to deliver an integrated coastal destination in Al-Khafji in Saudi Arabia’s Eastern Province",
