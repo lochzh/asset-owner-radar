@@ -1,8 +1,21 @@
 {
-  "updated_at": "2026-09-17T14:49:08.074536Z",
+  "updated_at": "2026-09-17T23:56:24.751324Z",
   "source_count": 4,
-  "digest": "近期全球主要央行动态较为集中，其中日本央行信息量最为密集，值得重点关注。从政策方向来看，日本央行8月货币基数、经常账户及市场操作数据相继披露，结合其持续持有大量日本国债的资产负债表状况，显示其货币政策立场仍处于渐进调整阶段。7月贷款平均合同利率数据亦印证利率环境的边际变化。上述因素叠加，对日元汇率走势及亚太地区跨境资本流向均构成重要影响，需持续跟踪其对人民币汇率及中国资产定价的传导效应。\n\n在区域金融合作层面，日本央行与马来西亚签署第三份双边货币互换协议，进一步强化了亚洲内部流动性安全网络。与此同时，日本银行业2025财年财报陆续出炉，其盈利状况与资本充足性是观察亚太金融体系稳健程度、评估区域资产配置环境的重要参考维度。\n\n在全球政策协调层面，美联储FOMC会议纪要所揭示的货币政策立场，仍是影响全球资本流向和新兴市场承压程度的核心变量，对人民币汇率预期管理亦具有较强的外溢效应。欧央行行长就资本配置、主权与人工智能发展的相关论述，折射出西方主要经济体在地缘政治重构背景下的政策思路转变，中长期来看或对跨境资本布局产生结构性影响。此外，日欧央行均在积极推进CBDC相关工作，数字货币基础设施的演进方向值得持续关注。",
+  "digest": "近期全球主要央行动态较为密集，其中亚洲方向的信号值得重点关注。日本央行在区域金融合作层面动作明显，先后与马来西亚签署第三份双边货币互换协议，并持续推进CBDC国际协调论坛工作，显示日本在构建亚洲流动性支持网络和数字货币基础设施方面的战略意图趋于清晰。与此同时，日本央行8月货币基数、经常账户及市场操作数据相继披露，结合其国债持仓规模，整体反映出当前宽松退出路径仍较审慎，日元汇率及亚太跨境资本流向短期内受此牵引。\n\n美联储FOMC会议纪要是本期另一核心变量。纪要所呈现的货币政策立场将直接影响美元流动性预期，进而传导至人民币汇率和新兴市场资本流向，需持续跟踪其对中国资产定价环境的潜在影响。欧洲央行方面，行长就资本配置、主权与AI发展的新时代作出论述，指向地缘政治背景下全球资产配置逻辑的结构性变化，欧元区经济前景表态亦对全球风险偏好有一定参考意义。\n\n综合来看，亚洲区域金融合作网络正在加速成形，CBDC技术竞争格局日趋明朗，而美欧货币政策分化走势仍是影响跨境资金流向和新兴市场资产表现的关键外部变量，后续需密切关注各方政策节奏的协同与分歧。",
   "items": [
+    {
+      "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
+      "url": "https://www.boj.or.jp/en/paym/digital/dig260911a.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-11T01:00:00Z",
+      "score": 7.0,
+      "summary": "日本央行数字货币试点项目进展报告,反映央行数字货币技术进展和地区竞争态势",
+      "type": "政策动向"
+    },
     {
       "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
       "url": "http://www.boj.or.jp/en/paym/digital/dig260911a.pdf",
@@ -40,6 +53,19 @@
       "published_at": "2026-08-19T18:00:00Z",
       "score": 6.5,
       "summary": "美联储FOMC会议纪要显示货币政策立场，影响全球资本流向和人民币汇率预期",
+      "type": "政策动向"
+    },
+    {
+      "title": "Signing of the Third Bilateral Swap Arrangement between Japan and Malaysia",
+      "url": "https://www.boj.or.jp/en/intl_finance/cooperate/coop260915a.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-15T06:00:00Z",
+      "score": 6.0,
+      "summary": "日本与马来西亚签署第三份双边货币互换协议,强化亚洲区域金融合作和流动性支持网络",
       "type": "政策动向"
     },
     {
@@ -329,6 +355,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Flow of Funds Accounts (2nd Quarter 2026, Preliminary Figures)",
+      "url": "https://www.boj.or.jp/en/statistics/sj/sj.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-16T23:50:00Z",
+      "score": 4.5,
+      "summary": "日本央行2026年二季度资金流向账户初步数据,反映日本金融市场流动性状况和资本配置动向",
+      "type": "政策动向"
+    },
+    {
       "title": "Federal Reserve issues FOMC statement",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
       "institution": "Fed",
@@ -524,6 +563,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "url": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260910.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-14T08:00:00Z",
+      "score": 4.0,
+      "summary": "日本央行持有的日本国债数据,反映央行资产负债表结构和国债市场影响",
+      "type": "持仓变动"
+    },
+    {
       "title": "Monetary policy decisions",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
       "institution": "ECB",
@@ -574,6 +626,19 @@
       "score": 4.0,
       "summary": "日本央行账户数据(8月20日)。日央行资产负债表变化反映亚洲央行政策取向。",
       "type": "市场异动"
+    },
+    {
+      "title": "IMES Discussion Paper Series (2026)",
+      "url": "https://www.boj.or.jp/en/research/imes/dps/dps26.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-14T02:00:00Z",
+      "score": 3.5,
+      "summary": "日本央行经济与货币研究所2026年讨论论文,属于学术研究发布",
+      "type": "其他"
     },
     {
       "title": "PIF launches Gulf Coast Development Company to deliver an integrated coastal destination in Al-Khafji in Saudi Arabia’s Eastern Province",
