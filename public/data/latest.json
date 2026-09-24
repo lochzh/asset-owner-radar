@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-24T00:16:24.521052Z",
+  "updated_at": "2026-09-24T14:48:33.764051Z",
   "source_count": 4,
-  "digest": "近期全球主要央行动态中，日本央行的政策调整值得重点关注。日本央行在9月货币政策会议上修改了货币市场操作指引，这一调整将直接影响日元流动性条件与亚洲资产定价环境，对跨境资本配置具有潜在传导效应。与此同时，日本央行最新发布的2026年二季度资金流量账户数据及国债持仓情况，进一步提示其资产负债表的动态演变，值得持续跟踪。\n\n在区域金融合作层面，日本央行与马来西亚签署第三份双边货币互换协议，进一步深化了亚洲区域流动性支持网络。这一举措与当前亚洲经济体强化金融韧性、降低外部冲击敏感性的整体趋势相吻合，也在一定程度上反映出亚洲货币合作机制的持续延伸。\n\n数字金融基础设施的演进是本期另一重要主线。日本央行多次更新CBDC试点进展，并参与第六次CBDC国际协调论坛；欧洲央行则通过Pontes结算系统完成代币化证券投资，并推动央行资金进入代币化金融领域。上述进展显示，主要发达经济体央行在数字资产基础设施上的探索正从研究阶段向实操落地加速推进，未来或对全球资产配置框架和跨境资本流动产生结构性影响。\n\n此外，欧洲央行行长就资本配置、主权与人工智能发展的新时代发表论述，涉及地缘政治与宏观政策方向，其所传递的信号可结合当前全球多极化趋势加以理解，中长期来看对新兴市场资本流向亦有参考意义。",
+  "digest": "近期全球主要央行动向呈现两条主线：一是货币政策操作层面的调整，二是金融基础设施数字化的加速推进。\n\n在货币政策与区域金融合作方面，日本央行于9月货币政策会议上调整了货币市场操作指引，此举直接影响日元流动性条件与亚洲资产定价，对跨境资本配置格局具有潜在传导效应，值得持续关注。与此同时，日本央行与马来西亚签署第三份双边货币互换协议，进一步夯实亚洲区域流动性支持网络，反映出亚太主要经济体在金融稳定机制建设上的持续深化意愿。日本央行最新披露的2026年二季度资金流量账户初步数据，亦可提供观察日本国内资本配置动向的窗口。\n\n数字货币与金融基础设施创新是另一重要观察维度。欧洲央行近期动作密集：一方面通过Pontes结算系统完成对代币化证券的投资操作，另一方面探索将央行资金引入代币化金融体系，显示发达经济体在金融基础设施现代化方面正从研究讨论阶段向实操落地推进。日本央行方面，CBDC论坛第六次会议的召开及数字货币试点进展报告的发布，折射出亚洲在央行数字货币领域的技术积累与国际协调布局。欧央行行长就资本配置、主权与人工智能发展的公开论述，亦值得关注其对全球宏观政策方向的潜在指示意义。",
   "items": [
     {
       "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
@@ -342,6 +342,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-09-24T09:00:00Z",
+      "score": 5.0,
+      "summary": "欧洲央行副行长莱恩评述欧元区经济前景,涉及全球主要经济体政策走向与资本流向",
+      "type": "高管表态"
+    },
+    {
       "title": "Amendment to \"Principal Terms and Conditions of the Funds-Supplying Operations to Support Financing for Climate Change Responses\"",
       "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
       "institution": "BOJ",
@@ -431,6 +444,19 @@
       "score": 5.0,
       "summary": "日本央行8月债券市场调查,涉及全球债市走势、利率政策及资本流向预期",
       "type": "政策动向"
+    },
+    {
+      "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-09-24T12:00:00Z",
+      "score": 4.5,
+      "summary": "欧洲央行执委施纳贝尔辞职赴IMF高管职位,反映全球央行政策协调态势变化",
+      "type": "高管表态"
     },
     {
       "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
