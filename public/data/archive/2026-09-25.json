@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-25T00:18:33.209620Z",
+  "updated_at": "2026-09-25T15:06:33.000275Z",
   "source_count": 4,
-  "digest": "近期全球主要央行动态集中于两条主线：数字货币基础设施建设提速，以及亚洲区域金融合作深化。\n\n在数字货币领域，日本央行CBDC试点项目持续推进，第六次CBDC国际协调论坛近期召开，推动跨境数字支付标准趋同。与此同时，欧洲央行动作更为积极，已通过Pontes结算系统实际投资代币化证券，并正式引入央行资金进入代币化金融体系，标志着发达经济体在数字资产基础设施建设上迈出实质性一步。上述进展共同反映出全球金融基础设施正处于结构性转型节点，对跨境资本流动框架和资产定价机制均存在中长期影响，值得持续关注。\n\n亚洲区域层面，日本央行近期多次调整货币市场操作指引，9月政策会议后相关调整落地，对日元流动性及亚洲资产定价具有直接传导效应。此外，日本与马来西亚签署第三份双边货币互换协议，进一步强化了亚洲区域流动性支持网络。日本央行同步披露2026年二季度资金流量账户初步数据，其资产配置动向值得结合政策立场变化加以研判。\n\n宏观叙事层面，欧洲央行行长就资本配置、主权竞争与人工智能发展之间的关系作出系统性论述，涉及地缘政治格局演变对全球政策协调的深层影响，为理解当前宏观环境提供了重要参考视角。",
+  "digest": "近期全球资产所有者动态中，最值得关注的核心主线是央行数字货币（CBDC）与金融基础设施数字化的加速推进。欧洲央行已率先通过Pontes结算系统实际投资代币化证券，并正式引入央行资金进入代币化金融领域，标志着发达经济体央行在数字资产实践上迈出实质性步伐。与此同时，日本央行推进CBDC试点并参与第六次CBDC国际论坛，亚欧主要央行在数字支付基础设施领域的协调合作正在提速，这一趋势将深刻影响未来跨境资本流动的结算机制与配置框架。\n\n在亚洲区域金融合作层面，日本央行与马来西亚签署第三份双边货币互换协议，进一步夯实亚洲流动性支持网络。此外，日本央行在9月货币政策会议上调整货币市场操作指引，对日元流动性及亚洲区域资产定价产生直接影响，跨境资本配置需关注日元汇率的阶段性波动。日本央行发布的2026年二季度资金流量账户初步数据亦值得追踪，可从中观察日本机构资本配置的结构性变化。\n\n从更宏观的视角看，欧洲央行行长就资本配置、主权与人工智能发展的关系发表论述，反映出地缘政治与技术变革正在重塑全球宏观政策的底层逻辑。私募信贷基金的持续扩张也被市场关注，全球另类资产配置格局的分化趋势值得持续跟踪。",
   "items": [
     {
       "title": "Central Bank Digital Currency Experiments: Progress Report on the Pilot Program (June 2026)",
@@ -67,6 +67,19 @@
       "score": 6.0,
       "summary": "日本央行持有日本国债情况，反映亚太地区央行资产配置和货币政策立场",
       "type": "持仓变动"
+    },
+    {
+      "title": "(BOJ Review)The Expansion and Diversification of Private Credit Funds",
+      "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e13.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-25T05:00:00Z",
+      "score": 5.5,
+      "summary": "私募信贷基金扩张和多元化趋势评析，影响全球另类资产配置格局",
+      "type": "市场异动"
     },
     {
       "title": "The digitalisation of money, payments and finance",
@@ -314,19 +327,6 @@
       "score": 5.5,
       "summary": "日本央行副行长就日本经济和货币政策发表演讲，影响亚洲流动性和汇率预期",
       "type": "政策动向"
-    },
-    {
-      "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-08-26T10:15:00Z",
-      "score": 5.5,
-      "summary": "欧洲央行行长阐述建设欧洲代币化金融市场愿景,涉及全球金融基础设施演进和资本配置方向",
-      "type": "高管表态"
     },
     {
       "title": "Philip R. Lane: The outlook for the euro area economy",
@@ -693,6 +693,32 @@
       "type": "市场异动"
     },
     {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260918.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-25T08:00:00Z",
+      "score": 4.0,
+      "summary": "日本央行日债持仓规模和动向，反映货币政策立场和资产配置导向",
+      "type": "持仓变动"
+    },
+    {
+      "title": "(BOJ Review) Granular Insights into Depositor Dynamics and Deposit Spreads in Japanese G-SIBs' Foreign Currency Deposits",
+      "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e12.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-25T05:00:00Z",
+      "score": 4.0,
+      "summary": "日本全球系统重要银行外币存款动向分析，涉及跨境资本流动",
+      "type": "市场异动"
+    },
+    {
       "title": "Boris Vujčić: Interview with Reuters",
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
       "institution": "ECB",
@@ -769,6 +795,32 @@
       "score": 4.0,
       "summary": "日本央行抵押品框架调整，反映央行政策立场和市场流动性环境",
       "type": "政策动向"
+    },
+    {
+      "title": "Conduct of Funds-Supplying Operations against Pooled Collateral",
+      "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260925a.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-25T08:00:00Z",
+      "score": 3.5,
+      "summary": "日本央行担保品池资金操作政策，影响日元流动性和区域金融条件",
+      "type": "政策动向"
+    },
+    {
+      "title": "Bank of Japan Accounts (September 20)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260920.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-25T01:00:00Z",
+      "score": 3.5,
+      "summary": "日本央行资产负债表月度数据公告，显示货币政策执行情况",
+      "type": "持仓变动"
     },
     {
       "title": "PIF launches Tawrid to provide supply-chain financing products in Saudi Arabia",
