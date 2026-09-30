@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-09-30T01:07:23.361090Z",
+  "updated_at": "2026-09-30T16:21:09.246931Z",
   "source_count": 13,
-  "digest": "近期亚洲货币政策动向较为密集，值得重点关注。中国人民银行在金融市场发展报告、货币政策工具体系及货币政策委员会多个层面均有新进展，整体信号指向流动性管理与资本市场开放并重，对境内资本成本走势及外资流入节奏具有直接影响。与此同时，日本央行最新货币政策会议纪要揭示其在利率路径上的审慎立场，日元汇率及日本国债持仓变化持续牵动区域资产配置逻辑，需密切跟踪对亚洲跨境资本流向的传导效应。\n\n在区域金融合作层面，日本央行与马来西亚签署第三份双边货币互换协议，进一步夯实亚洲流动性支持网络；CBDC国际协调论坛第六次会议的召开及日本央行数字货币试点的持续推进，亦显示亚太地区在新型支付基础设施建设上的提速态势，中长期或对跨境结算体系产生结构性影响。\n\n主权财富基金与长期资产所有者方面，卡塔尔投资局强化亚太地区咨询布局，显示中东主权资本对亚洲市场配置兴趣上升；新加坡GIC发布2025/26年报，其全球配置策略与对新兴市场的态度值得深入研读。GPIF则在可持续信息披露评价与影响力投资研究两个维度同步发力，反映日本养老资金ESG管理标准的持续趋严。日本央行对私募信贷市场扩张趋势的专项评析，也提示全球另类资产格局正在发生结构性变化，需关注其对传统固收配置的替代压力。",
+  "digest": "近期全球主要资产所有者及央行动态集中于货币政策信号与区域金融合作两条主线。中国人民银行方面动作密集，货币政策委员会近期召开会议，并同步更新货币政策工具体系相关表述，结合金融市场发展报告的发布，市场普遍关注后续流动性管理节奏及资本成本走向。上述信号对国内债券市场及人民币汇率预期均具有一定参考意义。\n\n亚洲区域金融合作层面出现值得关注的新进展。日本央行与马来西亚签署第三份双边货币互换协议，进一步强化亚洲流动性支持网络；与此同时，CBDC国际协调论坛第六次会议召开，日本央行亦公布数字货币试点进展，数字支付基础设施的区域竞争格局正在加速演变。日本央行最新货币政策会议纪要所传递的利率路径信号，仍是影响亚太资产配置的重要变量，需持续跟踪其对日元走势及跨境资本流动的传导效应。\n\n主权财富基金及大型养老金方面，卡塔尔投资局（QIA）组建亚太地区咨询团队，显示主权资本对亚洲市场的战略关注度提升。新加坡GIC发布2025/26年报，其配置策略与市场研判值得重点研读。日本GPIF则在影响力投资研究及资产管理人可持续信息披露评价方面有新进展，反映全球头部养老资金在ESG框架执行层面的持续深化。此外，美联储调整压力测试框架、下调资本要求波动性的举措，或对全球机构投资者风险偏好产生间接影响，可作为外部环境变量纳入观察。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -171,6 +171,19 @@
       "score": 6.0,
       "summary": "日本央行持有日本国债情况，反映亚太地区央行资产配置和货币政策立场",
       "type": "持仓变动"
+    },
+    {
+      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+      "institution": "Fed",
+      "source": "Federal Reserve Press Releases (美联储)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "US",
+      "published_at": "2026-09-30T13:00:00Z",
+      "score": 5.5,
+      "summary": "美联储调整压力测试框架以增强透明度并降低资本要求波动性，影响全球机构配置",
+      "type": "政策动向"
     },
     {
       "title": "GIC Annual Report 2025/26",
@@ -563,6 +576,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Quarterly Schedule of Outright Purchases of Japanese Government Bonds (Competitive Auction Method) (October-December 2026)",
+      "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260930a.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-30T08:00:00Z",
+      "score": 4.5,
+      "summary": "日本央行公布JGB购买计划，反映日本货币政策动向及资产配置信号",
+      "type": "政策动向"
+    },
+    {
       "title": "ECB amends monetary policy implementation guidelines as part of regular review",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
       "institution": "ECB",
@@ -888,6 +914,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-09-30T15:45:00Z",
+      "score": 4.0,
+      "summary": "ECB官员阐述重叠冲击下的货币政策立场，影响全球风险资产和利率走向",
+      "type": "高管表态"
+    },
+    {
       "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
       "institution": "Fed",
@@ -1068,6 +1107,19 @@
       "score": 4.0,
       "summary": "日本央行抵押品框架调整，反映央行政策立场和市场流动性环境",
       "type": "政策动向"
+    },
+    {
+      "title": "Liquidity Indicators in the JGB Markets (August)",
+      "url": "http://www.boj.or.jp/en/paym/bond/ryudo.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-09-30T07:00:00Z",
+      "score": 3.5,
+      "summary": "日本国债市场流动性数据发布，为机构配置日本资产提供参考",
+      "type": "市场异动"
     },
     {
       "title": "The Atlas of New Futures The eighth edition of the AXA Foresight Report takes the form of an Atlas of New Futures. Read more",
