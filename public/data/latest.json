@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-01T01:05:59.493884Z",
+  "updated_at": "2026-10-01T16:58:01.456125Z",
   "source_count": 13,
-  "digest": "近期全球主要资产所有者和央行动态较为集中，中国货币政策层面信号值得重点关注。中国人民银行近期密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，显示当前政策层对流动性管理和资本成本调控保持高度关注。上述动态综合来看，有助于研判国内利率走廊和市场资金面的中期走向，对境内债券及跨境资本流动均具参考价值。\n\n亚洲区域层面，日本央行动向同样值得持续追踪。日银最新货币政策会议纪要释放的利率与汇率信号，直接影响区域资产配置格局；与此同时，日银与马来西亚新签双边货币互换协议，进一步强化了亚洲区域金融安全网。日银在CBDC领域亦持续推进，第六次国际论坛顺利召开，多份数字货币试点报告相继发布，反映亚太地区央行数字基础设施建设提速，区域竞合态势趋于明朗。\n\n主权基金及大型养老金方面，新加坡GIC发布2025/26年度报告，其全球配置策略与亚洲市场观点值得深入研读。卡塔尔投资局QIA近期组建亚太地区咨询团队，或预示其对亚洲市场的关注度和配置意愿有所提升。日本GPIF则连续发布资产管理人可持续信息披露评价及影响力投资研究报告，ESG监管与信息披露标准对机构投资行为的影响仍在持续深化。\n\n全球宏观层面，美联储宣布调整压力测试框架，旨在增强透明度并降低资本要求波动性，此举将对全球机构投资者的配置行为及风险偏好产生间接传导效应，需结合美元流动性走势一并观察。",
+  "digest": "近期全球资产所有者动态中，中国央行政策信号最为集中，值得重点关注。人民银行近期密集发布金融市场发展报告，并就货币政策工具体系及货币政策委员会相关工作有所披露，涵盖流动性管理、资本成本调控及市场开放等多个维度，整体传递出政策层面对金融市场稳定运行的持续关注，相关动向将直接影响境内资本流动与债券市场定价逻辑。\n\n亚洲区域金融合作层面亦出现新进展。日本央行货币政策会议纪要显示其政策立场仍是区域资产配置的重要参考变量，而日本与马来西亚新签署的双边货币互换协议，进一步强化了东亚与东南亚之间的流动性支持网络，反映出亚洲主要经济体在区域金融安全网建设上的持续推进。与此同时，卡塔尔投资局设立亚太区域咨询团队，也在一定程度上印证主权财富基金对亚洲市场配置兴趣的上升。\n\n数字货币议题正成为多个主要机构的共同焦点。日本央行CBDC试点项目持续推进，欧央行官员亦就链上金融与数字货币监管框架展开讨论，CBDC论坛第六次会议的召开则推动了国际协调进程，全球央行数字货币领域的竞合态势日趋明显，其对跨境资本流动及支付基础设施的长期影响值得持续跟踪。此外，GPIF发布影响力投资报告并评估资管人可持续信息披露，反映主流长期资金在ESG实践标准化方面的最新取向。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -67,6 +67,19 @@
       "score": 7.0,
       "summary": "日本央行数字货币试点项目进展报告,涉及新型支付基础设施发展",
       "type": "政策动向"
+    },
+    {
+      "title": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-01T04:00:00Z",
+      "score": 6.5,
+      "summary": "日本央行披露经常账户变化与市场操作，反映亚洲主要央行政策立场及资本流向",
+      "type": "市场异动"
     },
     {
       "title": "\"Excellent Sustainability Disclosures\" and \"Most-improved Sustainability Disclosures\" from the Perspective of Materiality Selected by GPIF's Asset Managers Entrusted with Domestic Equity Investment PDF:884KB",
@@ -171,6 +184,19 @@
       "score": 6.0,
       "summary": "日本央行持有日本国债情况，反映亚太地区央行资产配置和货币政策立场",
       "type": "持仓变动"
+    },
+    {
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-10-01T15:30:00Z",
+      "score": 5.5,
+      "summary": "欧央行官员讨论央行数字货币与链上金融，涉及全球货币政策框架演变和数字资产监管方向",
+      "type": "政策动向"
     },
     {
       "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
@@ -407,17 +433,17 @@
       "type": "市场异动"
     },
     {
-      "title": "Sources of Changes in Current Account Balances and Market Operations (Aug.)",
-      "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf08.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
+      "title": "Christine Lagarde: Where AI risks meet",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
       "category": "central_bank",
       "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-01T04:00:00Z",
-      "score": 5.5,
-      "summary": "日本央行公布8月经常账户变化及市场操作,反映亚太资本流动及央行政策取向",
-      "type": "政策动向"
+      "country": "EU",
+      "published_at": "2026-10-01T13:30:00Z",
+      "score": 5.0,
+      "summary": "欧央行行长阐述AI风险与金融稳定关系，影响全球科技投资评估和风险定价",
+      "type": "高管表态"
     },
     {
       "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
@@ -574,19 +600,6 @@
       "score": 5.0,
       "summary": "日本央行高管阐述货币政策方向，影响亚太地区利率及资本流动预期",
       "type": "高管表态"
-    },
-    {
-      "title": "Bond Market Survey (August 2026)",
-      "url": "http://www.boj.or.jp/en/paym/bond/bond_list/bond2608.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-01T07:00:00Z",
-      "score": 5.0,
-      "summary": "日本央行8月债券市场调查,涉及全球债市走势、利率政策及资本流向预期",
-      "type": "政策动向"
     },
     {
       "title": "Tankan (Sept.): Summary and Outline",
@@ -938,19 +951,6 @@
       "score": 4.5,
       "summary": "日本央行日债持仓规模变化，影响亚洲流动性格局和资本流向",
       "type": "持仓变动"
-    },
-    {
-      "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-09-01T16:00:00Z",
-      "score": 4.5,
-      "summary": "欧央行官员阐述货币政策框架与家庭预期管理,涉及全球流动性环境与汇率政策",
-      "type": "政策动向"
     },
     {
       "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
