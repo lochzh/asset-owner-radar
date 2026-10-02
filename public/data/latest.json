@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-02T01:19:08.744206Z",
+  "updated_at": "2026-10-02T16:11:18.494107Z",
   "source_count": 13,
-  "digest": "近期全球资产所有者动态中，中国央行的政策信号最值得关注。人民银行密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关动态，涵盖流动性管理、资本成本调控及市场开放等核心议题，反映出当前中国货币政策框架正处于系统性梳理阶段，对境内外资本流动及人民币资产定价均有直接影响。\n\n日本方面动态同样密集。日本央行近期披露货币政策会议纪要及经常账户操作情况，其政策立场对区域汇率与资本流向具有重要传导效应。与此同时，日本央行加快推进CBDC试点，并参与第六次国际CBDC协调论坛，与马来西亚签署新一轮双边货币互换协议，显示日本在亚洲区域金融基础设施建设和流动性安全网构建上的布局持续深化。GPIF方面，该基金发布2025财年投资成果报告及截至2026年3月底的完整持仓明细，是观察全球最大养老基金在股债商品及跨区域资产配置动向的重要窗口，其可持续信息披露评价及影响力投资报告亦反映出ESG整合力度的进一步提升。\n\n此外，卡塔尔主权基金QIA近期公开其亚太地区咨询团队架构，表明该机构对亚洲市场的战略关注度有所提升，值得持续跟踪其在该区域的具体配置动向。",
+  "digest": "近期全球资产所有者动态中，中国央行（PBOC）的政策信号最值得关注。人民银行近期集中发布了金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，涵盖流动性管理、资本流动与市场开放等核心议题，整体传递出政策层面对稳定资本成本、引导市场预期的持续重视。这一系列动作对中国债券及权益市场的定价逻辑具有直接参考意义。\n\n亚洲区域金融合作层面亦出现值得追踪的新进展。日本央行（BOJ）最新货币政策会议纪要及经常账户操作数据，持续释放利率路径与汇率管理的政策信号，影响区域资本流向判断。与此同时，日本与马来西亚签署第三份双边货币互换协议，进一步夯实亚洲区域流动性支持网络，反映出主要经济体在美元流动性风险对冲上的协调意愿有所上升。BOJ与国际同行在CBDC论坛框架下的第六次协调会议，以及其国内数字货币试点进展，则共同指向新型支付基础设施竞争格局的加速演变。\n\n机构投资者动态方面，日本政府养老投资基金（GPIF）发布2025财年投资成果报告及截至2026年3月底的完整持仓明细，其在全球股债及另类资产上的配置比例变动，历来是观察大型主权资金风险偏好的重要参照。此外，GPIF持续推进资产管理人可持续信息披露评价及影响力投资研究，显示ESG整合已深入其管理人遴选机制。卡塔尔投资局（QIA）亚太咨询团队的近期动向，亦值得关注其对亚洲市场配置重心的潜在调整方向。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -459,6 +459,19 @@
       "type": "市场异动"
     },
     {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-02T08:00:00Z",
+      "score": 5.0,
+      "summary": "日本央行国债持仓数据，反映亚洲货币政策与债券市场动向",
+      "type": "持仓变动"
+    },
+    {
       "title": "Tankan (Sept.): Comprehensive Data Set",
       "url": "http://www.boj.or.jp/en/statistics/tk/tankan09b.htm",
       "institution": "BOJ",
@@ -628,17 +641,17 @@
       "type": "政策动向"
     },
     {
-      "title": "Speech by Board Member TAKATA in Sapporo (Economic Activity, Prices, and Monetary Policy in Japan)",
-      "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko260902a.htm",
+      "title": "Collateral Accepted by the Bank of Japan (End of Sept.)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
       "institution": "BOJ",
       "source": "Bank of Japan (日本央行)",
       "category": "central_bank",
       "is_firsthand": true,
       "country": "JP",
-      "published_at": "2026-09-02T01:30:00Z",
-      "score": 5.0,
-      "summary": "日本央行高管阐述货币政策方向，影响亚太地区利率及资本流动预期",
-      "type": "高管表态"
+      "published_at": "2026-10-02T08:00:00Z",
+      "score": 4.5,
+      "summary": "日本央行担保品接受范围调整，影响亚洲流动性与资产定价",
+      "type": "政策动向"
     },
     {
       "title": "Monetary Base (Sept.)",
@@ -992,17 +1005,17 @@
       "type": "政策动向"
     },
     {
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
       "category": "central_bank",
       "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-02T08:00:00Z",
-      "score": 4.5,
-      "summary": "日本央行日债持仓规模变化，影响亚洲流动性格局和资本流向",
-      "type": "持仓变动"
+      "country": "EU",
+      "published_at": "2026-10-02T13:00:00Z",
+      "score": 4.0,
+      "summary": "欧央行治理委员会决议，影响欧元区政策和资本流向",
+      "type": "政策动向"
     },
     {
       "title": "Average Contract Interest Rates on Loans and Discounts (Aug.)",
@@ -1200,16 +1213,16 @@
       "type": "政策动向"
     },
     {
-      "title": "Collateral Accepted by the Bank of Japan (End of Aug.)",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2608.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "institution": "Fed",
+      "source": "Federal Reserve Press Releases (美联储)",
       "category": "central_bank",
       "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-02T08:00:00Z",
-      "score": 4.0,
-      "summary": "日本央行抵押品框架调整，反映央行政策立场和市场流动性环境",
+      "country": "US",
+      "published_at": "2026-10-02T15:00:00Z",
+      "score": 3.5,
+      "summary": "美联储对地方银行执法行动，涉及全球金融稳定性",
       "type": "政策动向"
     },
     {
@@ -1289,19 +1302,6 @@
       "score": 3.5,
       "summary": "日本央行资产负债表月度数据公告，显示货币政策执行情况",
       "type": "持仓变动"
-    },
-    {
-      "title": "PIF launches Tawrid to provide supply-chain financing products in Saudi Arabia",
-      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/pif-launches-tawrid-to-provide-supply-chain-financing-products-in-saudi-arabia/",
-      "institution": "PIF",
-      "source": "Public Investment Fund (沙特PIF)",
-      "category": "sovereign",
-      "is_firsthand": true,
-      "country": "SA",
-      "published_at": "2026-09-20T14:02:57.032085Z",
-      "score": 3.5,
-      "summary": "沙特主权基金PIF推出供应链融资产品,涉及财务创新但无直接亚洲或中国投资影响",
-      "type": "其他"
     }
   ]
 }
