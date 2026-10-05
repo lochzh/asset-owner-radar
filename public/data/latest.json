@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-05T00:28:51.376661Z",
+  "updated_at": "2026-10-05T19:10:47.707274Z",
   "source_count": 13,
-  "digest": "近期全球主要资产所有者及央行动态较为集中，中日两国相关信号尤为值得关注。中国人民银行近期密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，涵盖流动性管理、资本成本调控及宏观政策导向多个维度，显示当前政策层对金融市场稳定与资本流动的重视程度持续提升，对境内外投资者研判中国资产定价环境具有重要参考价值。\n\n日本方面，日本政府养老投资基金（GPIF）披露截至2026年3月底的持仓明细及2025财年投资成果报告，其全球资产配置策略与收益率表现备受市场关注，作为全球最大养老基金之一，其仓位变化对亚太乃至全球资本流向均具有指示意义。与此同时，GPIF还就资产管理人可持续信息披露及影响力投资研究发布相关评价报告，反映其ESG整合力度持续深化。\n\n日本央行（BOJ）层面，货币政策会议纪要出炉，涉及利率路径、汇率预期及资本流向等关键信号，叠加日本与马来西亚新签双边货币互换协议，亚洲区域金融合作与流动性支持网络进一步延伸。BOJ在央行数字货币（CBDC）领域亦有新进展，试点项目报告持续更新，并参与CBDC国际协调论坛第六次会议，数字支付基础设施的地区竞争态势值得持续追踪。此外，卡塔尔投资局（QIA）亚太咨询团队的最新动向，也在一定程度上印证了主权财富基金对亚洲配置布局的持续关注。",
+  "digest": "近期全球资产所有者动态中，中国央行（PBOC）的政策信号最为值得关注。人民银行近期密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关动态，系统性地传递了当前中国流动性管理思路与资本市场政策走向。这一系列动作反映出决策层对金融市场运行和资本成本的主动引导意图，将直接影响境内外投资者对人民币资产的预期判断。\n\n日本方面动态同样密集。日本央行（BOJ）最新货币政策会议纪要及经常账户操作数据，持续释放利率和汇率走向的宏观信号，对区域资产配置具有重要参考价值。值得注意的是，日本与马来西亚新签双边货币互换协议，进一步夯实亚洲区域流动性支持网络，折射出亚洲主要经济体在金融合作层面的持续深化。与此同时，BOJ在央行数字货币（CBDC）领域加快推进试点，并积极参与CBDC国际协调论坛，显示数字支付基础设施竞争已进入实质性阶段。\n\n资产配置层面，日本政府养老投资基金（GPIF）发布2025财年投资成果报告及最新持仓明细，其全球股债商品配置比例及亚太市场权重值得持续跟踪，对研判国际长期资本流向具有重要参照意义。此外，卡塔尔投资局（QIA）近期强化亚太地区咨询团队配置，表明主权财富基金对亚洲市场的战略关注度有所提升。GPIF在可持续信息披露评价及影响力投资研究方面的最新进展，也反映出大型养老基金ESG整合要求持续趋严的行业趋势。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -472,6 +472,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-10-05T08:00:00Z",
+      "score": 5.0,
+      "summary": "欧央行官员讨论货币政策诊断挑战,涉及欧元政策取向和全球资本流向",
+      "type": "高管表态"
+    },
+    {
       "title": "Sources of Changes in Current Account Balances (Projections for Oct.)",
       "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqp/juqp2610.xlsx",
       "institution": "BOJ",
@@ -690,6 +703,19 @@
       "published_at": "2026-09-06T23:50:00Z",
       "score": 5.0,
       "summary": "日本央行与政府交易数据，反映日本货币政策立场变化",
+      "type": "政策动向"
+    },
+    {
+      "title": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
+      "url": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-05T05:00:00Z",
+      "score": 4.5,
+      "summary": "日本央行分析产出缺口和劳动力市场,影响日元政策和亚太资本配置",
       "type": "政策动向"
     },
     {
@@ -1275,32 +1301,6 @@
       "published_at": "2026-09-18T03:30:00Z",
       "score": 4.0,
       "summary": "日本央行修订补充存款便利条款,调整货币政策工具传导机制",
-      "type": "政策动向"
-    },
-    {
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "url": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260910.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-14T08:00:00Z",
-      "score": 4.0,
-      "summary": "日本央行持有的日本国债数据,反映央行资产负债表结构和国债市场影响",
-      "type": "持仓变动"
-    },
-    {
-      "title": "Monetary policy decisions",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-09-10T12:15:00Z",
-      "score": 4.0,
-      "summary": "欧央行货币政策决议，影响欧元资产吸引力和全球风险资产配置流向",
       "type": "政策动向"
     }
   ]
