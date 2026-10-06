@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-06T02:05:31.722522Z",
+  "updated_at": "2026-10-06T16:37:40.054966Z",
   "source_count": 13,
-  "digest": "近期全球资产所有者动态中，中国央行（PBOC）的政策信号最为值得关注。央行货币政策委员会近期活跃，围绕货币政策工具体系及金融市场发展方向发布系列报告，直接影响国内流动性环境与资本成本。与此同时，央行金融市场发展报告涉及资本流动相关政策取向，对外资配置人民币资产的预期管理具有参考意义。整体来看，PBOC当前政策框架仍处于调整期，相关信号值得持续跟踪。\n\n日本方面动态密集，日本政府养老投资基金（GPIF）发布2025财年投资成果报告及截至2026年3月底的持仓明细，涵盖股债及多资产在全球的配置比例变化，是观察全球最大养老基金资产配置策略调整的重要窗口。此外，GPIF同步披露资产管理人可持续信息披露评价及影响力投资研究报告，显示其ESG整合工作持续深化，或对亚太地区可持续投资标准形成示范效应。\n\n日本央行（BOJ）亦有多项进展值得关注。货币政策会议纪要释放的利率与汇率政策信号，对区域资产配置具有直接传导影响。与此同时，BOJ与马来西亚签署双边货币互换协议，进一步强化亚洲区域流动性支持网络；CBDC领域方面，BOJ数字货币试点项目持续推进并参与第六次国际CBDC论坛，反映亚洲主要央行在数字支付基础设施领域的协调提速。卡塔尔投资局（QIA）亦调整亚太地区咨询团队架构，或预示其亚洲配置策略正在优化布局。",
+  "digest": "近期全球资产所有者动态中，中国央行（PBOC）的政策信号最为值得关注。央行相继发布金融市场发展报告，并就货币政策工具体系及货币政策委员会动态释放信息，涵盖流动性管理、资本成本调控及资本流动方向等核心议题，直接影响境内债券、信贷及跨境资金配置的整体环境。与此同时，央行货币政策委员会研究员项目的推进也表明政策研究层面仍在积极补充中长期政策储备，宏观政策导向值得持续跟踪。\n\n亚洲主要机构的动向同样密集。日本央行（BOJ）公布最新货币政策会议纪要，并披露经常账户及市场操作变动，相关利率与汇率信号对区域资产配置具有直接参考价值。值得注意的是，日本与马来西亚新签双边货币互换协议，进一步夯实亚洲区域流动性支持网络，折射出区域金融合作持续深化的趋势。此外，BOJ主导的CBDC试点项目及CBDC论坛第六次国际协调会议相继推进，央行数字货币的技术路径与跨境互联标准正在加速成形。\n\n日本政府养老投资基金（GPIF）近期亦动作频繁，2025财年投资成果报告及截至2026年3月底的详细持仓数据相继披露，涉及股债商品等多类资产在亚太及全球市场的配置结构与收益率表现，是观察全球最大养老基金资产再平衡方向的重要窗口。此外，GPIF发布的资产管理人可持续信息披露评价及影响力投资研究报告，显示ESG整合在大型主权养老资金中的制度化程度持续提升。卡塔尔投资局（QIA）亚太咨询团队的组建动态，亦反映中东主权财富基金对亚洲市场的战略关注度仍在上升。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -210,6 +210,19 @@
       "score": 6.0,
       "summary": "日本央行持有日本国债情况，反映亚太地区央行资产配置和货币政策立场",
       "type": "持仓变动"
+    },
+    {
+      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-10-06T13:00:00Z",
+      "score": 5.5,
+      "summary": "欧央行讨论数字欧元、代币化和央行角色，涉及全球数字货币和金融创新战略",
+      "type": "政策动向"
     },
     {
       "title": "Opening Remarks by Deputy Governor UCHIDA at the ECONDAT 2026 Fall Meeting (AI, Big Data, and Monetary Policy)",
@@ -1288,19 +1301,6 @@
       "published_at": "2026-09-18T03:30:00Z",
       "score": 4.0,
       "summary": "日本央行修订补充存款便利条款，属于技术性政策调整，对亚太地区金融条件有间接影响",
-      "type": "政策动向"
-    },
-    {
-      "title": "Amendment to \"Principal Terms and Conditions of Complementary Deposit Facility\"",
-      "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-18T03:30:00Z",
-      "score": 4.0,
-      "summary": "日本央行修订补充存款便利条款,调整货币政策工具传导机制",
       "type": "政策动向"
     }
   ]
