@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-07T01:14:24.310531Z",
+  "updated_at": "2026-10-07T17:22:12.197750Z",
   "source_count": 13,
-  "digest": "近期全球主要资产所有者与政策机构动态集中于中日两国，信号密集。中国人民银行方面动作频繁，连续发布金融市场发展报告、货币政策工具体系文件，并召开货币政策委员会会议，系统传递了当前中国流动性管理思路与资本市场政策取向。上述信号对研判境内债券收益率走势、人民币汇率弹性及外资流入节奏具有直接参考意义，值得持续跟踪。\n\n日本方面，日本银行（BOJ）近期动向同样值得关注。货币政策会议纪要公布，市场对其利率路径预期持续分歧；与此同时，BOJ披露经常账户变动与市场操作细节，反映其在汇率波动背景下的政策立场调整。值得注意的是，日本与马来西亚签署第三份双边货币互换协议，进一步夯实亚洲区域金融安全网，有助于降低东南亚资本市场的流动性尾部风险。此外，BOJ主导的CBDC试点推进至第六次国际协调论坛，央行数字货币跨境互联进程提速，或对未来区域结算格局产生深远影响。\n\n在主权资产配置层面，日本政府养老投资基金（GPIF）发布2025财年投资成果报告及最新持仓明细，其全球股债比例调整及对亚太资产的配置权重变化，是观察大型被动资金流向的重要窗口。卡塔尔投资局（QIA）亦披露亚太区域咨询团队架构调整信息，显示主权财富基金对亚洲配置的战略重视程度持续提升。",
+  "digest": "近期全球资产所有者动态中，中国央行（PBOC）的政策信号最为值得关注。人民银行近期密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，显示当局正在系统性梳理流动性管理框架与资本市场政策导向。这一系列动作集中释放，或预示货币政策在工具选择与资本成本调控方面存在进一步调整空间，对国内债券市场及跨境资本流动均有潜在影响。\n\n亚洲区域政策协调层面，日本央行（BOJ）动作频密。货币政策会议纪要披露了利率与汇率政策的最新立场，经常账户数据与市场操作信息进一步揭示资本流向变化，两者共同构成区域资产配置的重要参考。与此同时，日本与马来西亚签署第三份双边货币互换协议，标志着亚洲区域流动性支持网络持续扩展，区域金融合作机制进一步深化。日本央行推进的CBDC试点项目及第六次CBDC国际论坛的召开，也表明数字货币基础设施建设正加速进入实质性协调阶段。\n\n机构投资者层面，全球最大养老基金GPIF披露了截至2026年3月底的详细持仓及2025财年投资成果，其在股债及亚太资产上的配置比例变化值得重点追踪。卡塔尔投资局（QIA）亦有亚太地区咨询团队相关动态，反映主权财富基金对亚洲市场的持续关注。此外，GPIF就资产管理人可持续信息披露及影响力投资议题发布专项研究，显示ESG整合要求在机构委托管理层面仍在不断强化。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -459,6 +459,19 @@
       "type": "高管表态"
     },
     {
+      "title": "Amounts Outstanding in the Call Money Market (Sept.)",
+      "url": "http://www.boj.or.jp/en/statistics/market/short/call/call.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-07T06:00:00Z",
+      "score": 5.0,
+      "summary": "日本央行隔夜拆借市场数据,显示日元流动性状况和日本金融条件,对亚洲资本流向有参考意义",
+      "type": "市场异动"
+    },
+    {
       "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
       "institution": "ECB",
@@ -677,6 +690,19 @@
       "published_at": "2026-09-08T23:50:00Z",
       "score": 5.0,
       "summary": "日央行货币供应量数据公布,反映日本流动性状况与央行政策效果,影响亚太资本配置",
+      "type": "政策动向"
+    },
+    {
+      "title": "Results of the September 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261007~6447350434.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-10-07T08:00:00Z",
+      "score": 4.5,
+      "summary": "欧洲央行信用条款调查,反映欧元债券融资市场流动性和融资成本趋势,影响全球资本配置",
       "type": "政策动向"
     },
     {
@@ -1070,6 +1096,19 @@
       "type": "高管表态"
     },
     {
+      "title": "Consumption Activity Index",
+      "url": "http://www.boj.or.jp/en/research/research_data/cai/index.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-07T05:00:00Z",
+      "score": 4.0,
+      "summary": "日本消费活动指数,反映日本经济景气度变化,影响区域增长预期和资产配置方向",
+      "type": "市场异动"
+    },
+    {
       "title": "Monetary Base and the Bank of Japan's Transactions (Sept.)",
       "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2609.pdf",
       "institution": "BOJ",
@@ -1263,45 +1302,6 @@
       "score": 4.0,
       "summary": "日本央行日债持仓规模和动向，反映货币政策立场和资产配置导向",
       "type": "持仓变动"
-    },
-    {
-      "title": "(BOJ Review) Granular Insights into Depositor Dynamics and Deposit Spreads in Japanese G-SIBs' Foreign Currency Deposits",
-      "url": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e12.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-25T05:00:00Z",
-      "score": 4.0,
-      "summary": "日本全球系统重要银行外币存款动向分析，涉及跨境资本流动",
-      "type": "市场异动"
-    },
-    {
-      "title": "Boris Vujčić: Interview with Reuters",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-09-18T06:00:00Z",
-      "score": 4.0,
-      "summary": "欧央行官员接受路透社采访,可能涉及货币政策立场与欧洲经济前景评估",
-      "type": "高管表态"
-    },
-    {
-      "title": "Amendment to \"Principal Terms and Conditions of Complementary Deposit Facility\"",
-      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918b.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-18T03:30:00Z",
-      "score": 4.0,
-      "summary": "日本央行修订补充存款便利条款，属于技术性政策调整，对亚太地区金融条件有间接影响",
-      "type": "政策动向"
     }
   ]
 }
