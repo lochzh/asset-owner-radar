@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T19:43:47.420784Z",
+  "updated_at": "2026-10-13T02:51:52.098206Z",
   "source_count": 12,
-  "digest": "近期全球主要央行与机构投资者动态密集，中日政策信号尤为值得关注。中国人民银行近期集中释放多项政策信号，涵盖金融市场发展报告、货币政策工具体系梳理及货币政策委员会相关动态，整体指向对国内流动性环境和资本市场开放路径的持续引导。上述动态叠加货币政策委员会研究员项目的推进，表明央行在政策研究与对外沟通层面正进一步加强体系化建设，中国资本成本与跨境资本流动方向值得持续追踪。\n\n日本方面，日本央行（BOJ）近期公布货币政策会议纪要及经常账户变化情况，并披露其持有日本国债的最新规模，政策正常化节奏仍是市场关注焦点。与此同时，日本与马来西亚签署第三份双边货币互换协议，进一步强化了亚洲区域金融安全网络，对区域流动性格局具有一定象征意义。日本政府养老投资基金（GPIF）则发布了截至2026年3月底的最新持仓明细及2025财年投资成果报告，作为全球最大养老基金，其全球资产配置调整动向对亚太市场资金面具有重要参考价值。\n\n在全球维度上，美联储议息会议纪要持续影响全球风险偏好与资本流向，对人民币汇率及新兴市场资产定价构成外部变量。卡塔尔投资局（QIA）亚太咨询团队的最新动态，则显示主权财富基金对亚洲配置的战略关注度仍在提升。欧央行围绕数字欧元与代币化的讨论，亦值得从中长期视角关注其对全球金融基础设施的潜在影响。",
+  "digest": "近期全球主要央行与主权基金动态密集，其中中国人民银行的多项政策信号尤为值得关注。央行近期集中披露货币政策工具体系、货币政策委员会动态及金融市场发展报告，涵盖流动性管理、资本成本调控及市场开放等核心议题，整体释放出对国内金融市场稳定运行的持续关注。与此同时，美联储议息会议纪要所传递的利率路径预期，将持续对人民币汇率走势及跨境资本流动产生外部扰动，需结合国内政策节奏综合研判。\n\n日本方面动态同样集中。日本央行最新货币政策会议纪要及经常账户操作数据，进一步明确了其在亚洲主要经济体中相对独特的政策立场；日本与马来西亚签署新一轮双边货币互换协议，则反映出亚洲区域金融安全网建设持续深化。作为全球最大养老基金，GPIF发布2025财年投资成果报告并披露截至2026年3月底的完整持仓明细，其在全球股债及商品资产中的配置权重变化，具有重要的市场参考意义，值得深入跟踪。\n\n此外，卡塔尔主权基金QIA组建亚太地区专项咨询团队，表明中东主权资本对亚洲市场的战略配置意愿仍在提升。欧央行就数字欧元与资产代币化展开内部讨论，亦预示全球数字金融基础设施建设进入新阶段，对未来跨境支付及资本市场结构的潜在影响值得持续关注。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -654,6 +654,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Corporate Goods Price Index (Sept.)",
+      "url": "http://www.boj.or.jp/en/statistics/pi/cgpi_release/cgpi2609.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-12T23:50:00Z",
+      "score": 4.5,
+      "summary": "日本9月企业商品价格指数，反映通胀趋势与央行政策方向，影响亚太资本流动",
+      "type": "市场异动"
+    },
+    {
       "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
       "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
       "institution": "Fed",
@@ -1015,19 +1028,6 @@
       "published_at": "2026-09-14T09:15:00Z",
       "score": 4.5,
       "summary": "欧洲央行官员论述宏观经济、财政和金融稳定性，涉及全球风险环境分析",
-      "type": "高管表态"
-    },
-    {
-      "title": "Christine Lagarde: Interview with Ouest-France",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-09-12T20:00:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行行长拉加德接受采访,可能涉及欧元政策、利率前景及全球经济展望",
       "type": "高管表态"
     },
     {
