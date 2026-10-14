@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-13T17:28:25.708920Z",
+  "updated_at": "2026-10-14T00:55:06.099298Z",
   "source_count": 12,
-  "digest": "近期全球资产所有者动态中，中国央行政策动向最为值得关注。中国人民银行密集更新货币政策工具体系、发布金融市场发展报告，并就货币政策委员会工作推进多项部署，释放出当局持续优化流动性管理、引导资本成本的政策意图。上述动态对国内债券市场定价、跨境资本流动以及人民币汇率走势均具有较强的信号意义，值得持续跟踪。\n\n亚洲主要机构方面，日本政府养老投资基金（GPIF）近期披露了截至2026年3月底的完整持仓明细及2025财年投资成果报告，涵盖股、债、商品等各类资产在全球的配置比例，是观察国际大型机构投资者战略偏好的重要参考。与此同时，日本央行公布最新货币政策会议纪要，并披露日本国债持仓变化，叠加日本与马来西亚签署第三份双边货币互换协议，显示日本在亚洲区域金融合作体系构建上持续用力，对区域内资本流向和流动性格局具有潜在影响。\n\n全球层面，美联储议息会议纪要揭示其利率路径判断，对全球风险资产定价及新兴市场资本流动具有传导效应。卡塔尔投资局（QIA）亚太咨询团队动态则显示中东主权财富基金对亚洲配置布局的持续关注。欧央行就数字欧元与代币化展开讨论，反映全球央行层面数字货币议题的推进态势，后续或对国际金融基础设施格局产生深远影响。",
+  "digest": "近期全球主要央行及主权基金动向较为集中，其中中日两国政策信号尤为值得关注。中国人民银行近期密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，显示中国货币政策框架正处于系统性梳理阶段，相关举措将直接影响国内流动性环境与资本成本，对债券市场及跨境资本流动具有重要参考意义。与此同时，美联储9月议息会议纪要的公布进一步明确了美国利率路径预期，其外溢效应将持续作用于人民币汇率走势及新兴市场资本流向。\n\n日本方面动向同样不容忽视。日本央行（BOJ）最新货币政策会议纪要释放了利率与汇率政策信号，叠加其国债持仓数据及货币供应量变化，反映出日本货币政策正处于微妙调整期，对区域资产配置逻辑具有牵引作用。值得一提的是，BOJ与马来西亚签署第三份双边货币互换协议，进一步深化了亚洲区域金融安全网建设，有助于增强东南亚市场流动性韧性。\n\n机构投资者层面，日本政府养老投资基金（GPIF）披露了截至2026年3月底的最新持仓明细及2025财年投资成果报告，其全球多资产配置策略与收益率表现为同类机构提供了重要参照。此外，卡塔尔投资局（QIA）亚太咨询团队的动向显示，主权财富基金对亚洲市场的战略关注度持续上升，值得跟踪其后续配置方向。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -171,6 +171,19 @@
       "score": 6.0,
       "summary": "日本央行持有日本国债情况，反映亚太地区央行资产配置和货币政策立场",
       "type": "持仓变动"
+    },
+    {
+      "title": "Money Stock (Sept.)",
+      "url": "http://www.boj.or.jp/en/statistics/money/ms/ms2609.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-13T23:50:00Z",
+      "score": 5.5,
+      "summary": "日本央行9月货币供应量数据，影响亚太流动性环境和资产配置决策",
+      "type": "市场异动"
     },
     {
       "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
@@ -420,6 +433,19 @@
       "type": "其他"
     },
     {
+      "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261013a.htm",
+      "institution": "Fed",
+      "source": "Federal Reserve Press Releases (美联储)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "US",
+      "published_at": "2026-10-13T18:00:00Z",
+      "score": 5.0,
+      "summary": "美联储8-9月议息会议纪要，涉及贴现率决策，影响全球流动性和资本流向",
+      "type": "政策动向"
+    },
+    {
       "title": "Regional Economic Report (Summary) (Oct. 2026)",
       "url": "http://www.boj.or.jp/en/research/brp/rer/rer261008.htm",
       "institution": "BOJ",
@@ -652,6 +678,19 @@
       "score": 5.0,
       "summary": "美联储9月FOMC会议经济预期发布，涉及美国增长、通胀、利率前景，直接影响全球EM资本流向及人民币汇率",
       "type": "政策动向"
+    },
+    {
+      "title": "Philip R. Lane: The AI opportunity for Europe",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-10-13T18:30:00Z",
+      "score": 4.5,
+      "summary": "欧洲央行官员论述AI机遇，反映发达经济体技术投资战略和资本配置方向",
+      "type": "高管表态"
     },
     {
       "title": "Corporate Goods Price Index (Sept.)",
