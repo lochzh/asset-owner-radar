@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-14T00:55:06.099298Z",
+  "updated_at": "2026-10-14T14:58:24.026121Z",
   "source_count": 12,
-  "digest": "近期全球主要央行及主权基金动向较为集中，其中中日两国政策信号尤为值得关注。中国人民银行近期密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，显示中国货币政策框架正处于系统性梳理阶段，相关举措将直接影响国内流动性环境与资本成本，对债券市场及跨境资本流动具有重要参考意义。与此同时，美联储9月议息会议纪要的公布进一步明确了美国利率路径预期，其外溢效应将持续作用于人民币汇率走势及新兴市场资本流向。\n\n日本方面动向同样不容忽视。日本央行（BOJ）最新货币政策会议纪要释放了利率与汇率政策信号，叠加其国债持仓数据及货币供应量变化，反映出日本货币政策正处于微妙调整期，对区域资产配置逻辑具有牵引作用。值得一提的是，BOJ与马来西亚签署第三份双边货币互换协议，进一步深化了亚洲区域金融安全网建设，有助于增强东南亚市场流动性韧性。\n\n机构投资者层面，日本政府养老投资基金（GPIF）披露了截至2026年3月底的最新持仓明细及2025财年投资成果报告，其全球多资产配置策略与收益率表现为同类机构提供了重要参照。此外，卡塔尔投资局（QIA）亚太咨询团队的动向显示，主权财富基金对亚洲市场的战略关注度持续上升，值得跟踪其后续配置方向。",
+  "digest": "近期全球资产所有者动态集中于中日两国政策层面，整体信号偏向区域金融合作深化与流动性环境调整。中国人民银行近期动作密集，货币政策委员会召开会议，同步更新货币政策工具体系并发布金融市场发展报告，显示当局正在系统性梳理流动性调控框架与资本市场发展路径，对中国境内资本成本及跨境资金流动具有直接参考价值。与此同时，美联储9月议息会议纪要披露，市场将密切关注其利率路径表态，这一外部变量将持续影响人民币汇率预期及新兴市场资本流向。\n\n日本方面，日本央行货币政策会议纪要出炉，结合其披露的经常账户变化与市场操作情况及9月货币供应量数据，可综合研判日本货币政策正常化节奏是否出现新变化。值得关注的是，日本与马来西亚签署第三份双边货币互换协议，叠加中日韩三国央行第十五次三边行长会议召开，区域金融安全网络进一步扩展，亚洲主要经济体在政策协调层面的意愿有所增强。\n\n资产配置层面，日本政府养老投资基金（GPIF）发布2025财年投资成果报告及截至2026年3月底的详细持仓数据，覆盖股债商品及各地区配置比例，是观察全球最大养老基金资产再平衡方向的重要窗口。卡塔尔投资局（QIA）亚太咨询团队的相关动态亦显示主权财富基金对亚洲区域的持续关注。GPIF同期发布的可持续信息披露评价及影响力投资报告，反映ESG议题在大型资产所有者决策框架中的权重仍在提升。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -27,6 +27,19 @@
       "published_at": "2026-09-28T18:02:16.590379Z",
       "score": 8.0,
       "summary": "央行货币政策工具体系,直接关乎中国流动性和资本成本",
+      "type": "政策动向"
+    },
+    {
+      "title": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
+      "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-14T11:00:00Z",
+      "score": 7.5,
+      "summary": "中日韩三国央行第十五次三边行长会议，涉及区域金融合作与亚洲货币政策协调",
       "type": "政策动向"
     },
     {
@@ -158,19 +171,6 @@
       "score": 6.0,
       "summary": "日本与马来西亚签署第三份双边货币互换协议,强化亚洲区域金融合作和流动性支持网络",
       "type": "政策动向"
-    },
-    {
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260910.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-14T08:00:00Z",
-      "score": 6.0,
-      "summary": "日本央行持有日本国债情况，反映亚太地区央行资产配置和货币政策立场",
-      "type": "持仓变动"
     },
     {
       "title": "Money Stock (Sept.)",
@@ -420,17 +420,17 @@
       "type": "高管表态"
     },
     {
-      "title": "Bank of Japan Accounts (September 10)",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac260910.htm",
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
       "institution": "BOJ",
       "source": "Bank of Japan (日本央行)",
       "category": "central_bank",
       "is_firsthand": true,
       "country": "JP",
-      "published_at": "2026-09-14T01:00:00Z",
-      "score": 5.5,
-      "summary": "日本央行账户披露，涉及亚太主要央行资产负债表和政策信号",
-      "type": "其他"
+      "published_at": "2026-10-14T08:00:00Z",
+      "score": 5.0,
+      "summary": "日本央行持有日债情况，反映主要央行资产配置策略与亚洲债市动向",
+      "type": "持仓变动"
     },
     {
       "title": "Minutes of the Board's discount rate meetings on August 17, September 9, and September 16, 2026",
@@ -678,6 +678,19 @@
       "score": 5.0,
       "summary": "美联储9月FOMC会议经济预期发布，涉及美国增长、通胀、利率前景，直接影响全球EM资本流向及人民币汇率",
       "type": "政策动向"
+    },
+    {
+      "title": "Frank Elderson: Ensuring resilience in the face of uncertainty",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261014~e4ca33588e.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-10-14T00:00:00Z",
+      "score": 4.5,
+      "summary": "欧央行副行长阐述金融体系韧性，涉及宏观政策框架与全球资本配置环境",
+      "type": "高管表态"
     },
     {
       "title": "Philip R. Lane: The AI opportunity for Europe",
@@ -1057,17 +1070,17 @@
       "type": "政策动向"
     },
     {
-      "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
+      "title": "Bank of Japan Accounts (October 10)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
       "category": "central_bank",
       "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-09-14T09:15:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行官员论述宏观经济、财政和金融稳定性，涉及全球风险环境分析",
-      "type": "高管表态"
+      "country": "JP",
+      "published_at": "2026-10-14T01:00:00Z",
+      "score": 4.0,
+      "summary": "日本央行账户数据披露，涉及央行资产负债表规模与货币政策立场信号",
+      "type": "市场异动"
     },
     {
       "title": "Twenty-fifth Meeting of the \"Council for Cooperation on Financial Stability\"",
