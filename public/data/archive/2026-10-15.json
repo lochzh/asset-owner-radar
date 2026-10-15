@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15T00:18:44.555076Z",
+  "updated_at": "2026-10-15T14:48:00.494178Z",
   "source_count": 12,
-  "digest": "近期全球主要资产所有者和政策机构动向较为密集，中国与亚洲相关信号尤为值得关注。人民银行方面，货币政策委员会召开会议，同期发布金融市场发展报告并推进货币政策工具体系建设，三项动态集中释放，反映出当局在维护流动性合理充裕、引导资本成本方面的政策意图趋于系统化。与此同时，美联储9月议息会议纪要出炉，市场对美联储后续降息节奏的预期将直接影响人民币汇率走势及跨境资本流动格局，需持续跟踪其与国内货币政策的联动效应。\n\n亚洲区域金融合作层面出现多个积极信号。日本央行与马来西亚签署第三份双边货币互换协议，中日韩三国央行亦举行第十五次三边行长会议，区域流动性安全网进一步夯实。日本央行货币政策会议纪要同步披露，结合其经常账户与市场操作数据，市场对日本利率路径及日元走势的判断将面临新的修正压力，这对亚太资产配置具有一定传导意义。\n\n机构配置层面，GPIF发布2025财年投资成果报告及截至2026年3月底的持仓明细，作为全球规模最大的养老基金之一，其在股债及另类资产上的全球配置比例调整具有重要参考价值。此外，卡塔尔主权基金QIA强化亚太地区咨询团队布局，GPIF亦就资产管理人可持续性信息披露和影响力投资进行专项研究，反映出主权及养老类长线资金在亚洲配置和ESG治理方面的关注度持续上升。",
+  "digest": "近期全球主要资产所有者动态集中于货币政策信号与亚洲资本流向两条主线。中国人民银行层面动作密集，货币政策委员会召开例会，货币政策工具体系与金融市场发展报告相继披露，系统性传递出当前国内流动性管理取向及资本市场政策框架；与此同时，美联储9月议息会议纪要公布，市场将持续评估其利率路径对人民币汇率及跨境资本流动的潜在传导效应。两大央行政策节奏的错位，仍是影响近期全球资产配置的核心变量。\n\n亚洲区域政策协调层面，中日韩三国央行举行第十五次三边行长会议，就区域金融合作与货币政策协调交换意见，释放出亚洲主要经济体维护区域金融稳定的积极信号。日本央行同步披露货币政策会议纪要及经常账户与市场操作数据，9月货币供应量数据亦同期发布，上述信息共同勾勒出日本当前政策立场，对亚太流动性环境及汇率走势具有参考意义。\n\n机构投资者方面，日本政府养老投资基金（GPIF）集中披露2025财年投资成果报告、可持续投资报告及资产管理人ESG信息披露评价，并发布影响力投资研究成果，反映全球超大型养老机构在ESG整合与影响力投资领域的实践深化。其截至2026年3月底的最新持仓明细亦予公开，股债商品及各地区配置比例值得关注。此外，卡塔尔投资局（QIA）亚太咨询团队动向显示，主权财富基金对亚洲市场的战略关注度持续提升。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -67,6 +67,19 @@
       "score": 7.0,
       "summary": "GPIF截至2026年3月底的投资组合持仓明细,包括股债商品等各类资产在亚太和全球的配置比例",
       "type": "持仓变动"
+    },
+    {
+      "title": "GPIF Publishes the FY2025 Sustainability Investment Report",
+      "url": "https://www.gpif.go.jp/en/investment/esg/gpif_publishes_the_2025_sustainability_investment_report.html",
+      "institution": "GPIF",
+      "source": "GPIF (日本政府养老金)",
+      "category": "pension",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-15T14:47:20.742067Z",
+      "score": 6.5,
+      "summary": "日本养老基金发布2025财年可持续投资报告,反映全球机构投资者ESG配置趋势和亚太地区资本流向",
+      "type": "政策动向"
     },
     {
       "title": "(Summary) Investment results for fiscal 2025 PDF:187KB",
@@ -158,19 +171,6 @@
       "score": 6.0,
       "summary": "QIA亚太地区咨询团队，亚洲配置重点",
       "type": "其他"
-    },
-    {
-      "title": "Signing of the Third Bilateral Swap Arrangement between Japan and Malaysia",
-      "url": "https://www.boj.or.jp/en/intl_finance/cooperate/coop260915a.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-15T06:00:00Z",
-      "score": 6.0,
-      "summary": "日本与马来西亚签署第三份双边货币互换协议,强化亚洲区域金融合作和流动性支持网络",
-      "type": "政策动向"
     },
     {
       "title": "Money Stock (Sept.)",
@@ -394,17 +394,17 @@
       "type": "政策动向"
     },
     {
-      "title": "Signing of the Third Bilateral Swap Arrangement between Japan and Malaysia",
-      "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop260915a.pdf",
+      "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
+      "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
       "institution": "BOJ",
       "source": "Bank of Japan (日本央行)",
       "category": "central_bank",
       "is_firsthand": true,
       "country": "JP",
-      "published_at": "2026-09-15T06:00:00Z",
-      "score": 5.5,
-      "summary": "日本央行与马来西亚签署第三份双边货币互换协议，强化亚洲金融合作与流动性管理",
-      "type": "政策动向"
+      "published_at": "2026-10-15T01:30:00Z",
+      "score": 5.0,
+      "summary": "日本央行委员讨论日本经济活动和货币政策,影响区域流动性环境和人民币汇率走势",
+      "type": "高管表态"
     },
     {
       "title": "Japanese Government Bonds Held by the Bank of Japan",
@@ -664,6 +664,19 @@
       "published_at": "2026-09-16T18:00:00Z",
       "score": 5.0,
       "summary": "美联储9月FOMC会议经济预期发布，涉及美国增长、通胀、利率前景，直接影响全球EM资本流向及人民币汇率",
+      "type": "政策动向"
+    },
+    {
+      "title": "Summary of the \"Meeting on Market Operations\" (October 2026)",
+      "url": "http://www.boj.or.jp/en/paym/market/mkt261015a.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-15T01:00:00Z",
+      "score": 4.5,
+      "summary": "日本央行2026年10月市场操作会议摘要,反映日本货币政策立场对亚太地区资本流动的影响",
       "type": "政策动向"
     },
     {
