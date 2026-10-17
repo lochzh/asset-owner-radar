@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T14:42:14.196585Z",
+  "updated_at": "2026-10-17T00:10:55.497974Z",
   "source_count": 12,
-  "digest": "近期中国货币政策动向密集，值得重点关注。人民银行货币政策委员会召开会议，同步推进货币政策工具体系建设，并发布金融市场发展报告，涉及资本流动管理与市场开放方向。上述信号整体指向央行在稳增长与防风险之间的政策取向，对国内流动性环境及资本成本具有直接影响，也将持续影响境内外投资者对人民币资产的配置判断。\n\n日本方面动态同样集中。日本央行货币政策会议纪要出炉，结合9月经常账户及货币供应量数据，显示日本流动性条件及利率路径的边际变化，对亚洲区域资本流向形成传导效应。作为全球最大养老基金，GPIF发布2025财年投资成果及可持续投资报告，并公开截至2026年3月底的详细持仓数据，其在股债及另类资产上的全球配置结构与收益表现，是观察国际长期资本动向的重要参照。\n\n区域协调层面，中日韩三国央行举行第十五次三边行长会议，议题涉及区域金融合作与货币政策协调，在当前全球宏观分化背景下，亚洲主要央行的政策沟通机制值得持续跟踪。此外，卡塔尔投资局（QIA）亚太区咨询团队的最新动态，亦反映中东主权基金对亚洲资产配置的持续关注，可作为跨区域资本流动的辅助观察指标。",
+  "digest": "近期中国货币政策动向密集，值得重点关注。人民银行在货币政策工具体系、货币政策委员会运作及金融市场发展报告等多个层面集中释放信号，表明当局正从流动性管理、资本成本调控和市场开放等多维度统筹推进政策布局。上述举措直接影响国内资本成本与跨境资本流动，对境内外人民币资产定价均具有较强的参考意义。\n\n日本方面动态同样不容忽视。日本央行最新货币政策会议纪要及9月货币供应量、部门账户数据显示，日本流动性环境仍处于政策调整的观察期，利率与汇率走向对亚太区域资本流动具有溢出效应。与此同时，中日韩三国央行召开第十五次三边行长会议，区域货币政策协调议题再度被提上日程，亚洲主要经济体政策联动信号有所增强。\n\n作为全球最大养老基金，GPIF密集发布2025财年投资成果报告、可持续投资报告及资产管理人可持续性评价，全面呈现其在全球股债商品等多类资产的配置比例与收益率表现，亦折射出国际主流机构投资者在ESG框架下调整资产结构的整体趋势。卡塔尔主权财富基金QIA组建亚太地区咨询团队，则进一步印证中东主权资本对亚洲市场的配置意愿持续上升，亚洲资产在全球资产所有者视野中的战略地位正在强化。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -394,19 +394,6 @@
       "type": "政策动向"
     },
     {
-      "title": "Flow of Funds Accounts (2nd Quarter 2026, Preliminary Figures)",
-      "url": "http://www.boj.or.jp/en/statistics/sj/sj.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-16T23:50:00Z",
-      "score": 5.5,
-      "summary": "日本央行发布2026年二季度资金流量账户初步数据，反映日本资本配置动向",
-      "type": "政策动向"
-    },
-    {
       "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
       "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
       "institution": "BOJ",
@@ -664,19 +651,6 @@
       "published_at": "2026-09-18T02:54:00Z",
       "score": 5.0,
       "summary": "日本央行九月政策会议货币操作指引变化参考文件，影响日元政策前景和亚洲流动性预期",
-      "type": "政策动向"
-    },
-    {
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
-      "institution": "Fed",
-      "source": "Federal Reserve Press Releases (美联储)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "US",
-      "published_at": "2026-09-16T18:00:00Z",
-      "score": 5.0,
-      "summary": "美联储9月FOMC会议经济预期发布，涉及美国增长、通胀、利率前景，直接影响全球EM资本流向及人民币汇率",
       "type": "政策动向"
     },
     {
@@ -1041,32 +1015,6 @@
       "published_at": "2026-09-18T03:15:00Z",
       "score": 4.5,
       "summary": "日本央行修订气候融资支持操作条款，反映绿色投资趋势，影响全球ESG资本配置方向",
-      "type": "政策动向"
-    },
-    {
-      "title": "Flow of Funds Accounts (2nd Quarter 2026, Preliminary Figures)",
-      "url": "https://www.boj.or.jp/en/statistics/sj/sj.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-16T23:50:00Z",
-      "score": 4.5,
-      "summary": "日本央行2026年二季度资金流向账户初步数据,反映日本金融市场流动性状况和资本配置动向",
-      "type": "政策动向"
-    },
-    {
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916a.htm",
-      "institution": "Fed",
-      "source": "Federal Reserve Press Releases (美联储)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "US",
-      "published_at": "2026-09-16T18:00:00Z",
-      "score": 4.5,
-      "summary": "美联储发布FOMC声明，影响全球资本流动和美元走势，对中国资产配置有重要参考价值",
       "type": "政策动向"
     },
     {
