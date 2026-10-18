@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T23:47:17.916732Z",
+  "updated_at": "2026-10-18T13:52:58.287864Z",
   "source_count": 12,
-  "digest": "近期全球资产所有者动态中，中国货币政策层面信号较为密集，值得重点关注。人民银行近期围绕金融市场发展、货币政策工具体系及货币政策委员会运作等多个维度集中发声，释放出对国内流动性管理和资本市场政策框架的系统性关注信号。与此同时，中日韩三国央行举行第十五次三边行长会议，区域货币政策协调意愿有所强化，对亚洲跨境资本流动的潜在影响不容忽视。\n\n日本方面动态同样较为活跃。GPIF陆续披露2025财年投资成果报告、最新持仓明细及可持续投资报告，其全球资产配置策略与收益率表现备受市场关注，作为全球最大养老基金之一，其配置调整对亚太区域资金流向具有重要风向标意义。日本央行方面，货币政策会议纪要及经常账户数据相继公布，结合9月部门账户余额数据，外界对日本利率路径及日元走势的判断或将进一步分化，这对区域利差交易和汇率风险管理均有直接影响。\n\n在主权财富基金层面，卡塔尔投资局组建亚太地区咨询团队的动态值得关注，显示出中东主权资本对亚洲市场配置兴趣的持续提升。欧洲央行行长拉加德在国际货币金融委员会的声明则提示，发达经济体货币政策分歧格局仍将延续，全球流动性环境的不确定性短期内难以消散，对新兴市场资产定价形成外部扰动。",
+  "digest": "近期全球资产所有者动态中，中国央行政策信号最为密集，值得重点关注。人民银行在货币政策工具体系、货币政策委员会决策及金融市场发展报告等多个层面密集发声，显示当局正在系统梳理流动性管理框架与资本市场政策方向，相关动态将直接影响国内资金成本与跨境资本流动节奏。与此同时，中日韩三国央行举行第十五次三边行长会议，区域货币政策协调意愿有所增强，在日元汇率波动背景下，亚洲主要经济体之间的政策联动值得持续追踪。\n\n日本方面动向同样突出。日本政府养老投资基金（GPIF）集中披露2025财年投资成果、可持续投资报告及资产管理人信息披露评价，显示这一全球最大主权养老基金正加速推进ESG整合与影响力投资体系建设，其全球及亚太资产配置比例的结构变化对区域资本流向具有风向标意义。日本央行方面，货币政策会议纪要及经常账户操作数据同步发布，市场对其加息路径的预期仍存在不确定性，日元走势及套息交易的稳定性将持续影响亚洲跨境资金格局。\n\n此外，卡塔尔投资局（QIA）亚太咨询团队的动向表明中东主权财富基金对亚洲市场的配置关注度有所提升，欧洲央行行长拉加德在国际货币金融委员会的表态则提示全球金融稳定风险仍是各方共同关切，外部环境对新兴市场资产的溢出效应不容忽视。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -368,45 +368,6 @@
       "type": "政策动向"
     },
     {
-      "title": "Change in the Guideline for Money Market Operations",
-      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-18T03:40:00Z",
-      "score": 5.5,
-      "summary": "日本央行调整货币市场操作指引，影响日元汇率和亚洲流动性环境，对跨境资本配置有潜在影响",
-      "type": "政策动向"
-    },
-    {
-      "title": "Change in the Guideline for Money Market Operations",
-      "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918a.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-18T03:40:00Z",
-      "score": 5.5,
-      "summary": "日本央行修改货币市场操作指引,影响日元流动性与亚洲资产定价",
-      "type": "政策动向"
-    },
-    {
-      "title": "(Reference) Change in the Guideline for Money Market Operations (September 2026 MPM)",
-      "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918b.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-18T02:54:00Z",
-      "score": 5.5,
-      "summary": "日本央行9月货币政策会议货币市场操作指引调整,影响日本金融条件与地区资产流动",
-      "type": "政策动向"
-    },
-    {
       "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
       "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
       "institution": "BOJ",
@@ -639,32 +600,6 @@
       "score": 5.0,
       "summary": "欧洲央行副行长莱恩评述欧元区经济前景,涉及全球主要经济体政策走向与资本流向",
       "type": "高管表态"
-    },
-    {
-      "title": "Amendment to \"Principal Terms and Conditions of the Funds-Supplying Operations to Support Financing for Climate Change Responses\"",
-      "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-18T03:15:00Z",
-      "score": 5.0,
-      "summary": "日本央行修改气候融资支持操作条款,体现绿色金融政策方向与资本配置导向",
-      "type": "政策动向"
-    },
-    {
-      "title": "(Reference) Change in the Guideline for Money Market Operations (September 2026 MPM)",
-      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/k260918b.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-18T02:54:00Z",
-      "score": 5.0,
-      "summary": "日本央行九月政策会议货币操作指引变化参考文件，影响日元政策前景和亚洲流动性预期",
-      "type": "政策动向"
     },
     {
       "title": "Summary of the \"Meeting on Market Operations\" (October 2026)",
@@ -1003,32 +938,6 @@
       "score": 4.5,
       "summary": "欧央行执委Lane接受采访,涉及货币政策立场与全球经济前景评估,影响资本流向与风险资产配置",
       "type": "高管表态"
-    },
-    {
-      "title": "ECB Consumer Expectations Survey results – August 2026",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-09-18T08:00:00Z",
-      "score": 4.5,
-      "summary": "欧央行8月消费预期调查结果,反映欧元区经济前景与通胀预期,影响全球资本流动",
-      "type": "政策动向"
-    },
-    {
-      "title": "Amendment to \"Principal Terms and Conditions of the Funds-Supplying Operations to Support Financing for Climate Change Responses\"",
-      "url": "https://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr260918a.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-18T03:15:00Z",
-      "score": 4.5,
-      "summary": "日本央行修订气候融资支持操作条款，反映绿色投资趋势，影响全球ESG资本配置方向",
-      "type": "政策动向"
     },
     {
       "title": "Bank of Japan Accounts (October 10)",
