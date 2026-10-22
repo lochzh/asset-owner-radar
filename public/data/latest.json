@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-21T15:00:01.883099Z",
+  "updated_at": "2026-10-22T00:27:27.823353Z",
   "source_count": 12,
-  "digest": "近期全球资产所有者动态较为密集，中国央行动向尤为值得关注。人民银行近期密集披露多项重要信息，包括金融市场发展报告、货币政策工具体系梳理以及货币政策委员会相关动态，整体传递出监管层对国内流动性管理和资本市场政策的系统性阐述。上述信号集中出现，反映出当前人民银行在政策工具运用和市场沟通方面的主动性有所增强，对于研判国内资本成本走势及跨境资本流动具有重要参考意义。\n\n亚洲区域层面，日本央行和GPIF的动态同样不容忽视。日本央行近期公布货币政策会议纪要并披露经常账户及市场操作情况，结合中日韩三国央行第十五次三边行长会议的召开，区域货币政策协调信号有所加强。与此同时，GPIF集中发布2025财年投资成果报告、可持续投资报告及资产管理人信披评价，其全球股债商品配置比例及亚太区域敞口的最新变化，对于观察国际大型机构在亚洲市场的资本流向具有指标性意义。\n\n在主权财富基金方面，卡塔尔投资局（QIA）就亚太地区咨询团队有所动作，显示中东主权资金对亚洲配置的持续关注。欧洲方面，欧央行行长拉加德在国际货币金融委员会发表声明，并有官员就气候与自然风险对经济竞争力的影响发声，反映欧洲主要机构在全球金融稳定框架下对风险因子的重新审视，亦对新兴市场资产配置环境构成外部参考背景。",
+  "digest": "近期中国货币政策动向值得重点关注。人民银行密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，涵盖中国流动性管理、资本成本走向及金融市场开放政策等核心议题，对国内债券及跨境资本流动均具有直接影响。与此同时，中日韩三国央行举行第十五次三边行长会议，区域货币政策协调意愿进一步显现，亚洲主要经济体在金融稳定框架方面的合作深度值得持续跟踪。\n\n亚洲主要机构投资者动态方面，日本政府养老投资基金（GPIF）近期集中披露2025财年投资成果报告、最新持仓明细及可持续投资报告，内容涵盖全球股债商品的配置比例与收益表现。鉴于GPIF体量庞大，其资产配置策略的边际变化对亚太区域资本流向具有一定指示意义，尤其是其ESG配置框架的演进及对亚太市场的敞口变化。日本央行方面，最新货币政策会议纪要及经常账户数据显示其政策立场仍处于关键观察窗口，日元汇率走势对区域资产配置的扰动不容忽视。\n\n在全球视角上，卡塔尔投资局（QIA）亚太咨询团队的组建动态表明中东主权财富基金对亚洲市场的关注度持续提升。欧洲央行行长拉加德在国际货币金融委员会的表态，以及欧央行官员就气候与自然风险对经济韧性影响的阐述，反映出全球主要央行在政策框架上将可持续风险纳入宏观审慎考量的趋势仍在延续，这对全球机构投资者的风险管理框架具有参考意义。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -589,6 +589,19 @@
       "type": "高管表态"
     },
     {
+      "title": "Senior Loan Officer Opinion Survey (Oct.)",
+      "url": "http://www.boj.or.jp/en/statistics/dl/loan/loos/release/loos2610.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-21T23:50:00Z",
+      "score": 4.5,
+      "summary": "日本央行高级贷款官调查反映日本信贷政策走向，影响亚太资本流动和日元汇率",
+      "type": "政策动向"
+    },
+    {
       "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
       "institution": "ECB",
@@ -1133,6 +1146,19 @@
       "score": 4.0,
       "summary": "GPIF替代资产与自主投资管理人注册制度",
       "type": "政策动向"
+    },
+    {
+      "title": "Statistics on Securities Financing Transactions in Japan",
+      "url": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-21T23:50:00Z",
+      "score": 3.8,
+      "summary": "日本证券融资交易统计显示日本市场流动性状况，间接影响区域资本配置",
+      "type": "市场异动"
     },
     {
       "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
