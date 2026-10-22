@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-22T00:27:27.823353Z",
+  "updated_at": "2026-10-22T14:59:46.667930Z",
   "source_count": 12,
-  "digest": "近期中国货币政策动向值得重点关注。人民银行密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，涵盖中国流动性管理、资本成本走向及金融市场开放政策等核心议题，对国内债券及跨境资本流动均具有直接影响。与此同时，中日韩三国央行举行第十五次三边行长会议，区域货币政策协调意愿进一步显现，亚洲主要经济体在金融稳定框架方面的合作深度值得持续跟踪。\n\n亚洲主要机构投资者动态方面，日本政府养老投资基金（GPIF）近期集中披露2025财年投资成果报告、最新持仓明细及可持续投资报告，内容涵盖全球股债商品的配置比例与收益表现。鉴于GPIF体量庞大，其资产配置策略的边际变化对亚太区域资本流向具有一定指示意义，尤其是其ESG配置框架的演进及对亚太市场的敞口变化。日本央行方面，最新货币政策会议纪要及经常账户数据显示其政策立场仍处于关键观察窗口，日元汇率走势对区域资产配置的扰动不容忽视。\n\n在全球视角上，卡塔尔投资局（QIA）亚太咨询团队的组建动态表明中东主权财富基金对亚洲市场的关注度持续提升。欧洲央行行长拉加德在国际货币金融委员会的表态，以及欧央行官员就气候与自然风险对经济韧性影响的阐述，反映出全球主要央行在政策框架上将可持续风险纳入宏观审慎考量的趋势仍在延续，这对全球机构投资者的风险管理框架具有参考意义。",
+  "digest": "近期全球主要资产所有者动态集中于中国货币政策信号、日本养老金配置调整以及亚太区域金融合作三条主线。中国人民银行密集发布金融市场发展报告、货币政策工具体系说明及货币政策委员会相关信息，从多个维度释放政策导向，市场需关注其对国内流动性环境和资本成本的综合影响。与此同时，央行货币政策委员会研究员项目的推进，亦反映出政策研究层面对宏观框架的持续完善。\n\n日本方面信息量较为密集。日本政府养老投资基金（GPIF）集中披露2025财年投资成果报告、截至2026年3月底的持仓明细及可持续投资相关报告，覆盖全球股债商品多类资产，是观察大型机构跨境资产配置动向的重要窗口。日本央行方面，货币政策会议纪要及经常账户数据同步更新，利率路径与汇率走势的政策信号值得持续跟踪，其对亚太资本流动的外溢效应不容忽视。\n\n在区域协调与主权基金层面，中日韩三国央行举行第十五次三边行长会议，聚焦亚洲货币政策协调与区域金融合作，是今年亚洲多边金融对话的重要节点。卡塔尔主权财富基金QIA亚太咨询团队的相关动态，以及新加坡GIC发布年度投资组合管理报告，均显示主权资本对亚太配置的持续关注。欧洲央行官员就气候与自然风险对竞争力影响的表态，则提示全球机构在风险管理框架层面的共同取向正在趋于一致。",
   "items": [
     {
       "title": "Financial Market Development Reports",
@@ -66,6 +66,19 @@
       "published_at": "2026-10-02T01:18:30.614589Z",
       "score": 7.0,
       "summary": "GPIF截至2026年3月底的投资组合持仓明细,包括股债商品等各类资产在亚太和全球的配置比例",
+      "type": "持仓变动"
+    },
+    {
+      "title": "Report on the Management of the Government’s Portfolio for the Year 2025/26",
+      "url": "https://www.gic.com.sg/newsroom/reports/report-on-the-management-of-the-governments-portfolio-for-the-year-2025-26/",
+      "institution": "GIC",
+      "source": "GIC (新加坡政府投资公司)",
+      "category": "sovereign",
+      "is_firsthand": true,
+      "country": "SG",
+      "published_at": "2026-10-22T14:59:01.769389Z",
+      "score": 6.5,
+      "summary": "新加坡主权财富基金GIC 2025/26年度投资组合管理报告,涉及全球资产配置策略调整",
       "type": "持仓变动"
     },
     {
@@ -355,6 +368,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-22T08:00:00Z",
+      "score": 5.0,
+      "summary": "日本央行日债持仓管理,影响亚太债券市场流动性和跨境资本流向",
+      "type": "政策动向"
+    },
+    {
       "title": "Speech by Board Member KOEDA in Kumamoto (Economic Activity, Prices, and Monetary Policy in Japan)",
       "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261015a.htm",
       "institution": "BOJ",
@@ -587,6 +613,19 @@
       "score": 5.0,
       "summary": "欧洲央行副行长莱恩评述欧元区经济前景,涉及全球主要经济体政策走向与资本流向",
       "type": "高管表态"
+    },
+    {
+      "title": "Developments in Real Exports and Real Imports",
+      "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-22T07:00:00Z",
+      "score": 4.5,
+      "summary": "日本央行关于实际出口进口动向分析,反映亚太贸易周期和央行政策前景",
+      "type": "市场异动"
     },
     {
       "title": "Senior Loan Officer Opinion Survey (Oct.)",
@@ -953,19 +992,6 @@
       "type": "高管表态"
     },
     {
-      "title": "Philip R. Lane: Interview with Le Temps",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-09-22T05:00:00Z",
-      "score": 4.5,
-      "summary": "欧央行执委Lane接受采访,涉及货币政策立场与全球经济前景评估,影响资本流向与风险资产配置",
-      "type": "高管表态"
-    },
-    {
       "title": "Bank of Japan Accounts (October 10)",
       "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261010.htm",
       "institution": "BOJ",
@@ -1159,6 +1185,19 @@
       "score": 3.8,
       "summary": "日本证券融资交易统计显示日本市场流动性状况，间接影响区域资本配置",
       "type": "市场异动"
+    },
+    {
+      "title": "Bank of Japan Accounts (October 20)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-10-22T01:00:00Z",
+      "score": 3.5,
+      "summary": "日本央行10月20日账户信息,属于常规财务披露",
+      "type": "其他"
     },
     {
       "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
