@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-29T01:35:48.479307Z",
+  "updated_at": "2026-10-29T16:48:38.807593Z",
   "source_count": 5,
-  "digest": "近期全球主要央行动态密集，政策信号对跨境资本流向影响显著。美联储相继发布9月议息会议纪要与最新FOMC声明，市场对其利率路径预期持续分化，这直接关系到新兴市场资本流入节奏与人民币汇率中枢走势，是当前配置决策中需重点跟踪的外部变量。与此同时，欧央行行长拉加德在国际货币金融委员会发表声明，就全球金融稳定前景表态，叠加欧央行内部就数字欧元与代币化议题的讨论，显示发达经济体货币当局在政策协调与金融创新两条线上均有新进展。\n\n亚洲区域层面，日本央行动作频繁，陆续披露9月经常账户变化、货币供应量及部门账户余额等数据，流动性投放节奏引发市场关注。值得注意的是，中日韩三国央行举行第十五次三边行长会议，就区域金融合作与亚洲货币政策协调进行深入沟通，在当前全球货币政策分化背景下，这一区域协调机制的重启具有一定信号意义。\n\n资产所有者层面，日本GPIF本期信息量较大，集中发布了2025财年投资成果报告、可持续投资报告及受信责任活动报告，全面呈现这一全球最大养老金在股债商品等各类资产上的配置比例与ESG策略动向，对机构参照全球同业配置框架具有较高参考价值。新加坡GIC方面，除年度投资组合管理报告更新外，还领投加拿大财富管理平台融资4.25亿美元，标的估值达138亿美元，反映主权基金对数字财富管理赛道保持主动布局。",
+  "digest": "近期全球主要央行政策动向集中释放，美联储9月议息会议纪要及FOMC声明显示其利率路径预期，对全球资本流动格局及人民币汇率走势具有直接牵引作用，是当前中国机构投资者制定跨境配置策略的重要参照。与此同时，欧央行行长拉加德在国际货币金融委员会发表声明，就全球货币政策协调与金融稳定前景表态，并就证券结算代币化及金融基础设施转型议题展开讨论，显示主要发达经济体在制度层面的变革正在加速推进。\n\n亚洲方面，日本央行与中韩央行召开第十五次三边行长会议，区域货币政策协调意愿有所强化，日本央行同步披露的经常账户变化、货币供应量及部门账户数据则进一步揭示了当前亚洲流动性投放节奏，对研判亚太资本流向具有参考意义。作为全球最大养老金，GPIF本期集中披露截至2026年3月底的详细持仓数据、2025财年投资成果、可持续投资报告及受信责任活动报告，其在股债商品及亚太区域的配置结构调整值得重点跟踪，或对区域市场资金面产生阶段性影响。\n\n主权财富基金层面，新加坡GIC年度投资组合管理报告显示其全球资产配置策略出现调整，并领投加拿大数字财富管理平台融资4.25亿美元、估值达138亿美元，反映头部主权基金持续加大对金融科技及数字财富管理赛道的战略布局。上述动向综合来看，全球资产所有者在宏观不确定性背景下，正同步关注流动性节奏、ESG治理深化及新兴技术赛道三条主线。",
   "items": [
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -119,6 +119,19 @@
       "score": 6.5,
       "summary": "日本央行披露经常账户变化与市场操作，反映亚洲主要央行政策立场及资本流向",
       "type": "市场异动"
+    },
+    {
+      "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-10-29T15:50:00Z",
+      "score": 5.5,
+      "summary": "欧洲中央银行讨论证券结算、代币化和金融基础设施转型，影响全球资本流动格局",
+      "type": "政策动向"
     },
     {
       "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
@@ -459,6 +472,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-10-29T14:00:00Z",
+      "score": 4.5,
+      "summary": "欧洲中央银行货币政策声明，可能影响欧元汇率和跨境资本配置",
+      "type": "高管表态"
+    },
+    {
       "title": "October 2026 euro area bank lending survey",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
       "institution": "ECB",
@@ -771,16 +797,16 @@
       "type": "政策动向"
     },
     {
-      "title": "ECB amends monetary policy implementation guidelines as part of regular review",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+      "title": "Monetary policy decisions",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
       "institution": "ECB",
       "source": "European Central Bank (欧洲央行)",
       "category": "central_bank",
       "is_firsthand": true,
       "country": "EU",
-      "published_at": "2026-09-29T08:00:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行例行审查调整货币政策实施指引，影响全球资本流向和欧元汇率",
+      "published_at": "2026-10-29T13:15:00Z",
+      "score": 4.0,
+      "summary": "欧洲中央银行货币政策决议，影响全球利率环境和新兴市场资本流向",
       "type": "政策动向"
     },
     {
