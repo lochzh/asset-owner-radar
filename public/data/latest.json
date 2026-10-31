@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-30T16:37:25.465451Z",
+  "updated_at": "2026-10-31T01:26:53.535945Z",
   "source_count": 5,
-  "digest": "近期全球主要央行及资产所有者动向较为密集，整体呈现政策分化与资产重新定价并行的态势。美联储最新FOMC声明落地，对全球资本流向形成直接牵引，人民币汇率及中国机构的跨境配置策略料将受到阶段性影响，需持续跟踪后续利率路径的市场预期变化。与此同时，欧央行行长拉加德在国际货币金融委员会发表声明，就全球金融稳定前景表态，主要经济体货币政策协调难度仍在上升。\n\n亚洲方面，日本央行动作频繁，更新了2026年四季度日债买入计划，并披露最新经常账户及市场操作数据，显示其在维系宽松与渐进正常化之间审慎取舍，对亚洲区域资本流向的外溢效应值得关注。中日韩三国央行第十五次三边行长会议就区域金融合作与货币政策协调展开探讨，是近期亚洲多边金融合作的重要信号节点。\n\n作为全球最大养老基金，GPIF本期集中发布了多份重要文件，涵盖2025财年投资成果报告、可持续投资报告及受信责任活动报告，其全球股债商品资产配置比例及ESG策略走向对亚太资本市场具有风向标意义。新加坡GIC则发布年度投资组合管理报告，并领投加拿大数字财富管理平台完成4.25亿美元融资，估值逾138亿美元，反映主权基金在金融科技领域的持续布局意愿。此外，ECB就证券结算与资产代币化基础设施转型的政策讨论，亦值得关注其对未来跨境资本流动规则的潜在影响。",
+  "digest": "近期全球主要资产所有者及央行动态较为密集，核心关注点集中在货币政策走向与区域资本流动两条主线。美联储最新FOMC声明仍是市场定价的核心锚点，其政策立场将直接影响全球资本在新兴市场与发达市场之间的再配置节奏，并通过汇率渠道对人民币及国内机构的跨境配置策略产生传导效应。与此同时，欧央行行长拉加德在国际货币金融委员会的表态进一步明确了欧洲货币政策对全球金融稳定的立场，值得结合美联储动向综合研判。\n\n亚洲央行层面动态同样值得重点关注。日本央行更新了日债购买计划并披露经常账户变化，流动性收放节奏对日元资产定价及跨境套利行为具有直接影响。中日韩三国央行举行第十五次三边行长会议，区域货币政策协调议题再度浮出水面，对亚洲本币资产及汇率稳定具有一定政策信号意义。\n\n主权基金及大型养老金方面，GPIF密集发布2025财年投资成果报告、可持续投资报告及受信责任活动报告，集中呈现了全球最大养老金在股债商品、ESG及全球配置层面的最新策略调整，对亚太资本流向具有较强参考价值。新加坡GIC则在发布年度组合管理报告的同时，领投加拿大数字财富管理平台逾4亿美元融资，反映主权基金持续加码金融科技与财富管理赛道的结构性布局取向。",
   "items": [
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -277,19 +277,6 @@
       "type": "政策动向"
     },
     {
-      "title": "Tankan (Sept.): Summary and Outline",
-      "url": "https://www.boj.or.jp/en/statistics/tk/tankan09a.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-30T23:50:00Z",
-      "score": 5.5,
-      "summary": "日本9月短观调查摘要与概览，日本经济景气与企业信心关键指标",
-      "type": "市场异动"
-    },
-    {
       "title": "Amendment to \"Basic Principles for Disposal of ETFs and J-REITs\"",
       "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
       "institution": "BOJ",
@@ -483,32 +470,6 @@
       "score": 5.0,
       "summary": "欧央行行长阐述AI风险与金融稳定关系，影响全球科技投资评估和风险定价",
       "type": "高管表态"
-    },
-    {
-      "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
-      "url": "https://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-30T23:50:00Z",
-      "score": 5.0,
-      "summary": "日本央行9月17-18日货币政策会议观点总结，关键亚洲央行政策信号",
-      "type": "高管表态"
-    },
-    {
-      "title": "Summary of Opinions at the Monetary Policy Meeting on September 17 and 18, 2026",
-      "url": "http://www.boj.or.jp/en/mopo/mpmsche_minu/opinion_2026/opi260918.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-30T23:50:00Z",
-      "score": 5.0,
-      "summary": "日本央行9月货币政策会议纪要，日元走势与亚太地区资产配置的关键信号",
-      "type": "政策动向"
     },
     {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
@@ -847,32 +808,6 @@
       "score": 4.5,
       "summary": "日本央行9月货币基数数据,涉及日元流动性供应和宏观货币政策取向对全球资本流向影响",
       "type": "政策动向"
-    },
-    {
-      "title": "Tankan (Sept.): Summary and Outline",
-      "url": "http://www.boj.or.jp/en/statistics/tk/tankan09a.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-09-30T23:50:00Z",
-      "score": 4.5,
-      "summary": "日本短观调查显示企业信心与经济前景，影响亚洲区域增长预期与资本流向",
-      "type": "市场异动"
-    },
-    {
-      "title": "Christine Lagarde: Interview with La Croix",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-09-30T17:00:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行行长拉加德接受采访，欧洲货币政策立场可能影响全球资本流向与新兴市场配置",
-      "type": "高管表态"
     },
     {
       "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
