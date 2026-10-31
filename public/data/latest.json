@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-31T01:26:53.535945Z",
+  "updated_at": "2026-10-31T15:41:12.191658Z",
   "source_count": 5,
-  "digest": "近期全球主要资产所有者及央行动态较为密集，核心关注点集中在货币政策走向与区域资本流动两条主线。美联储最新FOMC声明仍是市场定价的核心锚点，其政策立场将直接影响全球资本在新兴市场与发达市场之间的再配置节奏，并通过汇率渠道对人民币及国内机构的跨境配置策略产生传导效应。与此同时，欧央行行长拉加德在国际货币金融委员会的表态进一步明确了欧洲货币政策对全球金融稳定的立场，值得结合美联储动向综合研判。\n\n亚洲央行层面动态同样值得重点关注。日本央行更新了日债购买计划并披露经常账户变化，流动性收放节奏对日元资产定价及跨境套利行为具有直接影响。中日韩三国央行举行第十五次三边行长会议，区域货币政策协调议题再度浮出水面，对亚洲本币资产及汇率稳定具有一定政策信号意义。\n\n主权基金及大型养老金方面，GPIF密集发布2025财年投资成果报告、可持续投资报告及受信责任活动报告，集中呈现了全球最大养老金在股债商品、ESG及全球配置层面的最新策略调整，对亚太资本流向具有较强参考价值。新加坡GIC则在发布年度组合管理报告的同时，领投加拿大数字财富管理平台逾4亿美元融资，反映主权基金持续加码金融科技与财富管理赛道的结构性布局取向。",
+  "digest": "近期全球资产所有者动态密集，央行政策与主权基金动向并行，值得重点关注。美联储最新FOMC声明持续牵动全球资本流向，对人民币汇率及中国机构的跨境配置策略形成直接参考约束；与此同时，欧央行行长拉加德在国际货币金融委员会发表声明，就全球金融稳定前景表态，两大央行的政策基调共同构成当前宏观配置环境的核心背景。日本央行方面，除公布2026年四季度日债买入计划及9月部门账户与货币供应量数据外，中日韩三国央行亦召开第十五次三边行长会议，区域货币政策协调进程值得持续跟踪，其对亚洲资本流向的潜在影响不容忽视。\n\n主权基金与大型养老金的配置动向同样信息量丰富。GPIF集中披露多份报告，涵盖截至2026年3月底的完整持仓明细、2025财年投资成果及可持续投资报告，全球最大养老金在股债商品及亚太地区的配置比例变化，对同类机构具有较强参考意义；其受信责任活动报告亦反映出治理框架的持续演进。新加坡GIC方面，除发布年度投资组合管理报告披露全球资产配置策略调整外，还领投加拿大财富管理平台融资4.25亿美元（估值138亿美元），显示主权基金对数字财富管理赛道保持积极布局兴趣。\n\n主题性动态方面，欧央行就证券结算、资产代币化及金融基础设施转型展开讨论，相关进展或对全球资本流动格局产生中长期影响；欧央行官员亦就气候与自然风险对经济韧性的影响发表评述，与GPIF可持续投资报告共同印证ESG议题在机构投资者框架中的持续深化趋势。",
   "items": [
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -106,19 +106,6 @@
       "score": 6.5,
       "summary": "日本公务员养老基金(GPIF)2025财年投资成果报告,涉及全球资产配置策略和收益率表现分析",
       "type": "持仓变动"
-    },
-    {
-      "title": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
-      "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-01T04:00:00Z",
-      "score": 6.5,
-      "summary": "日本央行披露经常账户变化与市场操作，反映亚洲主要央行政策立场及资本流向",
-      "type": "市场异动"
     },
     {
       "title": "Philip R. Lane: AI adoption in Europe",
@@ -262,19 +249,6 @@
       "score": 5.5,
       "summary": "日本9月短观调查综合数据，关键经济景气指标影响亚洲增长预期与配置",
       "type": "市场异动"
-    },
-    {
-      "title": "Isabel Schnabel: Central banks on-chain",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-01T15:30:00Z",
-      "score": 5.5,
-      "summary": "欧央行官员讨论央行数字货币与链上金融，涉及全球货币政策框架演变和数字资产监管方向",
-      "type": "政策动向"
     },
     {
       "title": "Amendment to \"Basic Principles for Disposal of ETFs and J-REITs\"",
@@ -457,19 +431,6 @@
       "score": 5.0,
       "summary": "日本央行9月企业景气调查数据集,反映日本经济景气周期和出口导向型产业前景,影响亚太资产配置",
       "type": "市场异动"
-    },
-    {
-      "title": "Christine Lagarde: Where AI risks meet",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-01T13:30:00Z",
-      "score": 5.0,
-      "summary": "欧央行行长阐述AI风险与金融稳定关系，影响全球科技投资评估和风险定价",
-      "type": "高管表态"
     },
     {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
@@ -989,19 +950,6 @@
       "published_at": "2026-10-01T23:50:00Z",
       "score": 4.0,
       "summary": "日本央行8月贷款平均合同利率数据,反映日本银行体系融资成本和货币政策传导机制",
-      "type": "政策动向"
-    },
-    {
-      "title": "Sources of Changes in Current Account Balances and Market Operations (Sept.)",
-      "url": "https://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf09.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-01T04:00:00Z",
-      "score": 4.0,
-      "summary": "日本央行9月当前账户余额变化与市场操作，反映央行流动性管理与政策立场",
       "type": "政策动向"
     },
     {
