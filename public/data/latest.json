@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-01T00:44:12.715686Z",
-  "source_count": 5,
-  "digest": "近期全球资产所有者动态中，货币政策层面的信号最为值得关注。美联储FOMC最新声明持续牵动全球资本流向，对人民币汇率及中国机构投资者的跨境配置策略具有直接参考意义。与此同时，欧央行行长拉加德在国际货币金融委员会的表态涉及全球金融稳定前景，叠加欧央行对气候自然风险及AI技术投资趋势的评述，反映出主要央行在传统货币政策框架之外，正愈发关注结构性风险因素。日本央行方面，日债买入计划更新及9月货币供应量数据显示流动性节奏有所调整，需关注其对亚太区域资产价格的传导效应。\n\n亚洲主权财富基金与养老金的动向同样不容忽视。GPIF密集发布2025财年投资成果、可持续投资及受信责任活动三份报告，并披露截至2026年3月底的完整持仓明细，涵盖亚太与全球各类资产配置比例，是观察全球最大养老金战略取向的重要窗口。新加坡GIC则在全球资产配置报告之外，领投加拿大数字财富管理平台4.25亿美元融资，标的估值达138亿美元，折射出主权基金对金融科技赛道的持续布局兴趣。\n\n区域合作层面，中日韩三国央行第十五次三边行长会议聚焦区域金融合作与亚洲货币政策协调，在当前全球货币政策分化背景下，其政策协调意愿及潜在机制建设值得持续跟踪。欧央行推进证券结算与资产代币化的政策讨论，亦可能对跨境资本流动基础设施产生中长期影响。",
+  "updated_at": "2026-11-01T16:42:54.334676Z",
+  "source_count": 6,
+  "digest": "近期全球货币政策动向密集，美联储9月议息会议纪要及FOMC声明相继发布，市场对利率路径的预期持续分化，这直接影响美元走势与全球资本流动格局，对人民币汇率及中国机构的跨境配置策略构成重要参考。与此同时，欧央行行长拉加德在国际货币金融委员会发表声明，就全球金融稳定前景表态，叠加欧央行内部对证券结算、资产代币化及金融基础设施转型的讨论深化，显示发达经济体在制度层面的结构性变革正在加速。\n\n亚洲区域层面，中日韩三国央行召开第十五次三边行长会议，区域货币政策协调议题受到关注。日本央行方面动作频繁，更新2026年四季度日债买入计划，并公布9月货币供应量及部门账户余额数据，显示其流动性管理仍处于精细调控阶段，亚太整体流动性环境由此受到牵引。日本养老基金GPIF则同期发布受信责任活动报告及2025财年可持续投资报告，其在ESG框架下的资产配置调整动向值得持续跟踪。\n\n主权财富基金层面，新加坡GIC发布最新年度投资组合管理报告，并领投加拿大数字财富管理平台完成4.25亿美元融资，标的估值达138亿美元，反映主权资金对金融科技赛道仍保持积极布局意愿。沙特PIF与阿美石油完成HUMAIN交易，主权基金借助科技资产加速全球扩张的趋势亦进一步明朗。上述头部资产所有者的策略取向，对研判国际长线资金的配置偏好具有一定参照意义。",
   "items": [
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -28,19 +28,6 @@
       "score": 7.5,
       "summary": "中日韩三国央行第十五次三边行长会议，涉及区域金融合作与亚洲货币政策协调",
       "type": "政策动向"
-    },
-    {
-      "title": "Portfolio holdings by asset category as of Mar 31, 2026 1.1MB",
-      "url": "https://www.gpif.go.jp/en/performance/73509681gpif/unyoujoukyou_2025_20_en_2.xlsx",
-      "institution": "GPIF",
-      "source": "GPIF (日本政府养老金)",
-      "category": "pension",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-02T01:18:30.614589Z",
-      "score": 7.0,
-      "summary": "GPIF截至2026年3月底的投资组合持仓明细,包括股债商品等各类资产在亚太和全球的配置比例",
-      "type": "持仓变动"
     },
     {
       "title": "Wealthsimple raises $425 million led by GIC at $13.8 billion valuation to accelerate growth",
@@ -95,16 +82,16 @@
       "type": "政策动向"
     },
     {
-      "title": "(Summary) Investment results for fiscal 2025 PDF:187KB",
-      "url": "https://www.gpif.go.jp/en/performance/73509681gpif/gpifannual_report_summary_2025_en.pdf",
-      "institution": "GPIF",
-      "source": "GPIF (日本政府养老金)",
-      "category": "pension",
+      "title": "PIF and Aramco close HUMAIN transaction to accelerate HUMAIN’s global growth",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humain-global-growth/",
+      "institution": "PIF",
+      "source": "Public Investment Fund (沙特PIF)",
+      "category": "sovereign",
       "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-02T01:18:30.614587Z",
-      "score": 6.5,
-      "summary": "日本公务员养老基金(GPIF)2025财年投资成果报告,涉及全球资产配置策略和收益率表现分析",
+      "country": "SA",
+      "published_at": "2026-11-01T16:41:42Z",
+      "score": 5.5,
+      "summary": "沙特PIF与阿美石油完成HUMAIN交易,加速全球扩张,反映主权基金科技投资布局",
       "type": "持仓变动"
     },
     {
@@ -379,32 +366,6 @@
       "score": 5.0,
       "summary": "日本央行发布经常账户变化预测，涉及全球资本流动与汇率动向关键指标",
       "type": "市场异动"
-    },
-    {
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "url": "https://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-02T08:00:00Z",
-      "score": 5.0,
-      "summary": "日本央行持有日本政府债券数据，反映日元资产配置策略与亚洲固收市场动向",
-      "type": "持仓变动"
-    },
-    {
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260930.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-02T08:00:00Z",
-      "score": 5.0,
-      "summary": "日本央行国债持仓数据，反映亚洲货币政策与债券市场动向",
-      "type": "持仓变动"
     },
     {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
@@ -706,32 +667,6 @@
       "type": "政策动向"
     },
     {
-      "title": "Collateral Accepted by the Bank of Japan (End of Sept.)",
-      "url": "https://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-02T08:00:00Z",
-      "score": 4.5,
-      "summary": "日本央行9月末抵押品范围，影响亚洲流动性与央行政策立场",
-      "type": "政策动向"
-    },
-    {
-      "title": "Collateral Accepted by the Bank of Japan (End of Sept.)",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2609.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-02T08:00:00Z",
-      "score": 4.5,
-      "summary": "日本央行担保品接受范围调整，影响亚洲流动性与资产定价",
-      "type": "政策动向"
-    },
-    {
       "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
       "institution": "ECB",
@@ -872,19 +807,6 @@
       "published_at": "2026-10-05T00:20:00Z",
       "score": 4.0,
       "summary": "日本央行举办非传统数据与机器学习宏观经济学会议，展示央行政策工具现代化趋势",
-      "type": "政策动向"
-    },
-    {
-      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
-      "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-02T13:00:00Z",
-      "score": 4.0,
-      "summary": "欧央行治理委员会决议，影响欧元区政策和资本流向",
       "type": "政策动向"
     },
     {
