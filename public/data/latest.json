@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-02T01:18:15.979958Z",
+  "updated_at": "2026-11-02T20:08:58.488563Z",
   "source_count": 6,
-  "digest": "近期全球货币政策动向值得高度关注。美联储9月议息会议纪要及最新FOMC声明显示，其利率路径预期持续牵动全球资本流向，对人民币汇率及中国机构投资者的跨境配置策略构成直接参考。与此同时，亚洲货币政策协调有所推进，中日韩三国央行召开第十五次三边行长会议，就区域金融合作展开讨论；日本央行更新2026年四季度日债买入计划，并发布9月货币供应与部门账户数据，显示日本流动性环境仍处于结构性调整阶段，对亚太资产配置具有连带影响。欧洲方面，拉加德在国际货币金融委员会发表声明，欧央行亦就证券结算、资产代币化及金融基础设施转型展开讨论，全球资本流动格局或面临新一轮重塑。\n\n主权财富基金与大型养老金的配置动向同样不可忽视。新加坡GIC发布年度投资组合管理报告，并领投加拿大财富管理平台融资4.25亿美元，该平台估值达138亿美元，体现主权基金对数字财富管理赛道的战略布局。沙特PIF完成与阿美石油的HUMAIN交易，加快科技领域全球扩张步伐。日本GPIF则相继发布受信责任活动报告及2025财年可持续投资报告，其ESG配置框架调整对亚太地区资本流向具有一定风向标意义。\n\n综合来看，当前全球资产所有者在科技投资、ESG整合与流动性管理三条主线上均有明显动作，亚洲区域内的政策协调与资本联动趋势亦在加强，值得持续跟踪。",
+  "digest": "近期全球货币政策层面动向密集，对亚太资产配置影响值得重点关注。美联储FOMC最新声明持续牵引全球资本流向，对人民币汇率走势及中国机构投资者的跨境配置策略具有直接参考价值。与此同时，日本央行发布10月经济活动与物价展望报告，并更新2026年四季度日债购买计划，日元政策路径趋于明朗，叠加9月货币供应量及部门账户数据披露，亚太区域流动性环境的边际变化需持续跟踪。中日韩三国央行第十五次三边行长会议就区域金融合作与货币政策协调展开讨论，亦为亚洲多边货币机制后续走向提供信号。\n\n主权财富基金和大型养老金的配置动向同样值得关注。新加坡GIC本期动作频繁，一方面发布2025/26年度全球资产配置管理报告，另一方面领投加拿大数字财富管理平台融资4.25亿美元（估值138亿美元），反映主权基金对金融科技赛道的战略性布局。沙特PIF与阿美石油完成HUMAIN交易，进一步彰显中东主权基金在全球科技投资领域的扩张意图。日本GPIF则相继发布受信责任活动报告与可持续投资报告，ESG导向在全球最大养老金资产配置框架中的地位持续强化。\n\n欧央行层面，拉加德在国际货币金融委员会的发言涉及全球金融稳定前景，欧央行内部亦就证券结算、资产代币化及金融基础设施转型展开讨论，相关政策走向对跨境资本流动格局存在潜在影响。此外，欧央行官员就气候与自然风险对经济韧性的影响发表评述，AI采纳进程对欧洲增长前景的意义亦受到关注，上述议题在全球机构投资者风险管理框架讨论中正逐步升温。",
   "items": [
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -27,6 +27,19 @@
       "published_at": "2026-10-14T11:00:00Z",
       "score": 7.5,
       "summary": "中日韩三国央行第十五次三边行长会议，涉及区域金融合作与亚洲货币政策协调",
+      "type": "政策动向"
+    },
+    {
+      "title": "Outlook for Economic Activity and Prices (October 2026, full text)",
+      "url": "http://www.boj.or.jp/en/mopo/outlook/gor2610b.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-02T05:00:00Z",
+      "score": 6.5,
+      "summary": "日本央行10月经济活动与物价展望,日元政策走向将影响亚太资产配置与新兴市场资本流向",
       "type": "政策动向"
     },
     {
@@ -225,6 +238,19 @@
       "type": "高管表态"
     },
     {
+      "title": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-02T04:00:00Z",
+      "score": 5.0,
+      "summary": "日本央行账户余额与市场操作数据,反映日元流动性与亚太跨境资本流动变化",
+      "type": "市场异动"
+    },
+    {
       "title": "Amendment to \"Basic Principles for Disposal of ETFs and J-REITs\"",
       "url": "http://www.boj.or.jp/en/mopo/mpmdeci/mpr_2026/mpr261030a.pdf",
       "institution": "BOJ",
@@ -366,6 +392,19 @@
       "score": 5.0,
       "summary": "日本央行发布经常账户变化预测，涉及全球资本流动与汇率动向关键指标",
       "type": "市场异动"
+    },
+    {
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-11-02T09:30:00Z",
+      "score": 4.5,
+      "summary": "欧洲央行官员阐述欧洲经济韧性与一体化战略,涉及全球地缘政治分化背景下的资本配置逻辑",
+      "type": "高管表态"
     },
     {
       "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
