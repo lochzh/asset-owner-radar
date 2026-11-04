@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-04T01:56:16.501451Z",
+  "updated_at": "2026-11-04T17:53:47.771635Z",
   "source_count": 6,
-  "digest": "近期全球央行政策动向密集，对跨境资本流动影响值得高度关注。美联储FOMC最新声明仍是核心变量，其利率路径预期直接牵动人民币汇率走势与中国机构的境外配置成本；与此同时，拉加德在国际货币金融委员会的表态进一步明确欧洲货币政策立场，全球主要央行协调与分化并存的格局正在深化。日本央行方面动作尤为集中：10月经济展望报告、2026年四季度国债买入计划调整以及最新部门账户数据，共同勾勒出日央行在维持宽松与渐进退出之间的政策取向，日元走势对亚太资产重定价的潜在影响不容忽视。中日韩三国央行举行第十五次三边行长会议，区域货币政策协调机制持续推进，对亚洲新兴市场资本流向具有一定指引意义。\n\n主权财富基金层面，新加坡GIC动作频繁，一方面发布年度投资组合管理报告，披露全球资产配置策略调整方向；另一方面领投加拿大数字财富管理平台逾四亿美元融资，显示其对金融科技赛道的持续布局兴趣。沙特PIF则推进与阿美石油的HUMAIN科技交易并落地欧洲信贷安排，主权基金在科技与实体产业交叉领域的全球扩张态势明显。\n\n此外，ESG与数字基础设施议题持续升温。GPIF连续发布受信责任报告与可持续投资报告，折射出全球最大养老金在治理框架和ESG整合方面的系统性深化；欧央行围绕证券结算代币化、气候自然风险以及AI经济影响的系列表态，则预示监管政策调整将逐步重塑全球资本市场的基础设施生态与风险定价逻辑。",
+  "digest": "近期全球货币政策层面动向密集，对跨境资本流动影响值得关注。美联储最新FOMC声明落地，其政策立场直接牵动全球资金风险偏好与人民币汇率走势，对国内机构的海外配置节奏具有重要参考意义。与此同时，日本央行发布10月经济与物价展望报告并更新2026年四季度日债购买计划，日元政策走向仍存不确定性，或持续影响亚太地区资产吸引力及新兴市场资本流动格局。中日韩三国央行召开第十五次三边行长会议，区域货币政策协调议题再度提上日程，值得持续跟踪其对亚洲金融合作机制的潜在推动。\n\n主权财富基金方面，新加坡GIC近期动作频繁。一方面，其2025/26年度投资组合管理报告揭示全球资产配置策略的阶段性调整；另一方面，GIC领投加拿大数字财富管理平台4.25亿美元融资，标的估值达138亿美元，显示头部主权基金对金融科技赛道的战略布局持续深化。沙特PIF则推进与阿美石油的HUMAIN科技交易并落实欧洲信贷安排，反映中东主权资本在科技与跨区域产业合作方向的扩张意图。\n\n在ESG与金融基础设施议题上，日本GPIF相继发布受信责任活动报告及可持续投资报告，作为全球规模最大的养老基金，其治理框架与ESG策略调整对亚太机构投资者具有示范效应。欧央行方面，拉加德在国际货币金融委员会发表声明，同期官员就气候自然风险及证券结算代币化等议题发声，折射出欧洲在金融基础设施转型与风险管理框架重构方面的政策导向，对全球资本流动格局的中长期塑造不可忽视。",
   "items": [
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -238,6 +238,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-04T08:00:00Z",
+      "score": 5.0,
+      "summary": "日本央行持有日本国债规模数据,反映日央行货币政策立场与日债市流动性状况",
+      "type": "持仓变动"
+    },
+    {
       "title": "Sources of Changes in Current Account Balances and Market Operations (Oct.)",
       "url": "http://www.boj.or.jp/en/statistics/boj/fm/juqf/juqf10.xlsx",
       "institution": "BOJ",
@@ -368,19 +381,6 @@
       "type": "市场异动"
     },
     {
-      "title": "Philip R. Lane: Diagnostic Challenges for ECB Monetary Policy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261005~1d8d998ef4.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-05T08:00:00Z",
-      "score": 5.0,
-      "summary": "欧央行官员讨论货币政策诊断挑战,涉及欧元政策取向和全球资本流向",
-      "type": "高管表态"
-    },
-    {
       "title": "Bank of Japan Accounts (October 31)",
       "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261031.htm",
       "institution": "BOJ",
@@ -391,6 +391,19 @@
       "published_at": "2026-11-04T01:00:00Z",
       "score": 4.5,
       "summary": "日本央行10月31日财务报表,反映其资产配置和货币政策立场变化",
+      "type": "政策动向"
+    },
+    {
+      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-11-04T00:00:00Z",
+      "score": 4.5,
+      "summary": "欧央行工资追踪数据显示2027年前三季度工资增长略高于2026年全年,反映欧元区通胀与货币政策前景",
       "type": "政策动向"
     },
     {
@@ -693,16 +706,16 @@
       "type": "政策动向"
     },
     {
-      "title": "Output Gap, Potential Growth Rate, and Labor Market Indicators",
-      "url": "http://www.boj.or.jp/en/research/research_data/gap/index.htm",
+      "title": "Collateral Accepted by the Bank of Japan (End of  Oct.)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/col/col2610.xlsx",
       "institution": "BOJ",
       "source": "Bank of Japan (日本央行)",
       "category": "central_bank",
       "is_firsthand": true,
       "country": "JP",
-      "published_at": "2026-10-05T05:00:00Z",
-      "score": 4.5,
-      "summary": "日本央行分析产出缺口和劳动力市场,影响日元政策和亚太资本配置",
+      "published_at": "2026-11-04T08:00:00Z",
+      "score": 4.0,
+      "summary": "日本央行10月末接受抵押品范围与规模,体现央行流动性供给与风险管理政策取向",
       "type": "政策动向"
     },
     {
