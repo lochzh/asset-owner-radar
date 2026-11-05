@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-05T02:00:57.241043Z",
+  "updated_at": "2026-11-05T17:56:37.022699Z",
   "source_count": 6,
-  "digest": "近期全球宏观政策面呈现多点联动态势，对跨境资产配置影响不容忽视。美联储最新FOMC声明仍是核心变量，其利率路径预期直接牵动全球资本流向与人民币汇率走势，对国内机构的海外配置节奏及汇率对冲策略具有重要参考意义。与此同时，欧央行行长拉加德在国际货币金融委员会的发言进一步明确了主要经济体货币政策协调的基调，全球流动性环境整体趋于稳定但分化格局仍在延续。\n\n亚太地区政策动向值得重点关注。日本央行接连发布货币政策会议纪要及2026年四季度日债买入计划，10月经济与物价展望亦同步更新，显示日元利率政策路径渐趋明朗，日元走势对亚太资产重定价及新兴市场资本流向的传导效应值得持续跟踪。尤为值得关注的是，中日韩三国央行召开第十五次三边行长会议，区域货币政策协调机制再度激活，对亚洲本币债及跨境投资环境具有潜在正面意义。\n\n主权财富基金层面，新加坡GIC公布2025/26年度组合管理报告，并领投加拿大数字财富管理平台融资逾4亿美元，反映头部主权基金在金融科技赛道的战略布局持续深化。沙特PIF则双线推进——一方面获意大利担保信贷拓展欧洲资产版图，另一方面与阿美石油完成HUMAIN科技交易，彰显中东主权资本向科技领域加速转型的趋势。日本GPIF同期发布受信责任及可持续投资双报告，ESG整合深度进一步提升，或对全球机构ESG标准形成示范效应。",
+  "digest": "近期全球央行政策动向与主权基金动态较为密集，对亚太市场影响值得重点关注。美联储FOMC最新声明持续牵动全球资本流向，对人民币汇率及中国机构投资者的跨境配置策略构成直接参考。与此同时，日本央行方面动作频繁，涵盖货币政策会议纪要、10月经济与物价展望报告、债券市场小组会议及2026年四季度日债买入计划更新，显示日央行在利率正常化路径上保持审慎态度。日元政策走向与日债市场流动性的边际变化，将对亚太固收配置和新兴市场资金流向产生联动效应。值得注意的是，中日韩三国央行举行第十五次三边行长会议，区域货币政策协调议题再度提上日程，对亚洲资产配置环境具有一定信号意义。\n\n主权财富基金层面，新加坡GIC动作较为活跃。其年度投资组合管理报告显示全球资产配置策略有所调整，同时领投加拿大数字财富管理平台融资4.25亿美元、估值达138亿美元，反映头部主权基金对金融科技赛道的持续布局。沙特PIF则推进与阿美石油的HUMAIN科技交易，并获意大利3亿美元信贷担保以拓展欧洲布局，折射出中东主权基金加速多元化与全球扩张的战略取向。\n\nESG与科技议题亦是本期机构动态的重要线索。日本GPIF相继发布受信责任活动报告及可持续投资报告，作为全球最大养老金，其ESG配置导向对亚太市场机构资金流向具有较强示范效应。欧央行方面，官员分别就AI采纳进展、气候与自然风险以及代币化与证券结算基础设施转型发表表态，反映欧洲监管层在技术变革与风险管理框架上的政策考量，对全球资本流动格局的中长期演变具有参考价值。",
   "items": [
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -92,6 +92,19 @@
       "published_at": "2026-10-15T14:47:20.742067Z",
       "score": 6.5,
       "summary": "日本养老基金发布2025财年可持续投资报告,反映全球机构投资者ESG配置趋势和亚太地区资本流向",
+      "type": "政策动向"
+    },
+    {
+      "title": "Holding the Twenty-fifth Round of the \"Bond Market Group\" Meetings",
+      "url": "http://www.boj.or.jp/en/paym/bond/mbond_list/mbond261105.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-05T07:00:00Z",
+      "score": 5.5,
+      "summary": "日本央行召开债券市场小组会议，影响亚太固收市场和区域资本配置",
       "type": "政策动向"
     },
     {
@@ -235,19 +248,6 @@
       "published_at": "2026-10-07T18:00:00Z",
       "score": 5.5,
       "summary": "美联储9月议息会议纪要,涉及利率政策动向及宏观经济预期,影响全球资本流向及人民币汇率",
-      "type": "政策动向"
-    },
-    {
-      "title": "Piero Cipollone: Money in the digital age: digital euro, tokenisation and the role of central banks",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261006~0da978f159.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-06T13:00:00Z",
-      "score": 5.5,
-      "summary": "欧央行讨论数字欧元、代币化和央行角色，涉及全球数字货币和金融创新战略",
       "type": "政策动向"
     },
     {
@@ -405,6 +405,32 @@
       "score": 5.0,
       "summary": "日本央行隔夜拆借市场数据,显示日元流动性状况和日本金融条件,对亚洲资本流向有参考意义",
       "type": "市场异动"
+    },
+    {
+      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-11-05T08:00:00Z",
+      "score": 4.5,
+      "summary": "欧央行官员讨论货币政策前景，影响全球资本流向和新兴市场投资环境",
+      "type": "高管表态"
+    },
+    {
+      "title": "Piero Cipollone: Shaping the future of money",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-11-05T07:30:00Z",
+      "score": 4.5,
+      "summary": "欧央行官员论述未来货币制度，涉及全球金融格局和跨境投资策略",
+      "type": "高管表态"
     },
     {
       "title": "Bank of Japan Accounts (October 31)",
