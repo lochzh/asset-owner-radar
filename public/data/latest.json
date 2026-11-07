@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-06T17:17:46.435191Z",
+  "updated_at": "2026-11-07T01:39:49.438669Z",
   "source_count": 6,
-  "digest": "近期全球主要资产所有者动态较为密集，政策面与配置面均有值得关注的进展。美联储最新FOMC声明落地，其利率路径判断将直接影响全球资本流向，对人民币汇率及国内机构的海外配置策略具有重要参考意义。与此同时，日本央行在货币政策、债券市场操作及经济展望等多条线上持续发声，包括利率政策会议纪要、10月物价展望报告及2026年四季度日债买入计划更新，日元政策走向的不确定性仍是影响亚太固收市场和区域资本流动的核心变量之一。中日韩三国央行第十五次三边行长会议召开，区域货币政策协调议题值得持续跟踪。\n\n资产所有者配置动向方面，GPIF近期披露较为集中，涵盖2026财年一季度及二季度投资业绩、2025年受信责任活动报告及可持续投资报告，反映出全球最大养老基金在全球资产配置调整、ESG深化布局方面的整体取向，对亚太股债走势具有一定指示意义。新加坡GIC亦发布2025/26年度组合管理报告，同期领投加拿大数字财富管理平台融资逾4亿美元，估值达138亿美元，显示主权基金对财富科技赛道的战略兴趣。\n\n中东主权基金方面，沙特PIF与阿美石油完成HUMAIN科技交易，并获得意大利3亿美元信贷支持拓展欧洲布局，反映海湾主权基金在科技与跨区域产业合作上的加速延伸。欧央行官员就欧洲AI采纳进展的表态，亦为判断欧洲科技投资环境提供了边际参考。",
+  "digest": "近期全球资产所有者动态中，央行政策层面的信号最值得关注。美联储FOMC最新声明持续牵动全球资本流向，对人民币汇率走势及中国机构的跨境配置策略构成重要参考变量。与此同时，日本央行在货币政策、债券市场操作及2026年四季度日债购买计划等方面动作密集，其利率路径预期仍是亚太固收市场的核心扰动因素之一。中日韩三国央行第十五次三边行长会议召开，区域货币政策协调议题再度进入视野，值得持续跟踪其对亚洲资金流动格局的潜在影响。\n\n主权基金与大型养老基金的配置动向同样释放出若干结构性信号。GPIF连续披露2026财年一季度和二季度投资业绩，并发布受信责任报告及可持续投资报告，折射出全球最大养老金在ESG整合与资产再平衡方面的系统性推进。新加坡GIC年度组合管理报告同步更新，另领投加拿大数字财富管理平台4.25亿美元融资，显示主权基金对金融科技赛道的战略兴趣。沙特PIF则双线并进，一方面推进与阿美石油的HUMAIN科技交易，另一方面获得意大利担保的欧洲信贷额度，中东主权资本的全球多元化布局步伐未减。\n\n综合来看，当前全球大型机构投资者普遍面临利率不确定性与汇率波动的双重压力，亚太区域政策联动与主权资本的科技、ESG布局方向，是近期值得重点关注的两条主线。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -262,19 +262,6 @@
       "score": 5.5,
       "summary": "日本央行9月货币供应量数据，影响亚太流动性环境和资产配置决策",
       "type": "市场异动"
-    },
-    {
-      "title": "Minutes of the Federal Open Market Committee, September 15-16, 2026",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261007a.htm",
-      "institution": "Fed",
-      "source": "Federal Reserve Press Releases (美联储)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "US",
-      "published_at": "2026-10-07T18:00:00Z",
-      "score": 5.5,
-      "summary": "美联储9月议息会议纪要,涉及利率政策动向及宏观经济预期,影响全球资本流向及人民币汇率",
-      "type": "政策动向"
     },
     {
       "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
@@ -743,19 +730,6 @@
       "score": 4.5,
       "summary": "欧洲央行9-10月会议,涉及欧元区货币政策方向,影响全球资本流动和风险资产配置",
       "type": "政策动向"
-    },
-    {
-      "title": "Direct Investment by Region and Industry (2nd quarter 2026)",
-      "url": "http://www.boj.or.jp/en/statistics/br/bop_06/bpdata/diiqcy.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-07T23:50:00Z",
-      "score": 4.5,
-      "summary": "日本央行公布2026年二季度分地区分行业直接投资数据,反映亚太地区投资配置趋势",
-      "type": "持仓变动"
     },
     {
       "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
