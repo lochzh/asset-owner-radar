@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-07T01:39:49.438669Z",
+  "updated_at": "2026-11-07T16:13:51.848004Z",
   "source_count": 6,
-  "digest": "近期全球资产所有者动态中，央行政策层面的信号最值得关注。美联储FOMC最新声明持续牵动全球资本流向，对人民币汇率走势及中国机构的跨境配置策略构成重要参考变量。与此同时，日本央行在货币政策、债券市场操作及2026年四季度日债购买计划等方面动作密集，其利率路径预期仍是亚太固收市场的核心扰动因素之一。中日韩三国央行第十五次三边行长会议召开，区域货币政策协调议题再度进入视野，值得持续跟踪其对亚洲资金流动格局的潜在影响。\n\n主权基金与大型养老基金的配置动向同样释放出若干结构性信号。GPIF连续披露2026财年一季度和二季度投资业绩，并发布受信责任报告及可持续投资报告，折射出全球最大养老金在ESG整合与资产再平衡方面的系统性推进。新加坡GIC年度组合管理报告同步更新，另领投加拿大数字财富管理平台4.25亿美元融资，显示主权基金对金融科技赛道的战略兴趣。沙特PIF则双线并进，一方面推进与阿美石油的HUMAIN科技交易，另一方面获得意大利担保的欧洲信贷额度，中东主权资本的全球多元化布局步伐未减。\n\n综合来看，当前全球大型机构投资者普遍面临利率不确定性与汇率波动的双重压力，亚太区域政策联动与主权资本的科技、ESG布局方向，是近期值得重点关注的两条主线。",
+  "digest": "近期全球主要资产所有者动态较为集中，货币政策与大型主权基金配置调整是核心看点。美联储最新FOMC声明落地，其利率路径预期持续影响全球资本流向与人民币汇率走势，对国内机构的海外配置策略具有重要参考意义。与此同时，日本央行在货币政策会议纪要、债券市场小组会议及四季度日债买入计划等多项动作中释放信号，结合其10月经济展望对通胀路径的研判，市场对日元加息节奏的预期仍存分歧，这将直接影响亚太区固收资产吸引力及新兴市场资本流向，值得持续关注。\n\n亚太主要主权基金方面，GPIF连续披露2026财年一季度及二季度业绩，并发布受信责任活动报告与可持续投资报告，显示这一全球规模最大的养老基金在ESG整合与全球资产配置框架上正进行系统性梳理，其亚太股债敞口变化方向值得跟踪。新加坡GIC则在最新年度组合管理报告之外，以领投方身份参与加拿大数字财富管理平台4.25亿美元融资，标的估值达138亿美元，反映主权基金对财富科技赛道的战略布局持续深化。\n\n中东主权基金方面，沙特PIF与阿美石油完成HUMAIN科技交易，并获意大利担保3亿美元欧洲信贷额度，显示其全球多元化扩张步伐未减。此外，中日韩三国央行举行第十五次三边行长会议，区域金融合作与货币政策协调议题再度提上日程，对亚洲跨境资本流动的潜在影响值得关注。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -407,17 +407,17 @@
       "type": "政策动向"
     },
     {
-      "title": "Regional Economic Report (Summary) (Oct. 2026)",
-      "url": "http://www.boj.or.jp/en/research/brp/rer/rer261008.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
+      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
       "category": "central_bank",
       "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-08T05:00:00Z",
-      "score": 5.0,
-      "summary": "日本央行区域经济报告,反映日本经济动向和央行政策取向,影响亚太地区资产配置",
-      "type": "政策动向"
+      "country": "EU",
+      "published_at": "2026-11-07T14:00:00Z",
+      "score": 4.5,
+      "summary": "ECB主席拉加德接受日本媒体采访,涉及欧洲货币政策立场,可能影响全球资本流向和新兴市场估值",
+      "type": "高管表态"
     },
     {
       "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
@@ -719,19 +719,6 @@
       "type": "政策动向"
     },
     {
-      "title": "Meeting of 9-10 September 2026",
-      "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261008~a10153d090.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-08T11:30:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行9-10月会议,涉及欧元区货币政策方向,影响全球资本流动和风险资产配置",
-      "type": "政策动向"
-    },
-    {
       "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
       "url": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
       "institution": "BOJ",
@@ -834,19 +821,6 @@
       "score": 4.0,
       "summary": "日本央行召开第25次金融稳定合作委员会会议,讨论区域金融稳定议题",
       "type": "政策动向"
-    },
-    {
-      "title": "Piero Cipollone: Interview with Corriere della Sera",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261008~3184e7d0d0.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-08T06:00:00Z",
-      "score": 4.0,
-      "summary": "欧洲央行行长Cipollone采访,阐述欧洲经济政策立场,关乎欧元走势和全球资本配置格局",
-      "type": "高管表态"
     },
     {
       "title": "Statistics on Securities Financing Transactions in Japan",
