@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-08T01:08:03.136306Z",
+  "updated_at": "2026-11-08T16:35:06.611098Z",
   "source_count": 6,
-  "digest": "近期全球主要资产所有者动态中，货币政策层面的信号最值得关注。美联储最新FOMC声明对全球资本流向具有直接牵引作用，尤其对人民币汇率走势及中国机构的跨境配置策略影响不容忽视。与此同时，日本央行方面动态密集：货币政策会议纪要、10月经济与物价展望报告相继发布，日元政策走向持续影响亚太地区股债资产的相对吸引力及新兴市场资本流动格局。中日韩三国央行第十五次三边行长会议亦就区域金融合作与货币政策协调展开交流，对亚洲区域内资金流动具有一定政策参考意义。\n\n在全球最大养老基金GPIF方面，2026财年一季度及二季度投资业绩相继披露，其全球资产配置调整方向及亚太股债走势的映射值得持续跟踪。GPIF同步发布的受信责任活动报告与2025财年可持续投资报告，亦反映出国际头部机构在ESG整合与治理框架方面的系统化推进趋势，对国内机构具有参照意义。\n\n主权基金方面，新加坡GIC年度组合管理报告显示其全球配置策略有所调整，同时领投加拿大数字财富管理平台4.25亿美元融资，彰显主权资本对金融科技赛道的持续布局兴趣。沙特PIF则在欧洲融资与科技投资两条线同步推进，完成与阿美石油的HUMAIN交易并获意大利担保信贷支持，折射出中东主权基金加速多元化扩张的整体取向。欧央行官员对欧洲AI采纳进展的评述亦值得留意，或对科技相关资产的中长期预期产生边际影响。",
+  "digest": "近期全球资产所有者动态中，央行政策信号最为关键。美联储FOMC最新声明持续牵动全球资本流向，对人民币汇率走势及中国机构的跨境配置策略影响不容忽视。与此同时，日本央行在货币政策会议纪要及10月经济展望中释放的利率路径信号，叠加其最新日债购买计划调整，正深刻影响亚太固收市场估值与区域资本再分配节奏。中日韩三国央行第十五次三边行长会议亦值得关注，区域货币政策协调程度的变化将对亚洲新兴市场资本流向产生联动效应。\n\n资产所有者的配置动向同样传递出重要信息。全球规模最大的养老基金GPIF相继披露2026财年一、二季度投资业绩及2025年可持续投资报告与受信责任活动报告，其全球资产配置结构及ESG配置取向的变化，对亚太股债市场具有较强风向标意义。新加坡GIC年度组合管理报告显示其全球配置策略持续调整，另领投加拿大数字财富管理平台4.25亿美元融资，估值高达138亿美元，反映头部主权基金正加快布局金融科技赛道。\n\n中东主权基金方面，沙特PIF动作频出：一方面获意大利担保3亿美元信贷用于欧洲资产配置拓展，另一方面完成与阿美石油的HUMAIN科技交易，显示其全球扩张战略正从传统能源向科技领域加速延伸。欧央行官员就欧洲AI采纳进展发表评述，亦为研判科技投资趋势及欧洲经济增长前景提供了参考视角。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -706,19 +706,6 @@
       "type": "市场异动"
     },
     {
-      "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
-      "institution": "Fed",
-      "source": "Federal Reserve Press Releases (美联储)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "US",
-      "published_at": "2026-10-09T14:00:00Z",
-      "score": 4.5,
-      "summary": "美联储公布2025年美国家庭财务调查,反映美国消费者经济状况与宏观经济走向",
-      "type": "政策动向"
-    },
-    {
       "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
       "url": "http://www.boj.or.jp/en/about/release_2026/rel261106b.htm",
       "institution": "BOJ",
@@ -808,19 +795,6 @@
       "score": 4.0,
       "summary": "日本央行账户数据披露，涉及央行资产负债表规模与货币政策立场信号",
       "type": "市场异动"
-    },
-    {
-      "title": "Twenty-fifth Meeting of the \"Council for Cooperation on Financial Stability\"",
-      "url": "http://www.boj.or.jp/en/finsys/macpru/mac261009a.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-09T09:00:00Z",
-      "score": 4.0,
-      "summary": "日本央行召开第25次金融稳定合作委员会会议,讨论区域金融稳定议题",
-      "type": "政策动向"
     },
     {
       "title": "Statistics on Securities Financing Transactions in Japan",
