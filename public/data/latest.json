@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-08T16:35:06.611098Z",
+  "updated_at": "2026-11-09T01:28:13.724740Z",
   "source_count": 6,
-  "digest": "近期全球资产所有者动态中，央行政策信号最为关键。美联储FOMC最新声明持续牵动全球资本流向，对人民币汇率走势及中国机构的跨境配置策略影响不容忽视。与此同时，日本央行在货币政策会议纪要及10月经济展望中释放的利率路径信号，叠加其最新日债购买计划调整，正深刻影响亚太固收市场估值与区域资本再分配节奏。中日韩三国央行第十五次三边行长会议亦值得关注，区域货币政策协调程度的变化将对亚洲新兴市场资本流向产生联动效应。\n\n资产所有者的配置动向同样传递出重要信息。全球规模最大的养老基金GPIF相继披露2026财年一、二季度投资业绩及2025年可持续投资报告与受信责任活动报告，其全球资产配置结构及ESG配置取向的变化，对亚太股债市场具有较强风向标意义。新加坡GIC年度组合管理报告显示其全球配置策略持续调整，另领投加拿大数字财富管理平台4.25亿美元融资，估值高达138亿美元，反映头部主权基金正加快布局金融科技赛道。\n\n中东主权基金方面，沙特PIF动作频出：一方面获意大利担保3亿美元信贷用于欧洲资产配置拓展，另一方面完成与阿美石油的HUMAIN科技交易，显示其全球扩张战略正从传统能源向科技领域加速延伸。欧央行官员就欧洲AI采纳进展发表评述，亦为研判科技投资趋势及欧洲经济增长前景提供了参考视角。",
+  "digest": "近期全球资产所有者动态中，央行政策层面的信号最值得关注。美联储最新FOMC声明对全球资本流向具有基准性影响，人民币汇率及国内机构的跨境配置节奏均需参照研判。与此同时，日本央行在货币政策会议纪要、债券买入计划调整及经济展望报告中持续释放信号，日元政策走向直接牵动亚太股债格局及新兴市场资金进出；中日韩三国央行第十五次三边行长会议召开，区域货币政策协调意愿有所深化，值得持续跟踪其对人民币国际化及区域金融合作的潜在影响。\n\n资产配置层面，全球最大养老基金GPIF密集披露信息，涵盖2026财年一、二季度业绩、受信责任报告及可持续投资报告，从业绩表现到ESG策略均有更新，其在亚太股债市场的配置动向对区域资金面具有风向标意义。新加坡GIC亦发布年度组合管理报告，并领投加拿大数字财富管理平台融资逾4亿美元，估值接近140亿美元，反映主权基金在财富科技赛道的战略布局持续深化。\n\n中东主权基金方面，沙特PIF动作频出：一方面获得意大利3亿美元信贷担保，推进欧洲资产配置；另一方面完成与沙特阿美的HUMAIN交易，加快科技领域全球化扩张。欧央行官员就欧洲AI采纳进展发表评述，亦为科技投资前景提供了政策层面的参考背景。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -264,6 +264,19 @@
       "type": "市场异动"
     },
     {
+      "title": "Market Operations by the Bank of Japan (Oct.)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/fm/ope/m_release/2026/ope2610.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-08T23:50:00Z",
+      "score": 5.0,
+      "summary": "日本央行10月市场操作,影响日元汇率及亚洲流动性环境,对区域资产配置有间接影响",
+      "type": "政策动向"
+    },
+    {
       "title": "Speech by Governor UEDA at the 2026 Michel Camdessus Central Banking Lecture, International Monetary Fund",
       "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261107a.htm",
       "institution": "BOJ",
@@ -404,6 +417,19 @@
       "published_at": "2026-10-13T18:00:00Z",
       "score": 5.0,
       "summary": "美联储8-9月议息会议纪要，涉及贴现率决策，影响全球流动性和资本流向",
+      "type": "政策动向"
+    },
+    {
+      "title": "Monetary Base and the Bank of Japan's Transactions (Oct.)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/mbt/mbt2610.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-08T23:50:00Z",
+      "score": 4.5,
+      "summary": "日本央行10月货币基数及交易数据,反映日本宽松政策姿态,影响亚太利率环境和资本流向",
       "type": "政策动向"
     },
     {
@@ -704,6 +730,19 @@
       "score": 4.5,
       "summary": "日本9月企业商品价格指数，反映通胀趋势与央行政策方向，影响亚太资本流动",
       "type": "市场异动"
+    },
+    {
+      "title": "Bank of Japan's Transactions with the Government (Oct.)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/tseifu/release/2026/seifu2610.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-08T23:50:00Z",
+      "score": 4.0,
+      "summary": "日本央行10月政府交易数据,显示央行政策操作方向,可能影响区域债券市场和汇率预期",
+      "type": "政策动向"
     },
     {
       "title": "(IMES Newsletter) 2026 BoC - Philadelphia Fed - BOJ Joint Workshop",
