@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T02:26:27.537543Z",
+  "updated_at": "2026-11-13T17:36:31.860905Z",
   "source_count": 6,
-  "digest": "近期全球主要资产所有者动态中，央行政策信号最值得重点关注。美联储FOMC最新声明持续牵动全球资本流向，对人民币汇率及中国机构投资者的跨境配置策略具有直接参考意义。与此同时，日本央行方面动态密集：货币政策会议纪要、债券市场小组会议以及10月货币供应量和经济展望报告相继发布，显示日元利率政策走向仍存不确定性，这将持续影响亚太固收市场及新兴市场资本流动格局。中日韩三国央行第十五次三边行长会议的召开，亦折射出区域货币政策协调诉求有所上升。\n\n在机构投资者层面，日本GPIF动作频繁，连续公布2026财年一季度及二季度业绩，并发布年度受信责任报告与可持续投资报告，其全球资产配置调整方向及ESG配置趋势值得跟踪，对研判亚太股债资金流向具有参考价值。新加坡GIC则在两个维度释放信号：一是年度投资组合管理报告揭示其全球资产配置策略调整；二是领投加拿大数字财富管理平台4.25亿美元融资，标的估值达138亿美元，体现主权基金对金融科技赛道的战略兴趣。\n\n中东主权基金方面，沙特PIF与阿美石油完成HUMAIN项目交割，并获意大利担保3亿美元欧洲信贷额度，显示其在科技投资与欧洲资产布局上持续提速，全球扩张步伐未见放缓。",
+  "digest": "近期全球主要资产所有者动态较为集中，日本方向信息量最大，值得重点关注。GPIF连续披露2026财年一季度及二季度投资业绩，并发布年度受信责任报告与可持续投资报告，显示这一全球规模最大的养老基金正在系统性梳理其全球配置框架与ESG路径，亚太股债走向与新兴市场敞口或受到直接牵引。与此同时，日本央行近期动作密集，货币政策会议纪要、债券市场小组会议、货币供应量数据以及经济活动与物价展望报告相继出炉，其国债持仓规模亦有更新。日元政策走向的不确定性持续存在，对区域流动性环境和新兴市场资本流动的潜在扰动不可忽视，对人民币资产的跨境配置逻辑亦构成间接影响。\n\n美联储方面，最新FOMC声明落地，全球资本流向预期随之调整，人民币汇率及中国机构投资者的跨境配置策略面临再评估压力，需持续跟踪后续表态与数据验证节奏。欧央行官员就欧洲AI采纳进展发表评述，指向欧洲增长预期与科技产业投资趋势的结构性变化。\n\n主权基金层面，新加坡GIC领投加拿大财富管理平台Wealthsimple 4.25亿美元融资，该平台估值达138亿美元，反映头部主权基金对数字财富管理赛道的持续关注。GIC同期亦发布2025/26年度组合管理报告，全球配置策略调整方向值得细读。沙特PIF则双线推进，一方面获得意大利3亿美元信贷担保以拓展欧洲布局，另一方面与沙特阿美完成HUMAIN科技交易，主权基金加速向科技与产业方向延伸的趋势进一步明确。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -27,19 +27,6 @@
       "published_at": "2026-10-28T18:00:00Z",
       "score": 7.5,
       "summary": "美联储FOMC声明发布,影响全球资本流向和人民币汇率,对中国机构投资者配置策略具重要参考价值",
-      "type": "政策动向"
-    },
-    {
-      "title": "The Fifteenth Tripartite Governors' Meeting among PBOC, BOJ, and BOK",
-      "url": "http://www.boj.or.jp/en/intl_finance/cooperate/coop261014a.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-14T11:00:00Z",
-      "score": 7.5,
-      "summary": "中日韩三国央行第十五次三边行长会议，涉及区域金融合作与亚洲货币政策协调",
       "type": "政策动向"
     },
     {
@@ -418,19 +405,6 @@
       "score": 5.0,
       "summary": "日本央行委员讨论日本经济活动和货币政策,影响区域流动性环境和人民币汇率走势",
       "type": "高管表态"
-    },
-    {
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261009.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-14T08:00:00Z",
-      "score": 5.0,
-      "summary": "日本央行持有日债情况，反映主要央行资产配置策略与亚洲债市动向",
-      "type": "持仓变动"
     },
     {
       "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
