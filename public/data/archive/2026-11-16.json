@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-16T01:36:09.931238Z",
+  "updated_at": "2026-11-16T20:11:06.897039Z",
   "source_count": 6,
-  "digest": "近期全球资产所有者动态中，日本相关政策信号最为密集，值得重点关注。日本央行在货币政策立场上持续释放信号，涵盖债券市场小组会议、货币政策会议纪要及2026年四季度日债买入计划等多项动态，整体反映出日元利率路径仍存在不确定性。与此同时，GPIF连续披露一季度和二季度投资业绩，并发布年度受信责任报告，显示这一全球最大养老基金正在推进资产配置与治理框架的系统性调整。日元政策走向与GPIF的配置动作，将对亚太股债市场及新兴市场资本流向产生联动影响，对以亚洲资产为重要配置方向的中国机构投资者具有较强参考意义。\n\n美联储最新FOMC声明是另一关键宏观变量。在全球利率预期仍存分歧的背景下，美联储政策立场直接影响美元强弱与全球资本流向，对人民币汇率及跨境资金配置节奏均有传导效应，需持续跟踪其对中国境内外资产定价的潜在影响。\n\n主权财富基金层面，新加坡GIC年度投资组合管理报告显示其全球配置策略有所调整，同时领投加拿大数字财富管理平台4.25亿美元融资，体现出头部主权基金对金融科技赛道的战略布局兴趣。沙特PIF则双线推进，一方面获得意大利担保信贷以拓展欧洲资产，另一方面完成与阿美石油的HUMAIN科技项目交易，反映中东主权资本在科技与实体产业融合方向上的加速落子。欧央行官员对欧洲AI采纳进度的评述，亦可作为观察海外科技投资前景的辅助参考。",
+  "digest": "近期全球资产所有者动态中，日本相关机构的信号最为密集，值得重点关注。日本央行在货币政策、债券市场操作及国债持仓等多个维度均有新动作，包括发布货币政策会议纪要、召开债券市场小组会议及更新四季度日债买入计划，整体反映出BOJ在通胀与增长压力下对政策节奏的审慎把握。日元利率走向牵动亚太资产定价，对新兴市场资本流向具有传导效应，需持续跟踪。与此同时，GPIF连续披露一、二季度投资业绩及2025年受信责任报告，作为全球规模最大的养老基金，其全球资产配置调整方向对亚太股债市场具有较强的风向标意义。\n\n在主权财富基金层面，新加坡GIC发布年度投资组合管理报告，并领投加拿大数字财富管理平台融资4.25亿美元，估值达138亿美元，显示其在全球另类资产与数字金融基础设施赛道上持续加码。沙特PIF则双线推进，一方面获得意大利担保的欧洲信贷额度，另一方面完成与阿美石油的HUMAIN科技合并交易，主权基金向科技与实业融合方向扩张的趋势进一步明确。\n\n宏观政策面，美联储最新FOMC声明对全球资本流向及人民币汇率走势影响不可忽视，尤其对中国机构投资者的跨境配置节奏和汇率对冲策略构成直接参考。欧央行官员就欧洲AI采纳进程发声，亦为科技主题投资提供了来自西方监管视角的背景参照。整体来看，当前主要央行政策分化格局延续，全球资产所有者在地域配置和资产类别上的结构性调整仍在持续演进。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -225,17 +225,17 @@
       "type": "高管表态"
     },
     {
-      "title": "Christine Lagarde: IMFC Statement",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
+      "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
+      "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261116a.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
       "category": "central_bank",
       "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-17T05:00:00Z",
-      "score": 5.5,
-      "summary": "欧洲央行行长拉加德在国际货币金融委员会发表声明,涉及全球货币政策和金融稳定前景",
-      "type": "政策动向"
+      "country": "JP",
+      "published_at": "2026-11-16T04:00:00Z",
+      "score": 5.0,
+      "summary": "日本央行官员论述日本货币资本市场转型，涉及亚太金融结构变化信号",
+      "type": "高管表态"
     },
     {
       "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
@@ -365,6 +365,19 @@
       "published_at": "2026-10-22T08:00:00Z",
       "score": 5.0,
       "summary": "日本央行日债持仓管理,影响亚太债券市场流动性和跨境资本流向",
+      "type": "政策动向"
+    },
+    {
+      "title": "Highlights of the Outlook for Economic Activity and Prices (October 2026)",
+      "url": "http://www.boj.or.jp/en/mopo/outlook/highlight/ten202610.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-16T08:00:00Z",
+      "score": 4.5,
+      "summary": "日本央行发布经济活动和物价展望，影响亚太资本流动和日元走势",
       "type": "政策动向"
     },
     {
