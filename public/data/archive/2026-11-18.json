@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-18T03:20:50.454465Z",
+  "updated_at": "2026-11-18T18:45:19.109791Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向值得重点关注。美联储最新FOMC声明落地，其利率路径预期持续影响全球资本流向，对人民币汇率及中国机构跨境配置策略构成直接参考变量。与此同时，日本央行在债券市场操作、货币供应及利率政策会议纪要等多个维度密集发声，结合其持有日本国债规模数据，市场对日元进一步正常化的预期有所升温。日元政策走向历来是亚太资产配置的重要锚点，若加息节奏加快，或引发新兴市场资本流向的阶段性再平衡，需持续跟踪。\n\n资产所有者层面，全球最大养老基金GPIF本季度动态较为密集，接连公布2026财年一、二季度投资业绩及受信责任年度报告，其在全球股债的配置调整对亚太市场具有较强的风向标意义。新加坡GIC亦发布年度投资组合管理报告，并以领投方身份参与加拿大数字财富管理平台4.25亿美元融资，标的估值达138亿美元，显示主权基金对财富科技赛道的战略兴趣持续升温。\n\n中东资金动向同样不可忽视。沙特PIF一方面获得意大利担保的3亿美元欧洲信贷额度，拓展欧洲产业合作版图；另一方面与沙特阿美完成HUMAIN项目交割，加速科技领域全球布局。欧央行方面，官员除阐述货币政策沟通框架外，亦就欧洲AI采纳进展进行评述，对欧元区资产吸引力及全球科技投资趋势有一定参考价值。",
+  "digest": "近期全球主要央行政策动向较为集中，对跨境资本流动影响值得重点关注。美联储最新FOMC声明落地，其利率路径预期直接牵动人民币汇率走势及国内机构的海外配置节奏。与此同时，日本央行多项动作密集释放信号——包括货币政策会议纪要、债券市场小组会议及10月货币供应数据——整体指向日元政策正常化进程仍在推进，日元波动将持续影响亚太固收市场估值及新兴市场资本流向。欧央行则在货币政策沟通之外，专门就AI资产估值泡沫、财政失衡和地缘经济碎片化三大风险发出警示，对全球风险偏好具有一定指向意义。\n\n在全球最大机构投资者动态方面，日本GPIF连续更新一、二季度业绩及最新受信责任报告，反映其在全球资产配置上的结构性调整仍在持续，对亚太股债方向具有参考价值。新加坡GIC发布年度投资组合管理报告，同期领投加拿大数字财富管理平台融资逾四亿美元，估值接近140亿美元，显示主权基金对金融科技赛道的战略布局在提速。\n\n中东主权基金方面，沙特PIF动作频繁：一方面完成与沙特阿美的HUMAIN科技项目交割，强化全球科技投资版图；另一方面取得意大利机构担保的三亿美元信贷额度，加快欧洲资产布局。上述动向与亚洲及新兴市场的直接关联相对有限，但中东资本加速向科技和欧洲市场分流，或在边际上影响对亚洲新兴市场的资金分配。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -93,6 +93,19 @@
       "score": 6.5,
       "summary": "新加坡主权财富基金GIC 2025/26年度投资组合管理报告,涉及全球资产配置策略调整",
       "type": "持仓变动"
+    },
+    {
+      "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-11-18T09:00:00Z",
+      "score": 5.5,
+      "summary": "欧央行警示AI估值风险、财政失衡和地缘经济紧张局势威胁金融稳定,影响全球资本流向",
+      "type": "政策动向"
     },
     {
       "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
@@ -223,19 +236,6 @@
       "score": 5.5,
       "summary": "欧洲中央银行讨论证券结算、代币化和金融基础设施转型，影响全球资本流动格局",
       "type": "政策动向"
-    },
-    {
-      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-19T06:00:00Z",
-      "score": 5.5,
-      "summary": "欧央行官员阐述气候与自然风险对经济韧性和竞争力的影响，涉及全球资产配置和风险管理框架",
-      "type": "高管表态"
     },
     {
       "title": "Speech by Board Member TAKATA at a Meeting Held by the Tokushima Association of Corporate Executives (Economic Activity, Prices, and Monetary Policy in Japan: Japan's Money and Capital Market Transformation -- Will a Paradigm Shift Occur?)",
@@ -847,6 +847,19 @@
       "score": 3.8,
       "summary": "日本证券融资交易统计显示日本市场流动性状况，间接影响区域资本配置",
       "type": "市场异动"
+    },
+    {
+      "title": "Boris Vujčić: Financial Stability Review - November 2026",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-11-18T09:00:00Z",
+      "score": 3.5,
+      "summary": "欧央行金融稳定性评估报告,涉及全球宏观风险和资本配置环境变化",
+      "type": "政策动向"
     },
     {
       "title": "Agencies extend comment period for proposed third-party risk management guidance",
