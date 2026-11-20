@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T02:52:17.722922Z",
+  "updated_at": "2026-11-20T18:27:22.516247Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向值得重点关注。美联储最新FOMC声明对全球资本流向具有直接牵引作用，尤其对人民币汇率走势及中国机构投资者的跨境配置策略影响不容忽视。与此同时，日本央行延续多条线推进政策评估，包括货币政策会议纪要、债券市场小组会议及10月经济展望相继发布，日元政策路径的不确定性持续影响亚太固收市场定价和区域资本流向。欧央行则就AI资产估值泡沫、财政失衡及地缘经济紧张等金融稳定风险发出明确警示，对全球风险偏好具有参考意义。\n\n在主权及大型机构投资者的配置动向方面，日本GPIF连续披露一、二季度投资成果及2025年受信责任活动报告，作为全球最大养老金，其在全球股债资产的配置调整对亚太市场边际资金流向具有指向性意义。新加坡GIC同期发布2025/26年度投资组合管理报告，并领投加拿大数字财富管理平台完成逾4亿美元融资，显示主权基金持续向另类资产和金融科技赛道延伸布局。\n\n中东主权基金方面，沙特PIF动作频频，一方面获得意大利担保的3亿美元信贷额度以拓展欧洲资产配置，另一方面完成与阿美石油的HUMAIN科技交易，进一步强化其全球科技投资战略布局，反映海湾主权基金加快推进资产多元化和产业转型的整体取向。",
+  "digest": "近期全球资产所有者动态中，央行政策信号是影响跨境资本流向的核心变量。美联储最新FOMC声明持续牵动全球利率预期与人民币汇率走势，对国内机构的海外配置节奏及汇率对冲策略具有直接参考价值。与此同时，日本央行多项动向值得关注：其货币政策会议纪要、债券市场小组会议及10月经济展望报告共同指向日元政策路径的关键窗口期，日元潜在升值压力可能重塑亚太固收市场的资金分布，并对新兴市场资本流向形成传导。欧央行方面则明确警示AI资产估值虚高、财政失衡与地缘经济紧张三重风险，对全球风险资产定价具有一定参考意义。\n\n在主权基金与大型养老金的配置动向上，日本GPIF连续更新一季度、二季度投资业绩及2025年受信责任报告，折射出全球最大养老金在股债配置及ESG治理框架上的最新取向，对亚太股债市场具有一定的风向标意义。新加坡GIC发布年度投资组合管理报告，同期领投加拿大数字财富管理平台4.25亿美元融资，显示主权基金在全球配置趋于稳健的背景下，仍积极布局金融科技与财富管理赛道。\n\n中东主权基金方面，沙特PIF动作频频：一方面获意大利银行担保3亿美元信贷以深化欧洲布局，另一方面与阿美石油完成HUMAIN科技相关交易，进一步强化其在全球科技与能源产业链的战略卡位。上述动态整体反映出主权资本在地缘分化背景下加速多元化布局的趋势，值得持续跟踪。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -394,6 +394,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "institution": "Fed",
+      "source": "Federal Reserve Press Releases (美联储)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "US",
+      "published_at": "2026-11-20T15:00:00Z",
+      "score": 4.5,
+      "summary": "美联储调查银行高管对准备金管理策略的看法,反映流动性政策动向",
+      "type": "政策动向"
+    },
+    {
       "title": "Statement by Governor UEDA concerning the Bank's Semiannual Report on Currency and Monetary Control (Committee on Financial Affairs, Senate)",
       "url": "http://www.boj.or.jp/en/mopo/diet/d_state/dst261119a.htm",
       "institution": "BOJ",
@@ -719,19 +732,6 @@
       "type": "政策动向"
     },
     {
-      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-21T04:15:00Z",
-      "score": 4.5,
-      "summary": "欧央行副行长阐述欧元流动性安排与国际货币体系,影响全球资本流向与汇率预期",
-      "type": "高管表态"
-    },
-    {
       "title": "Isabel Schnabel: Made in Europe",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
       "institution": "ECB",
@@ -938,19 +938,6 @@
       "score": 3.5,
       "summary": "日本央行10月20日账户信息,属于常规财务披露",
       "type": "其他"
-    },
-    {
-      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-21T08:00:00Z",
-      "score": 3.5,
-      "summary": "欧央行执委讨论银行业机遇,涉及欧元区金融基础设施和银行经营环境",
-      "type": "高管表态"
     }
   ]
 }
