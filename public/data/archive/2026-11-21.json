@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-21T02:59:47.952092Z",
+  "updated_at": "2026-11-21T17:15:51.732514Z",
   "source_count": 6,
-  "digest": "近期全球主要资产所有者动态较为集中，核心关注点集中在货币政策分化与主权基金配置策略调整两条主线上。美联储最新FOMC声明落地，对全球资本流向形成阶段性锚定，人民币汇率及跨境资本流动需持续跟踪；与此同时，欧央行明确警示AI资产估值泡沫风险、财政失衡及地缘经济紧张对金融稳定构成威胁，两大央行的政策表态共同塑造了当前全球风险偏好的基准框架。\n\n日本方面信号密集，值得重点关注。日本央行接连召开债券市场小组会议并公布货币政策纪要与货币供应数据，结合其10月经济展望报告，市场对BOJ退出宽松的路径预期持续升温。日元政策走向不仅直接影响亚太固收市场的流动性环境，也将对新兴市场资本流向及人民币资产的相对吸引力产生传导效应。GPIF连续披露一季度和二季度业绩及最新受信责任报告，全球最大养老金的配置动向及ESG治理导向对亚太市场机构投资者具有较强参考意义。\n\n主权财富基金层面，新加坡GIC公布2025/26年度投资组合管理报告，同期领投加拿大数字财富管理平台融资逾4亿美元，折射出主权基金在金融科技赛道的持续布局兴趣。沙特PIF则双线推进，一方面获得意大利担保信贷以深化欧洲产业合作，另一方面完成与阿美石油的HUMAIN科技交易，显示中东主权基金正加速向科技与数字经济领域的战略转型，这一趋势对全球另类资产竞争格局具有一定参考价值。",
+  "digest": "近期全球主要央行政策动向值得重点关注。美联储最新FOMC声明持续牵动全球资本流向，对人民币汇率及中国机构投资者的跨境配置策略构成直接参考；与此同时，日本央行在货币政策会议纪要、债券市场小组会议及月度货币供应数据等多个维度释放信号，当前日元政策走向仍处于关键观察窗口，其对亚太固收市场流动性及新兴市场资本流动的传导效应不容忽视。欧央行方面则明确警示人工智能资产估值泡沫、财政失衡与地缘经济紧张三重风险对金融稳定的潜在冲击，叠加其货币政策沟通表态，欧元资产的相对吸引力或将持续承压。\n\n作为全球最大养老基金，GPIF连续披露2026财年一季度及二季度投资业绩，并发布年度受信责任活动报告，其全球资产配置调整方向及对亚太股债市场的态度，对研判国际长线资金动向具有重要参考意义。主权财富基金方面，新加坡GIC领投加拿大数字财富管理平台完成4.25亿美元融资，标的估值达138亿美元，显示主权基金持续加码金融科技赛道；沙特PIF则通过获取意大利担保信贷及推进HUMAIN科技交易双线并进，加速欧洲资产布局与全球科技生态卡位。\n\n综合来看，本期动态呈现出主要央行政策分化加剧、全球长线资金科技配置提速、亚太区域流动性环境趋于复杂等特征，值得持续跟踪其对中国及新兴市场资产定价的潜在影响。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -80,19 +80,6 @@
       "score": 6.5,
       "summary": "日本养老基金GPIF发布2025年受信责任活动报告,反映全球最大养老金的治理与投资策略调整",
       "type": "高管表态"
-    },
-    {
-      "title": "Report on the Management of the Government’s Portfolio for the Year 2025/26",
-      "url": "https://www.gic.com.sg/newsroom/reports/report-on-the-management-of-the-governments-portfolio-for-the-year-2025-26/",
-      "institution": "GIC",
-      "source": "GIC (新加坡政府投资公司)",
-      "category": "sovereign",
-      "is_firsthand": true,
-      "country": "SG",
-      "published_at": "2026-10-22T14:59:01.769389Z",
-      "score": 6.5,
-      "summary": "新加坡主权财富基金GIC 2025/26年度投资组合管理报告,涉及全球资产配置策略调整",
-      "type": "持仓变动"
     },
     {
       "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
@@ -378,19 +365,6 @@
       "published_at": "2026-10-23T06:00:00Z",
       "score": 5.0,
       "summary": "日本央行金融系统报告评估金融稳定性和政策方向,影响亚太资产流动和日元前景",
-      "type": "政策动向"
-    },
-    {
-      "title": "Japanese Government Bonds Held by the Bank of Japan",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-22T08:00:00Z",
-      "score": 5.0,
-      "summary": "日本央行日债持仓管理,影响亚太债券市场流动性和跨境资本流向",
       "type": "政策动向"
     },
     {
@@ -704,19 +678,6 @@
       "score": 4.5,
       "summary": "欧洲央行消费者预期调查显示经济信心走势,影响欧元区资产配置和全球风险偏好",
       "type": "政策动向"
-    },
-    {
-      "title": "Developments in Real Exports and Real Imports",
-      "url": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-22T07:00:00Z",
-      "score": 4.5,
-      "summary": "日本央行关于实际出口进口动向分析,反映亚太贸易周期和央行政策前景",
-      "type": "市场异动"
     },
     {
       "title": "Isabel Schnabel: Made in Europe",
