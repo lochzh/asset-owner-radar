@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-20T18:27:22.516247Z",
+  "updated_at": "2026-11-21T02:59:47.952092Z",
   "source_count": 6,
-  "digest": "近期全球资产所有者动态中，央行政策信号是影响跨境资本流向的核心变量。美联储最新FOMC声明持续牵动全球利率预期与人民币汇率走势，对国内机构的海外配置节奏及汇率对冲策略具有直接参考价值。与此同时，日本央行多项动向值得关注：其货币政策会议纪要、债券市场小组会议及10月经济展望报告共同指向日元政策路径的关键窗口期，日元潜在升值压力可能重塑亚太固收市场的资金分布，并对新兴市场资本流向形成传导。欧央行方面则明确警示AI资产估值虚高、财政失衡与地缘经济紧张三重风险，对全球风险资产定价具有一定参考意义。\n\n在主权基金与大型养老金的配置动向上，日本GPIF连续更新一季度、二季度投资业绩及2025年受信责任报告，折射出全球最大养老金在股债配置及ESG治理框架上的最新取向，对亚太股债市场具有一定的风向标意义。新加坡GIC发布年度投资组合管理报告，同期领投加拿大数字财富管理平台4.25亿美元融资，显示主权基金在全球配置趋于稳健的背景下，仍积极布局金融科技与财富管理赛道。\n\n中东主权基金方面，沙特PIF动作频频：一方面获意大利银行担保3亿美元信贷以深化欧洲布局，另一方面与阿美石油完成HUMAIN科技相关交易，进一步强化其在全球科技与能源产业链的战略卡位。上述动态整体反映出主权资本在地缘分化背景下加速多元化布局的趋势，值得持续跟踪。",
+  "digest": "近期全球主要资产所有者动态较为集中，核心关注点集中在货币政策分化与主权基金配置策略调整两条主线上。美联储最新FOMC声明落地，对全球资本流向形成阶段性锚定，人民币汇率及跨境资本流动需持续跟踪；与此同时，欧央行明确警示AI资产估值泡沫风险、财政失衡及地缘经济紧张对金融稳定构成威胁，两大央行的政策表态共同塑造了当前全球风险偏好的基准框架。\n\n日本方面信号密集，值得重点关注。日本央行接连召开债券市场小组会议并公布货币政策纪要与货币供应数据，结合其10月经济展望报告，市场对BOJ退出宽松的路径预期持续升温。日元政策走向不仅直接影响亚太固收市场的流动性环境，也将对新兴市场资本流向及人民币资产的相对吸引力产生传导效应。GPIF连续披露一季度和二季度业绩及最新受信责任报告，全球最大养老金的配置动向及ESG治理导向对亚太市场机构投资者具有较强参考意义。\n\n主权财富基金层面，新加坡GIC公布2025/26年度投资组合管理报告，同期领投加拿大数字财富管理平台融资逾4亿美元，折射出主权基金在金融科技赛道的持续布局兴趣。沙特PIF则双线推进，一方面获得意大利担保信贷以深化欧洲产业合作，另一方面完成与阿美石油的HUMAIN科技交易，显示中东主权基金正加速向科技与数字经济领域的战略转型，这一趋势对全球另类资产竞争格局具有一定参考价值。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -719,19 +719,6 @@
       "type": "市场异动"
     },
     {
-      "title": "Senior Loan Officer Opinion Survey (Oct.)",
-      "url": "http://www.boj.or.jp/en/statistics/dl/loan/loos/release/loos2610.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-21T23:50:00Z",
-      "score": 4.5,
-      "summary": "日本央行高级贷款官调查反映日本信贷政策走向，影响亚太资本流动和日元汇率",
-      "type": "政策动向"
-    },
-    {
       "title": "Isabel Schnabel: Made in Europe",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
       "institution": "ECB",
@@ -849,19 +836,6 @@
       "type": "市场异动"
     },
     {
-      "title": "Statistics on Securities Financing Transactions in Japan",
-      "url": "http://www.boj.or.jp/en/statistics/bis/repo/index.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-21T23:50:00Z",
-      "score": 3.8,
-      "summary": "日本证券融资交易统计显示日本市场流动性状况，间接影响区域资本配置",
-      "type": "市场异动"
-    },
-    {
       "title": "Monetary and Economic Studies (2026)",
       "url": "http://www.boj.or.jp/en/research/imes/mes/mes26.htm",
       "institution": "BOJ",
@@ -925,19 +899,6 @@
       "score": 3.5,
       "summary": "日本10月企业商品价格指数数据，反映日本通胀和物价动向",
       "type": "市场异动"
-    },
-    {
-      "title": "Bank of Japan Accounts (October 20)",
-      "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-22T01:00:00Z",
-      "score": 3.5,
-      "summary": "日本央行10月20日账户信息,属于常规财务披露",
-      "type": "其他"
     }
   ]
 }
