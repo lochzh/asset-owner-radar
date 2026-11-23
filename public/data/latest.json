@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T02:18:57.125729Z",
+  "updated_at": "2026-11-23T21:58:17.837494Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向值得重点关注。美联储最新FOMC声明持续牵动全球资本流向，对人民币汇率及国内机构的跨境配置策略形成直接参考约束。与此同时，日本央行多项动态密集释出，涵盖货币政策会议纪要、债券市场小组会议及10月货币供应量数据，整体信号指向日元政策立场边际调整，叠加其持有日本国债规模变化，亚太地区流动性环境或面临重新定价压力，对区域固收及汇率配置均有潜在传导效应。欧央行方面则明确警示AI资产估值泡沫、财政失衡及地缘经济紧张局势对全球金融稳定构成的多重威胁，这一判断与当前新兴市场所面临的外部风险背景高度吻合。\n\n资产所有者层面，GPIF连续披露2026财年一、二季度投资业绩及最新受信责任报告，这一全球体量最大的养老基金在亚太股债配置上的动向，对区域资产定价具有较强的参考意义。主权基金方面，新加坡GIC领投加拿大数字财富管理平台4.25亿美元融资，标的估值达138亿美元，显示头部主权基金持续加码金融科技赛道；沙特PIF则同步推进欧洲信贷融资与HUMAIN科技项目落地，在欧洲及全球科技领域的战略布局提速。上述主权基金的跨境配置动向，可为我们观察全球长期资本偏好变化提供有益参照。",
+  "digest": "近期全球主要央行政策动向值得重点关注。美联储FOMC最新声明持续牵动全球资本流向，对人民币汇率及中国机构投资者的跨境配置策略具有直接参考价值。与此同时，日本央行在货币政策、债券市场操作及经济展望等多个维度释放信号，其利率路径和日元走向将深刻影响亚太固收市场估值与新兴市场资本流动格局。欧央行方面，一方面发出AI资产高估值、财政失衡及地缘经济紧张等金融稳定风险预警，另一方面扩大分布式账本技术资产的担保品接纳范围，显示其在风险管控与政策创新两端同步推进。\n\n在主权及养老基金动态方面，日本GPIF连续更新一、二季度投资业绩，并发布年度受信责任报告，全球最大养老金的资产配置调整和治理导向对亚太及新兴市场机构具有较强的风向标意义。新加坡GIC领投加拿大数字财富管理平台4.25亿美元融资，标的估值达138亿美元，反映头部主权基金正积极布局财富科技赛道。\n\n中东主权基金亦动作频频。沙特PIF通过意大利担保获取3亿美元信贷，进一步推进欧洲资产配置；同时完成与阿美石油的HUMAIN科技项目交割，彰显其加速全球化布局、深化科技产业投资的战略意图。上述动态整体呈现出全球大型资产所有者在政策不确定性背景下，向科技、数字金融等新兴领域分散配置的趋势。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -80,6 +80,19 @@
       "score": 6.5,
       "summary": "日本养老基金GPIF发布2025年受信责任活动报告,反映全球最大养老金的治理与投资策略调整",
       "type": "高管表态"
+    },
+    {
+      "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-11-23T10:00:00Z",
+      "score": 5.5,
+      "summary": "ECB扩大分布式账本技术资产作为担保品范围,反映央行政策创新方向和未来资产接纳标准演变",
+      "type": "政策动向"
     },
     {
       "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
@@ -353,6 +366,19 @@
       "score": 5.0,
       "summary": "日本央行2026年10月ETF减持步伐调整，涉及日股流动性和估值",
       "type": "持仓变动"
+    },
+    {
+      "title": "Philip R. Lane: Climate change and monetary policy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
+      "institution": "ECB",
+      "source": "European Central Bank (欧洲央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "EU",
+      "published_at": "2026-11-23T14:30:00Z",
+      "score": 4.5,
+      "summary": "ECB官员阐述气候变化与货币政策关系,影响全球资产配置和绿色投资导向",
+      "type": "高管表态"
     },
     {
       "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
@@ -639,19 +665,6 @@
       "score": 4.5,
       "summary": "欧央行调查显示企业融资条件趋紧，反映全球信贷环境变化对资本配置的影响",
       "type": "政策动向"
-    },
-    {
-      "title": "Piero Cipollone: Interview with Milano Finanza",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-24T06:00:00Z",
-      "score": 4.5,
-      "summary": "欧洲央行官员接受采访，涉及货币政策立场和经济前景评论，影响全球资本流向和新兴市场配置",
-      "type": "高管表态"
     },
     {
       "title": "Isabel Schnabel: Made in Europe",
