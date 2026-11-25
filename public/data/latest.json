@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-24T20:34:12.932108Z",
+  "updated_at": "2026-11-25T04:47:45.661455Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向值得重点关注。美联储FOMC声明及10月贴现率会议纪要相继发布，当前货币政策立场对全球资本流向具有直接牵引作用，尤其对人民币汇率走势及中国机构的跨境配置策略构成重要参考背景。欧央行方面，一方面发出警示，指出AI资产估值泡沫、财政失衡及地缘经济紧张局势是当前金融稳定的主要威胁；另一方面推进将分布式账本技术资产纳入合格担保品范围，显示主要央行在数字资产接纳标准上的政策边界正在演变。\n\n亚太区政策与机构动态同样密集。日本央行近期密集披露信息，涵盖货币政策会议纪要、债券市场小组会议、货币供应量数据及国债持仓规模，整体指向日元政策正处于关键观察窗口期，其利率路径将对亚太固收市场及新兴市场资本流向产生连锁影响。作为全球最大养老基金，GPIF连续披露2026财年一季度和二季度投资业绩及最新受信责任报告，其全球资产配置调整方向对亚太股债走势具有一定风向标意义。\n\n主权财富基金层面，新加坡GIC领投加拿大财富管理平台Wealthsimple 4.25亿美元融资，该平台估值达138亿美元，体现亚洲主权基金持续布局数字财富管理赛道的战略取向。沙特PIF则通过获取意大利担保信贷额度拓展欧洲资产配置，中东主权资金的多元化地域布局仍在推进。",
+  "digest": "近期全球主要央行政策动向值得重点关注。美联储FOMC声明及10月贴现率会议纪要相继发布，当前货币政策立场持续影响全球资本流向，对人民币汇率及中国机构跨境配置策略具有直接参考意义。与此同时，欧央行发出多重预警，明确指出AI资产估值泡沫、主要经济体财政失衡及地缘经济紧张局势是当前金融稳定的主要威胁；欧央行同步扩大分布式账本技术资产的担保品接纳范围，释放出传统央行对新兴资产类别态度渐趋开放的信号。\n\n日本方面动态尤为密集，对亚太配置环境影响不可忽视。日本央行发布10月经济与物价展望报告，并召开债券市场小组会议，结合其货币政策会议纪要及持续高位的国债持仓数据，市场对BOJ政策正常化节奏的预期仍存分歧。日元走势的不确定性将持续牵动亚太固收市场及新兴市场资本流向。GPIF方面，连续披露2026财年一季度和二季度投资业绩，并发布年度受信责任报告，全球最大养老金的配置调整方向及ESG治理导向值得跟踪。\n\n主权财富基金层面，新加坡GIC领投加拿大数字财富管理平台融资4.25亿美元、估值达138亿美元，体现亚洲主权基金加速布局数字金融基础设施的趋势；沙特PIF获意大利担保3亿美元信贷，进一步深化其欧洲战略资产布局。上述动向共同反映出全球大型资产所有者在当前宏观不确定性背景下，正积极寻求跨地域、跨资产类别的多元化配置路径。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -381,6 +381,19 @@
       "type": "持仓变动"
     },
     {
+      "title": "Bank of Japan Accounts (November 20)",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261120.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-25T01:00:00Z",
+      "score": 4.5,
+      "summary": "日本央行资产负债表数据,反映其货币政策立场和资产配置,影响区域流动性和汇率",
+      "type": "政策动向"
+    },
+    {
       "title": "Philip R. Lane: Climate change and monetary policy",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261123~b5816801a0.en.pdf",
       "institution": "ECB",
@@ -680,6 +693,19 @@
       "type": "政策动向"
     },
     {
+      "title": "Average Contract Interest Rates on Loans and Discounts (Sept.)",
+      "url": "http://www.boj.or.jp/en/statistics/dl/loan/yaku/yaku2609.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-24T23:50:00Z",
+      "score": 4.0,
+      "summary": "日本央行贷款平均利率数据,显示日本融资成本变化,对亚太资本流动有参考意义",
+      "type": "市场异动"
+    },
+    {
       "title": "Boris Vujčić: Resilience in an age of shocks: lessons from central and eastern Europe",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261124~17928e5456.en.html",
       "institution": "ECB",
@@ -807,6 +833,19 @@
       "published_at": "2026-10-26T23:50:00Z",
       "score": 4.0,
       "summary": "日本央行9月服务业生产者物价指数数据,影响日元走势与亚洲资本流向",
+      "type": "市场异动"
+    },
+    {
+      "title": "Services Producer Price Index (Oct.)",
+      "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2610.pdf",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-24T23:50:00Z",
+      "score": 3.5,
+      "summary": "日本服务业生产者价格指数,反映日本通胀压力和经济活动,关系央行政策前景",
       "type": "市场异动"
     },
     {
