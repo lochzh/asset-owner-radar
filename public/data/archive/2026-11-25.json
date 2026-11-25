@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T04:47:45.661455Z",
+  "updated_at": "2026-11-25T19:51:33.635553Z",
   "source_count": 6,
-  "digest": "近期全球主要央行政策动向值得重点关注。美联储FOMC声明及10月贴现率会议纪要相继发布，当前货币政策立场持续影响全球资本流向，对人民币汇率及中国机构跨境配置策略具有直接参考意义。与此同时，欧央行发出多重预警，明确指出AI资产估值泡沫、主要经济体财政失衡及地缘经济紧张局势是当前金融稳定的主要威胁；欧央行同步扩大分布式账本技术资产的担保品接纳范围，释放出传统央行对新兴资产类别态度渐趋开放的信号。\n\n日本方面动态尤为密集，对亚太配置环境影响不可忽视。日本央行发布10月经济与物价展望报告，并召开债券市场小组会议，结合其货币政策会议纪要及持续高位的国债持仓数据，市场对BOJ政策正常化节奏的预期仍存分歧。日元走势的不确定性将持续牵动亚太固收市场及新兴市场资本流向。GPIF方面，连续披露2026财年一季度和二季度投资业绩，并发布年度受信责任报告，全球最大养老金的配置调整方向及ESG治理导向值得跟踪。\n\n主权财富基金层面，新加坡GIC领投加拿大数字财富管理平台融资4.25亿美元、估值达138亿美元，体现亚洲主权基金加速布局数字金融基础设施的趋势；沙特PIF获意大利担保3亿美元信贷，进一步深化其欧洲战略资产布局。上述动向共同反映出全球大型资产所有者在当前宏观不确定性背景下，正积极寻求跨地域、跨资产类别的多元化配置路径。",
+  "digest": "近期全球主要央行与机构投资者动态较为密集，宏观政策层面值得重点关注。美联储方面，FOMC声明及10月贴现率会议纪要相继发布，当前货币政策立场对全球资本流向具有较强牵引作用，尤其对人民币汇率走势及中国机构的跨境配置策略形成直接参考。与此同时，欧央行发出明确风险预警，指出AI资产估值虚高、财政失衡与地缘经济紧张局势是当前金融稳定的主要威胁，并同步推进将分布式账本技术资产纳入担保品范围，政策创新与风险警示并行，值得持续跟踪。\n\n亚太地区政策信号同样不容忽视。日本央行近期动作频繁，10月经济与物价展望报告、货币政策会议纪要及债券市场小组会议接连落地，结合其国债持仓规模及货币供应量数据，整体显示日元政策正处于微妙调整窗口期，对亚太固收市场及新兴市场资本流向的潜在扰动需保持警惕。GPIF方面，连续披露2026财年一季度和二季度业绩，并发布年度受信责任报告，全球最大养老基金在资产配置与ESG治理方面的动向，对亚太乃至中国市场的资金流向具有一定指示意义。\n\n主权财富基金层面，沙特PIF获标普A+评级（稳定展望），信用资质的提升将进一步增强其全球资产配置能力，中东资本在亚洲市场的潜在布局值得关注。新加坡GIC则领投加拿大数字财富管理平台4.25亿美元融资，估值达138亿美元，反映头部主权基金正积极布局财富科技赛道，这一趋势在全球机构投资者中具有一定的示范效应。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -28,6 +28,19 @@
       "score": 7.5,
       "summary": "美联储FOMC声明发布,影响全球资本流向和人民币汇率,对中国机构投资者配置策略具重要参考价值",
       "type": "政策动向"
+    },
+    {
+      "title": "PIF assigned inaugural A+ long-term credit rating from S&P with stable outlook",
+      "url": "https://www.pif.gov.sa/en/news-and-insights/press-releases/2026/pif-assigned-inaugural-a-long-term-credit-rating-from-s-p-with-stable-outlook/",
+      "institution": "PIF",
+      "source": "Public Investment Fund (沙特PIF)",
+      "category": "sovereign",
+      "is_firsthand": true,
+      "country": "SA",
+      "published_at": "2026-11-25T19:50:47.419955Z",
+      "score": 6.5,
+      "summary": "沙特PIF获标普A+评级，稳定展望。反映主权财富基金信用状况和全球资本配置能力",
+      "type": "高管表态"
     },
     {
       "title": "Investment results for 2Q of fiscal 2026(update report) PDF:429KB",
@@ -249,6 +262,19 @@
       "score": 5.5,
       "summary": "欧洲中央银行讨论证券结算、代币化和金融基础设施转型，影响全球资本流动格局",
       "type": "政策动向"
+    },
+    {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "url": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261120.xlsx",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-25T08:00:00Z",
+      "score": 5.0,
+      "summary": "日本央行持有的国债规模数据。反映主要央行资产配置和货币政策姿态",
+      "type": "持仓变动"
     },
     {
       "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
@@ -680,16 +706,16 @@
       "type": "政策动向"
     },
     {
-      "title": "Survey on the Access to Finance of Enterprises: lending conditions tightened",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261026~bde7b6d11a.en.html",
+      "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
       "institution": "ECB",
       "source": "European Central Bank (欧洲央行)",
       "category": "central_bank",
       "is_firsthand": true,
       "country": "EU",
-      "published_at": "2026-10-26T09:00:00Z",
-      "score": 4.5,
-      "summary": "欧央行调查显示企业融资条件趋紧，反映全球信贷环境变化对资本配置的影响",
+      "published_at": "2026-11-25T17:30:00Z",
+      "score": 4.0,
+      "summary": "欧央行与瑞典央行就支付系统协议达成一致，涉及欧元区金融基础设施",
       "type": "政策动向"
     },
     {
