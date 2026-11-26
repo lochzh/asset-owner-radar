@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-25T19:51:33.635553Z",
+  "updated_at": "2026-11-26T03:58:35.859085Z",
   "source_count": 6,
-  "digest": "近期全球主要央行与机构投资者动态较为密集，宏观政策层面值得重点关注。美联储方面，FOMC声明及10月贴现率会议纪要相继发布，当前货币政策立场对全球资本流向具有较强牵引作用，尤其对人民币汇率走势及中国机构的跨境配置策略形成直接参考。与此同时，欧央行发出明确风险预警，指出AI资产估值虚高、财政失衡与地缘经济紧张局势是当前金融稳定的主要威胁，并同步推进将分布式账本技术资产纳入担保品范围，政策创新与风险警示并行，值得持续跟踪。\n\n亚太地区政策信号同样不容忽视。日本央行近期动作频繁，10月经济与物价展望报告、货币政策会议纪要及债券市场小组会议接连落地，结合其国债持仓规模及货币供应量数据，整体显示日元政策正处于微妙调整窗口期，对亚太固收市场及新兴市场资本流向的潜在扰动需保持警惕。GPIF方面，连续披露2026财年一季度和二季度业绩，并发布年度受信责任报告，全球最大养老基金在资产配置与ESG治理方面的动向，对亚太乃至中国市场的资金流向具有一定指示意义。\n\n主权财富基金层面，沙特PIF获标普A+评级（稳定展望），信用资质的提升将进一步增强其全球资产配置能力，中东资本在亚洲市场的潜在布局值得关注。新加坡GIC则领投加拿大数字财富管理平台4.25亿美元融资，估值达138亿美元，反映头部主权基金正积极布局财富科技赛道，这一趋势在全球机构投资者中具有一定的示范效应。",
+  "digest": "近期全球主要央行政策动向值得重点关注。美联储FOMC声明及10月贴现率会议纪要相继发布，货币政策立场对全球资本流向及人民币汇率走势具有直接传导效应，需持续跟踪其对中国跨境资金面的影响。与此同时，欧央行发出多重信号：一方面警示AI估值泡沫、财政失衡及地缘经济紧张对金融稳定构成威胁；另一方面宣布扩大分布式账本技术资产的担保品范围，显示其在政策审慎与技术创新之间的双重布局。日本央行方面，多项数据与会议纪要密集披露，包括货币供应量、国债持仓规模及债券市场小组会议结果，日元政策走向仍存不确定性，将持续影响亚太固收市场流动性及新兴市场资本流动格局。\n\n主权财富基金层面，沙特PIF近期动作频繁。标普给予其A+评级并维持稳定展望，信用背书进一步强化其全球配置能力；与此同时，PIF获得意大利担保的3亿美元信贷额度，欧洲布局步伐有所加快。新加坡GIC则领投加拿大数字财富管理平台融资4.25亿美元，该平台估值达138亿美元，反映头部主权基金对财富科技赛道的战略性关注。日本GPIF连续披露2026财年一季度及二季度投资成果，其全球资产配置调整方向及亚太股债表现，可作为观察外资机构对本地区资产态度的重要参考窗口。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -80,19 +80,6 @@
       "score": 6.5,
       "summary": "新加坡GIC领投加拿大财富管理平台融资4.25亿美元,估值138亿美元,反映主权基金对数字财富管理赛道布局",
       "type": "持仓变动"
-    },
-    {
-      "title": "GPIF's Stewardship Activities Report 2025 PDF:3.0MB",
-      "url": "https://www.gpif.go.jp/en/investment/Stewardship_Activities_Report_2025-2026.pdf",
-      "institution": "GPIF",
-      "source": "GPIF (日本政府养老金)",
-      "category": "pension",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-27T01:11:47.371664Z",
-      "score": 6.5,
-      "summary": "日本养老基金GPIF发布2025年受信责任活动报告,反映全球最大养老金的治理与投资策略调整",
-      "type": "高管表态"
     },
     {
       "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
@@ -407,6 +394,19 @@
       "type": "持仓变动"
     },
     {
+      "title": "Speech by Board Member TAMURA in Yamanashi (Economic Activity, Prices, and Monetary Policy in Japan)",
+      "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261126a.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
+      "is_firsthand": true,
+      "country": "JP",
+      "published_at": "2026-11-26T01:00:00Z",
+      "score": 4.5,
+      "summary": "日本央行董事田村关于日本经济活动、物价和货币政策的演讲",
+      "type": "高管表态"
+    },
+    {
       "title": "Bank of Japan Accounts (November 20)",
       "url": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261120.htm",
       "institution": "BOJ",
@@ -693,19 +693,6 @@
       "type": "高管表态"
     },
     {
-      "title": "October 2026 euro area bank lending survey",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261027~506ef03145.en.html",
-      "institution": "ECB",
-      "source": "European Central Bank (欧洲央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "EU",
-      "published_at": "2026-10-27T00:00:00Z",
-      "score": 4.5,
-      "summary": "欧元区银行借贷调查反映货币政策传导机制,影响全球流动性和资本配置方向",
-      "type": "政策动向"
-    },
-    {
       "title": "ECB and Sveriges Riksbank conclude agreement for Sweden to join T2",
       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261125_1~6333a90f3a.en.html",
       "institution": "ECB",
@@ -847,19 +834,6 @@
       "score": 4.0,
       "summary": "欧洲中央银行货币政策决议，影响全球利率环境和新兴市场资本流向",
       "type": "政策动向"
-    },
-    {
-      "title": "Services Producer Price Index (Sept.)",
-      "url": "http://www.boj.or.jp/en/statistics/pi/cspi_release/sppi2609.pdf",
-      "institution": "BOJ",
-      "source": "Bank of Japan (日本央行)",
-      "category": "central_bank",
-      "is_firsthand": true,
-      "country": "JP",
-      "published_at": "2026-10-26T23:50:00Z",
-      "score": 4.0,
-      "summary": "日本央行9月服务业生产者物价指数数据,影响日元走势与亚洲资本流向",
-      "type": "市场异动"
     },
     {
       "title": "Services Producer Price Index (Oct.)",
