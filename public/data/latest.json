@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-26T19:28:52.798184Z",
-  "source_count": 6,
-  "digest": "近期全球主要央行政策动向值得重点关注。美联储FOMC声明及10月贴现率会议纪要相继发布，当前货币政策立场对全球资本流向具有直接传导效应，人民币汇率及中国机构境外配置节奏均需持续跟踪。与此同时，日本央行密集释放政策信号，涵盖货币供应量数据、债券市场小组会议及货币政策会议纪要，日元政策走向的边际变化将对亚太固收市场及新兴市场资本流动产生连锁影响，需结合GPIF连续两个季度公布的资产配置与业绩数据一并研判。欧央行方面，一方面明确警示AI资产估值虚高、财政失衡及地缘经济紧张对金融稳定构成的潜在威胁，另一方面推进将分布式账本技术资产纳入担保品范围，政策立场兼具审慎与创新。\n\n主权财富基金层面亦有新进展。沙特PIF获标普A+信用评级，稳定展望，显示其资产负债表持续夯实，全球配置能力进一步增强；与此同时，PIF还获得意大利担保的3亿美元信贷额度，欧洲布局步伐加快。新加坡GIC领投加拿大数字财富管理平台融资4.25亿美元，该平台估值达138亿美元，反映头部主权基金对财富科技赛道保持积极布局态度。上述动态整体表明，全球资产所有者在政策不确定性上升背景下，正兼顾信用质量与新兴业态配置，亚太及新兴市场相关资产流向仍是观察重点。",
+  "updated_at": "2026-11-27T03:57:24.031357Z",
+  "source_count": 5,
+  "digest": "近期全球主要央行与主权机构动向密集，对亚太及新兴市场资产配置具有较强参考意义。美联储方面，FOMC声明与10月贴现率会议纪要相继落地，当前货币政策立场仍具较强外溢效应，直接影响美元强弱与全球资本流向，对人民币汇率及中国机构跨境配置策略均构成重要背景变量。与此同时，欧央行发出多项警示，明确指出AI资产估值泡沫风险、主要经济体财政失衡以及地缘经济分裂压力正在威胁全球金融稳定，这一表态与当前新兴市场所面临的外部环境高度契合，值得持续关注。\n\n亚太政策端，日本央行动作频繁，连续召开债券市场小组会议并公布货币供应量及国债持仓数据，结合其10月经济与物价展望报告，市场对日元政策路径预期仍存分歧。日元走势对亚太固收市场及新兴市场资本流向的潜在扰动不可忽视。GPIF公布2026财年一季度及二季度投资成果，作为全球最大养老基金，其全球资产配置取向历来对机构资金流向有一定示范效应，相关数据值得跟踪研判。\n\n主权财富基金层面，沙特PIF获标普A+稳定展望评级，信用背书进一步巩固其全球配置能力；同期PIF获意大利担保3亿美元信贷，显示其欧洲布局步伐加快。此外，欧央行宣布扩大分布式账本技术资产担保品范围，日本央行官员亦在IMF研讨会就数字货币与支付系统发表演讲，两大央行政策创新动向预示全球金融基础设施变革提速，或对未来资产类别认定与跨境资金结算产生深远影响。",
   "items": [
     {
       "title": "Investment results for 1Q of fiscal 2026(update report) PDF:422KB",
@@ -69,17 +69,17 @@
       "type": "政策动向"
     },
     {
-      "title": "Wealthsimple raises $425 million led by GIC at $13.8 billion valuation to accelerate growth",
-      "url": "https://www.gic.com.sg/newsroom/all/wealthsimple-raises-425-million-led-by-gic-at-13-8-billion-valuation-to-accelerate-growth/",
-      "institution": "GIC",
-      "source": "GIC (新加坡政府投资公司)",
-      "category": "sovereign",
+      "title": "Keynote speech by Executive Director KAMIYAMA at the IMF MCM-OAP Seminar in Tokyo (Digital Money and Payments: Transitioning Toward a New Paradigm)",
+      "url": "http://www.boj.or.jp/en/about/press/koen_2026/ko261127a.htm",
+      "institution": "BOJ",
+      "source": "Bank of Japan (日本央行)",
+      "category": "central_bank",
       "is_firsthand": true,
-      "country": "SG",
-      "published_at": "2026-10-28T00:59:13.118116Z",
-      "score": 6.5,
-      "summary": "新加坡GIC领投加拿大财富管理平台融资4.25亿美元,估值138亿美元,反映主权基金对数字财富管理赛道布局",
-      "type": "持仓变动"
+      "country": "JP",
+      "published_at": "2026-11-27T01:15:00Z",
+      "score": 5.5,
+      "summary": "日本央行高管在IMF研讨会发表数字货币与支付系统演讲,涉及全球金融基础设施转变",
+      "type": "高管表态"
     },
     {
       "title": "Minutes of the Board's discount rate meetings on October 19 and October 28, 2026",
